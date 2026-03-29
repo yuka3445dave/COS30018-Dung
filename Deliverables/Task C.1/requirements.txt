@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+tensorflow
+yfinance
+mplfinance
+scikit-learn
+notebook
+ipykernel
