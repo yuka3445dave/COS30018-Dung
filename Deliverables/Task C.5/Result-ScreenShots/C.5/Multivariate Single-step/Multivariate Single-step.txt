@@ -1,0 +1,126 @@
+Microsoft Windows [Version 10.0.26200.8037]
+(c) Microsoft Corporation. All rights reserved.
+
+(base) C:\Users\PC>conda activate COS30018
+
+(COS30018) C:\Users\PC>cd /d C:\Users\PC\cos30018
+
+(COS30018) C:\Users\PC\cos30018>python stock_prediction_taskC.5.py
+2026-03-29 15:41:41.682528: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-03-29 15:41:43.841134: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Dataset range: 2020-01-01 → 2024-07-02
+Split method used: date
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+NaN before: 0
+NaN after : 0
+[Split=date] X_train=(846, 60, 5), X_test=(230, 60, 5)
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+NaN before: 0
+NaN after : 0
+[Split=ratio] X_train=(849, 60, 5), X_test=(227, 60, 5)
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+NaN before: 0
+NaN after : 0
+[Split=random] X_train=(861, 60, 5), X_test=(216, 60, 5)
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+NaN before: 0
+NaN after : 0
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+Warning: 'Adj Close' not found in data; using 'Close' as proxy for 'Adj Close'.
+NaN before: 0
+NaN after : 0
+Task5 mode: multivariate
+x_train shape: (846, 60, 6)
+y_train shape: (846,)
+Raw df shape: (1137, 5)
+Clean df shape: (1137, 6)
+Train/Test samples: 846 230
+X_train shape (samples, lookback, n_features): (846, 60, 6)
+Scaler keys: ['feature_scaler', 'target_scaler', 'feature_columns', 'target_column']
+Feature columns: ['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']
+Target column: Close
+2026-03-29 15:41:45.257610: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized touse available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlowwith the appropriate compiler flags.
+D:\anaconda3\envs\COS30018\lib\site-packages\keras\src\layers\rnn\rnn.py:199: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layerin the model instead.
+  super().__init__(**kwargs)
+Model type: GRU
+Model: "GRU_3layers"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ gru (GRU)                            │ (None, 60, 50)              │           8,700 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ gru_1 (GRU)                          │ (None, 60, 50)              │          15,300 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ gru_2 (GRU)                          │ (None, 50)                  │          15,300 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_2 (Dropout)                  │ (None, 50)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 1)                   │              51 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 39,351 (153.71 KB)
+ Trainable params: 39,351 (153.71 KB)
+ Non-trainable params: 0 (0.00 B)
+Epoch 1/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 3s 32ms/step - loss: 0.0947
+Epoch 2/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0266
+Epoch 3/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0161
+Epoch 4/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0114
+Epoch 5/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0098
+Epoch 6/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 33ms/step - loss: 0.0097
+Epoch 7/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0080
+Epoch 8/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0076
+Epoch 9/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 35ms/step - loss: 0.0077
+Epoch 10/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 35ms/step - loss: 0.0069
+Epoch 11/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0067
+Epoch 12/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 33ms/step - loss: 0.0062
+Epoch 13/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0068
+Epoch 14/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0054
+Epoch 15/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 42ms/step - loss: 0.0060
+Epoch 16/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0064
+Epoch 17/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 38ms/step - loss: 0.0055
+Epoch 18/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 35ms/step - loss: 0.0049
+Epoch 19/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 40ms/step - loss: 0.0053
+Epoch 20/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 36ms/step - loss: 0.0055
+Epoch 21/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0058
+Epoch 22/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 33ms/step - loss: 0.0049
+Epoch 23/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 36ms/step - loss: 0.0054
+Epoch 24/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 1s 47ms/step - loss: 0.0053
+Epoch 25/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0052
+Train time (sec): 15.16313369999989
+8/8 ━━━━━━━━━━━━━━━━━━━━ 1s 44ms/step
+Test MAE: 2.8344562364661154
+Test MSE: 11.813147154279582
+Test RMSE: 3.4370259170218054
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 36ms/step
+Next-day prediction for CBA.AX: 113.85897827148438
+
+(COS30018) C:\Users\PC\cos30018>

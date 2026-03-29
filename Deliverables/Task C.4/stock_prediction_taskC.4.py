@@ -2,27 +2,6 @@
 # Authors: Bao Vo and Cheong Koo
 # Date: 14/07/2021(v1); 19/07/2021 (v2); 02/07/2024 (v3)
 #
-# Task C.2 (Data Processing 1) modifications by student:
-# - Added a reusable data loading + preprocessing function that supports:
-#   (a) start/end date for the whole dataset
-#   (b) NaN handling strategies
-#   (c) multiple split methods (ratio / date / random)
-#   (d) local caching (save/load CSV)
-#   (e) multi-feature scaling + storing scalers for future inverse_transform
-#
-# IMPORTANT:
-# This file keeps the overall structure/style of v0.1, but replaces the
-# old "Close-only" preparation with a multi-feature pipeline.
-
-# Need to install the following (best in a virtual env):
-# pip install numpy
-# pip install matplotlib
-# pip install pandas
-# pip install tensorflow
-# pip install scikit-learn
-# pip install pandas-datareader
-# pip install yfinance
-# pip install statsmodels  # (not needed for Task C.2)
 
 import os
 import re
@@ -32,10 +11,12 @@ import pandas as pd
 import datetime as dt
 import tensorflow as tf
 import mplfinance as mpf
+import time
 
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout, LSTM
+from tensorflow.keras.layers import Dense, Dropout, LSTM, GRU, SimpleRNN
 
 import yfinance as yf
 
@@ -425,10 +406,89 @@ def load_and_process_multi_feature_dataset(
     }
 
     return X_train, y_train, X_test, y_test, scalers, df_raw, df_clean, test_target_dates
-    
+
+
+from typing import List, Union, Optional
+
+def build_recurrent_model(
+    layer_name: str,
+    input_shape: tuple,
+    num_layers: int = 3,
+    units: Union[int, List[int]] = 50,
+    dropout: float = 0.2,
+    dense_units: int = 1,
+    optimizer: str = "adam",
+    loss: str = "mean_squared_error",
+):
+    """
+    Task C.4 (v0.3): Build a DL model dynamically instead of manually stacking layers.
+
+    Parameters
+    ----------
+    layer_name : str
+        Type of recurrent layer to use: "LSTM", "GRU", or "RNN" (SimpleRNN).
+    input_shape : tuple
+        Shape of one input sample: (lookback_days, n_features).
+        Example: (60, 5) when using OHLCV features.
+    num_layers : int
+        Number of recurrent layers in the network.
+    units : int or List[int]
+        - If int: use the same units for all recurrent layers.
+        - If list: units[i] is used for layer i (length must match num_layers).
+    dropout : float
+        Dropout rate after each recurrent layer to reduce overfitting.
+    dense_units : int
+        Output size. For single-step price regression, use 1.
+    optimizer, loss : str
+        Compile settings.
+
+    Key design detail (important for explaining in report)
+    ------------------------------------------------------
+    For stacked recurrent networks:
+    - return_sequences=True for all layers EXCEPT the last recurrent layer.
+      This keeps the sequence output so the next recurrent layer can process it.
+    """
+    # Map user-friendly name -> Keras layer class
+    name = layer_name.upper()
+    layer_map = {
+        "LSTM": LSTM,
+        "GRU": GRU,
+        "RNN": SimpleRNN,
+        "SIMPLERNN": SimpleRNN,
+    }
+    if name not in layer_map:
+        raise ValueError("layer_name must be one of: LSTM, GRU, RNN (SimpleRNN)")
+
+    RNNLayer = layer_map[name]
+
+    # Normalize units into a list
+    if isinstance(units, int):
+        units_list = [units] * num_layers
+    else:
+        units_list = list(units)
+        if len(units_list) != num_layers:
+            raise ValueError("If units is a list, its length must equal num_layers.")
+
+    model = Sequential(name=f"{name}_{num_layers}layers")
+
+    for i in range(num_layers):
+        return_seq = (i < num_layers - 1)  # True except last recurrent layer
+
+        if i == 0:
+            model.add(RNNLayer(units=units_list[i], return_sequences=return_seq, input_shape=input_shape))
+        else:
+            model.add(RNNLayer(units=units_list[i], return_sequences=return_seq))
+
+        if dropout and dropout > 0:
+            model.add(Dropout(dropout))
+
+    # Final output for regression (next-day price)
+    model.add(Dense(dense_units))
+    model.compile(optimizer=optimizer, loss=loss)
+    return model
 
 # ------------------------------------------------------------------------------
-# Main program (keeps v0.1 style; uses new Task C.2 loader)
+# Main program 
 # ------------------------------------------------------------------------------
 
 COMPANY = "CBA.AX"
@@ -513,24 +573,39 @@ print('Target column:', scalers['target_column'])
 
 
 # ------------------------------------------------------------------------------
-# Build the Model (same as v0.1 except input shape uses n_features)
+# Build the Model (Task C.4 v0.3)
 # ------------------------------------------------------------------------------
 
-model = Sequential()
-
-# Input shape is now (lookback_days, n_features) rather than (lookback_days, 1)
 n_features = x_train.shape[2]
-model.add(LSTM(units=50, return_sequences=True, input_shape=(PREDICTION_DAYS, n_features)))
-model.add(Dropout(0.2))
+input_shape = (PREDICTION_DAYS, n_features)
 
-model.add(LSTM(units=50, return_sequences=True))
-model.add(Dropout(0.2))
+MODEL_TYPE = "GRU"          # try: "LSTM", "GRU", "RNN"
+NUM_LAYERS = 3
+UNITS = [50, 50, 50]         # or just 50
+DROPOUT = 0.2
 
-model.add(LSTM(units=50))
-model.add(Dropout(0.2))
 
-model.add(Dense(units=1))
-model.compile(optimizer="adam", loss="mean_squared_error")
+
+
+
+# n_features = x_train.shape[2]
+# input_shape = (PREDICTION_DAYS, n_features)
+
+
+
+model = build_recurrent_model(
+    layer_name=MODEL_TYPE,
+    input_shape=input_shape,
+    num_layers=NUM_LAYERS,
+    units=UNITS,
+    dropout=DROPOUT,
+    dense_units=1,
+    optimizer="adam",
+    loss="mean_squared_error"
+)
+
+print("Model type:", MODEL_TYPE)
+model.summary()
 
 # -----------------------------
 # Task C.3 Visualizations (v0.2)
@@ -544,20 +619,35 @@ plot_candlestick_chart(df_raw, company=COMPANY, last_n_candles=60, n_days_per_ca
 plot_moving_window_boxplot(df_raw, price_column="Close", window_size=20, step=5, company=COMPANY,
                            save_path="moving_window_boxplot.png")
 
-# Train model
-model.fit(x_train, y_train, epochs=25, batch_size=32)
+# -----------------------------
+# Training (timed) - Task C.4 experiments
+# -----------------------------
+EPOCHS = 25
+BATCH_SIZE = 64
 
-# ------------------------------------------------------------------------------
-# Test the model accuracy on existing data (Task C.2 processed test set)
-# ------------------------------------------------------------------------------
+t0 = time.perf_counter()
+history = model.fit(x_train, y_train, epochs=EPOCHS, batch_size=BATCH_SIZE, verbose=1)
+train_time = time.perf_counter() - t0
+print("Train time (sec):", train_time)
 
+# -----------------------------
+# Test evaluation (MAE/MSE/RMSE)
+# -----------------------------
 predicted_scaled = model.predict(x_test)
 
-# Inverse transform predictions back to real prices
-# This is why we stored target_scaler in a dict (Requirement e)
 target_scaler = scalers["target_scaler"]
 predicted_prices = target_scaler.inverse_transform(predicted_scaled).reshape(-1)
 
+# Define actual_prices BEFORE using it in MAE/MSE
+actual_prices = df_clean.loc[test_dates, TARGET_COLUMN].values.reshape(-1)
+
+mae = mean_absolute_error(actual_prices, predicted_prices)
+mse = mean_squared_error(actual_prices, predicted_prices)
+rmse = np.sqrt(mse)
+
+print("Test MAE:", mae)
+print("Test MSE:", mse)
+print("Test RMSE:", rmse)
 # Get the actual prices for the same test targets (aligned with test_dates)
 # NOTE: y_test contains scaled targets; we rebuild actual values from df_clean.
 # The first test target date corresponds to row position >= PREDICTION_DAYS.
@@ -566,7 +656,7 @@ actual_prices = df_clean.loc[test_dates, TARGET_COLUMN].values.reshape(-1)
 # Plot predictions vs actual
 plt.plot(actual_prices, color="black", label=f"Actual {COMPANY} Price")
 plt.plot(predicted_prices, color="green", label=f"Predicted {COMPANY} Price")
-plt.title(f"{COMPANY} Share Price (Multi-feature LSTM)")
+plt.title(f"{COMPANY} Share Price (Multi-feature {MODEL_TYPE})")
 plt.xlabel("Time (test index)")
 plt.ylabel("Price")
 plt.legend()
@@ -590,3 +680,6 @@ real_data = np.array([last_window_scaled])  # shape: (1, lookback, n_features)
 next_scaled = model.predict(real_data)
 next_price = target_scaler.inverse_transform(next_scaled)
 print(f"Next-day prediction for {COMPANY}: {next_price}")
+print("Test MAE:", mae)
+print("Test MSE:", mse)
+print("Test RMSE:", rmse)
