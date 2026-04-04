@@ -1,0 +1,2564 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Highland Opportunities and Income Fund (HFRO) Sustains Monthly Distribution Amidst Evolving Market Landscape",
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-1-highland-opportunities-and-income-fund-hfro-sustains-monthly-distribution-amidst-evolving-market-landscape",
+      "time_published": "20251001T173300",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "The Highland Opportunities and Income Fund (HFRO) declared a monthly distribution of $0.0385 per share for October 2025, signaling its commitment to consistent income amidst evolving financial markets. This move follows a strategic pivot in January 2024 to a diversified portfolio focused on real estate and private equity, aiming for sustainable payouts aligned with cash flow. The article delves into the implications for investors, the fund's strategy, and broader market contexts like CEF trends and real estate performance, while also highlighting the critical importance of distribution sustainability against the backdrop of a persistent discount to NAV.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920935"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.818936"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735358"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.618479"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.615560"
+        }
+      ],
+      "overall_sentiment_score": 0.030516,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HFRO-P-A",
+          "relevance_score": "0.306229",
+          "ticker_sentiment_score": "0.025422",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BNY’s Brendan Murphy Highlights Perks of Active Fixed Income",
+      "url": "https://www.etftrends.com/portfolio-strategies-channel/bnys-brendan-murphy-highlights-perks-active-fixed-income/",
+      "time_published": "20251002T032351",
+      "authors": [
+        "Nick Wodeshick"
+      ],
+      "summary": "Brendan Murphy of Insight Investment, BNY Investments’ fixed income specialist, discussed the advantages of active fixed income management during VettaFi’s Q3 Fixed Income Symposium. He emphasized that active management can offer higher returns and crucial risk management, particularly in volatile market conditions. Murphy also highlighted BNY Mellon Global Fixed Income Fund (SDGIX) as an example of an actively managed strategy that provides robust diversification.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2025/09/Portfolio_Strategies_masthead_overlay_1600x121@2x.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912856"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800748"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.739308"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640185"
+        }
+      ],
+      "overall_sentiment_score": 0.159513,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BKFI",
+          "relevance_score": "0.346461",
+          "ticker_sentiment_score": "0.012811",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BK",
+          "relevance_score": "0.710860",
+          "ticker_sentiment_score": "0.300530",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BNY Mellon Municipal Bond Infrastructure Fund Inc. Declares Monthly Distribution, Signaling Stability in Income-Focused Investments",
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-2-bny-mellon-municipal-bond-infrastructure-fund-inc-declares-monthly-distribution-signaling-stability-in-income-focused-investments",
+      "time_published": "20251002T175500",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "BNY Mellon Municipal Bond Infrastructure Fund Inc. (NYSE: DMB) has declared a monthly distribution of $0.0380 per share, signaling stability for income-focused investors. This move highlights the fund's commitment to consistent, tax-advantaged income, particularly appealing to retirees and high-income individuals amidst broader economic uncertainties. The distribution, payable November 3, 2025, underscores the fund's adaptation to market conditions and its strategic focus on infrastructure-related municipal bonds.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911297"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.846415"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.722442"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600332"
+        }
+      ],
+      "overall_sentiment_score": 0.412665,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DMB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444980",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BlackRock Core Bond Trust Declares Monthly Distribution, Signaling Stability in Fixed Income",
+      "url": "https://markets.financialcontent.com/worldnow.waow/article/marketminute-2025-10-2-blackrock-core-bond-trust-declares-monthly-distribution-signaling-stability-in-fixed-income",
+      "time_published": "20251002T181200",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "BlackRock Core Bond Trust (BHK) announced a consistent monthly distribution of $0.0746 per share, reinforcing its commitment to stable income for investors. This declaration signals reliability in the fixed-income market, crucial for income-focused portfolios amidst evolving market dynamics. The consistent payout highlights the fund's sound management and BlackRock's expertise, benefiting existing shareholders and enhancing the appeal of income-generating assets.",
+      "banner_image": "https://marketminute.ghost.io/content/images/size/w1200/2025/10/cde6081f-06b9-4620-9ca5-4a14d9422304.png",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.946537"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.898284"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.707310"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.670732"
+        }
+      ],
+      "overall_sentiment_score": 0.480166,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BHK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.534477",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.800215",
+          "ticker_sentiment_score": "0.489339",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BlackRock Limited Duration Income Trust (BLW) Declares Consistent Monthly Distribution, Signaling Stability for Income Investors",
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-2-blackrock-limited-duration-income-trust-blw-declares-consistent-monthly-distribution-signaling-stability-for-income-investors",
+      "time_published": "20251002T181400",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "BlackRock Limited Duration Income Trust (BLW) has declared a consistent monthly distribution of $0.1132 per share, payable on September 30, 2025. This move reinforces the fund's commitment to steady income for shareholders and highlights its operational stability, particularly in a volatile market. The consistent payout from its investment-grade, short-to-intermediate duration fixed-income securities makes BLW an attractive option for income-focused investors and a benchmark for reliability in the closed-end fund sector.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902224"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817095"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806273"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.711602"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.614012"
+        }
+      ],
+      "overall_sentiment_score": 0.395987,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BLW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422985",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.739186",
+          "ticker_sentiment_score": "0.327450",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BlackRock Capital Allocation Trust Declares Robust Monthly Distribution, Signaling Confidence Amidst Market Volatility",
+      "url": "https://markets.financialcontent.com/wral/article/marketminute-2025-10-2-blackrock-capital-allocation-trust-declares-robust-monthly-distribution-signaling-confidence-amidst-market-volatility",
+      "time_published": "20251002T181800",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "The BlackRock Capital Allocation Trust (BCAT) announced a robust monthly distribution of $0.2675 per share, reinforcing its commitment to consistent shareholder returns and providing a stable income stream amidst market volatility. This declaration, with a significant forward yield of 21.47%, highlights BlackRock's strategic approach to managing its closed-end funds and positions BCAT as an attractive option for income-focused investors. The consistent payout strategy and proactive management aim to attract capital and enhance portfolio income generation capabilities in uncertain financial markets.",
+      "banner_image": "https://marketminute.ghost.io/content/images/size/w1200/2025/10/730a4695-3f9f-49ce-87a4-b15477f60b68.png",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930018"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800149"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.618221"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.644859"
+        }
+      ],
+      "overall_sentiment_score": 0.824595,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BCAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.884520",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.713817",
+          "ticker_sentiment_score": "0.742387",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Understanding Private Credit’s Rapid Growth",
+      "url": "https://www.morganstanley.com/ideas/private-credit-outlook-considerations",
+      "time_published": "20251003T000000",
+      "authors": [
+        "Ashwin Krishnan"
+      ],
+      "summary": "The private credit market has experienced significant growth, projected to reach $5 trillion by 2029, offering floating interest rates and tailored lending solutions. This article explores different types of private credit, its role in a portfolio, and how it performs compared to traditional fixed-income investments, especially in varying interest rate environments. Morgan Stanley highlights opportunities in direct lending, junior capital, and rescue financing within this expanding asset class.",
+      "banner_image": "https://www.morganstanley.com/content/dam/msdotcom/ideas/private-credit-outlook-opportunities/wide-private-credit-outlook-opportunities.jpg/_jcr_content/renditions/extrawide_3x1.jpg",
+      "source": "Morgan Stanley",
+      "category_within_source": "General",
+      "source_domain": "Morgan Stanley",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.910118"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.826272"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640665"
+        }
+      ],
+      "overall_sentiment_score": 0.322237,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MS",
+          "relevance_score": "0.642734",
+          "ticker_sentiment_score": "0.343444",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gold Price Forecast - XAU/USD Nears $4,000 as XAU/USD Rally Extends — SGDM ETF Surges 115% in 2025",
+      "url": "https://www.tradingnews.com/news/gold-price-forecast-xau-usd-rockets-toward-4k-usd",
+      "time_published": "20251005T170933",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gold (XAU/USD) is nearing $4,000, driven by a weakening U.S. dollar, geopolitical risks, and robust central bank demand, marking a 47% year-to-date increase. Analysts from UBS and Goldman Sachs have raised their 2025 targets, while the Sprott Gold Miners ETF (SGDM) has surged 115%, outperforming physical gold. The rally is further fueled by the ongoing U.S. government shutdown, suggesting potential Federal Reserve rate cuts and sustained institutional buying.",
+      "banner_image": "https://www.tradingnews.com/Warehouse/content/pics/pic_38479_a_b8422ef8-fe65-4e1b-b170-064d962dad81.jpg?1=1",
+      "source": "TradingNEWS",
+      "category_within_source": "General",
+      "source_domain": "TradingNEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906726"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.854009"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.800507"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716329"
+        }
+      ],
+      "overall_sentiment_score": 0.760377,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SGDM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.868266",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.608238",
+          "ticker_sentiment_score": "0.613440",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Schwab Trading Activity Index™: STAX Score Keeps Rising in September",
+      "url": "https://www.businesswire.com/news/home/20251006620852/en/Schwab-Trading-Activity-Index-STAX-Score-Keeps-Rising-in-September",
+      "time_published": "20251006T000000",
+      "authors": [],
+      "summary": "The Schwab Trading Activity Index (STAX) increased to 46.12 in September, up from 43.69 in August, indicating that Schwab clients were net buyers of equities and branching out beyond traditional names like the \"Magnificent Seven.\" This rise in activity outpaced the S&P 500 index, driven by factors such as a mid-month rate cut announcement, lighter inflation data, and resilient retail sales. Clients showed increased interest in higher-volatility, AI-adjacent stocks, with NVIDIA Corp. (NVDA) and Amazon.com Inc. (AMZN) among the popular names bought, while Tesla Inc. (TSLA) and Apple Inc. (AAPL) were net sold.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.823183"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.833478"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709656"
+        }
+      ],
+      "overall_sentiment_score": 0.301953,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SCHW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420545",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.737362",
+          "ticker_sentiment_score": "0.310264",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.743179",
+          "ticker_sentiment_score": "0.227790",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.618876",
+          "ticker_sentiment_score": "0.203221",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.625192",
+          "ticker_sentiment_score": "0.202921",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Falling Mortgage Rates Could Save Homebuyers $40,000+ Over Lifetime of Loan",
+      "url": "https://www.lendingtree.com/home/mortgage/rising-mortgage-rates-study/",
+      "time_published": "20251006T200037",
+      "authors": [
+        "Alaya Linton",
+        "Dan Shepard"
+      ],
+      "summary": "A LendingTree analysis reveals that falling mortgage rates could save homebuyers over $40,000 during the lifetime of a loan. The average APR for 30-year, fixed-rate mortgages dropped by 0.51 percentage points between July 2024 and July 2025, leading to significant monthly payment reductions across most of the U.S. States like the District of Columbia, Massachusetts, and California saw the largest savings, while North Dakota was the only state to experience an increase in mortgage payments.",
+      "banner_image": "https://www.lendingtree.com/wpm/app/uploads/2025/09/DES-13526-Mortgage-rates-graphics-LT-Green_Map.webp",
+      "source": "LendingTree",
+      "category_within_source": "General",
+      "source_domain": "LendingTree",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.805587"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738261"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640132"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642821"
+        }
+      ],
+      "overall_sentiment_score": 0.423323,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TREE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416613",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Form 425 Columbus Circle Capital Filed by: ProCap Financial, Inc.",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+425+Columbus+Circle+Capital+Filed+by%3A+ProCap+Financial%2C+Inc./25428991.html",
+      "time_published": "20251007T113800",
+      "authors": [],
+      "summary": "This SEC filing (Form 425) by ProCap Financial, Inc. describes a business combination agreement with Columbus Circle Capital Corp. I. It includes a transcript of a podcast featuring Anthony Pompliano and former Congressman Jeb Hensarling discussing Bitcoin's role in the financial system, legislative efforts around stablecoins, and the intersection of finance and technology. Hensarling, now a senior advisor at ProCap Financial, shares his optimistic view on innovation and the future of digital assets despite concerns about traditional finance.",
+      "banner_image": null,
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.840224"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726036"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.743250"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640526"
+        }
+      ],
+      "overall_sentiment_score": 0.269111,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.329230",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.627277",
+          "ticker_sentiment_score": "0.241618",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.631580",
+          "ticker_sentiment_score": "0.203138",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.649715",
+          "ticker_sentiment_score": "0.248565",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.630027",
+          "ticker_sentiment_score": "0.203036",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitwise Predicts Record Bitcoin ETF Inflows in Q4 2025",
+      "url": "https://bitbo.io/news/bitwise-predicts-etf-record-q4/",
+      "time_published": "20251008T000000",
+      "authors": [],
+      "summary": "Bitwise forecasts record-breaking inflows for U.S. spot bitcoin ETFs in Q4 2025, potentially exceeding 2024's $36 billion total, driven by accelerating wealth manager adoption and the 'debasement trade' narrative. Firms like Morgan Stanley and Wells Fargo are now allowing client allocations to bitcoin ETFs, with others expected to follow suit. Bitcoin's recent price surge to new all-time highs further fuels ETF demand, with Q4 already seeing significant inflows.",
+      "banner_image": null,
+      "source": "Bitbo",
+      "category_within_source": "General",
+      "source_domain": "Bitbo",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.921312"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909147"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.818627"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.838149"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711994"
+        }
+      ],
+      "overall_sentiment_score": 0.210534,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BITB",
+          "relevance_score": "0.320321",
+          "ticker_sentiment_score": "0.030832",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.726106",
+          "ticker_sentiment_score": "0.414886",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "DXJ Dominance Supported by Multiple Tailwinds",
+      "url": "https://www.etftrends.com/model-portfolio-content-hub/dxj-dominance-supported-multiple-tailwinds/",
+      "time_published": "20251008T122756",
+      "authors": [
+        "Todd Shriber"
+      ],
+      "summary": "The WisdomTree Japan Hedged Equity Fund (DXJ) has significantly outperformed the S&P 500 year-to-date and over the last five years, despite a weak U.S. dollar. This dominance is attributed to several tailwinds, including the Bank of Japan's move towards monetary policy normalization and the positive effects of Japan's corporate governance reforms. These reforms have led to improved performance, increased share buybacks, and encouraged foreign investment, further bolstering the case for DXJ.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2025/09/Modern_Alpha_WisdomTree_masthead_overlay_1600x121@2x-1.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913990"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.802471"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.708127"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.648886"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.623180"
+        }
+      ],
+      "overall_sentiment_score": 0.356861,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DXJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423901",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.637307",
+          "ticker_sentiment_score": "0.317937",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "A 'Highly Unusual' Environment Could Favor EM Bonds",
+      "url": "https://etfdb.com/fixed-income-content-hub/unusua-environment-might-favor-emerging-markets-bonds/",
+      "time_published": "20251009T022916",
+      "authors": [
+        "Ben Hernandez"
+      ],
+      "summary": "The article discusses how a shift in the fixed income market, marked by the first interest rate cut of the year and a weakening dollar, could make emerging market (EM) bonds an attractive option for investors. \"Bond King\" Jeffrey Gundlach suggests allocating a significant portion of bond investments to local-currency EM bonds due to higher yields, better economics, and budget fundamentals. The Vanguard Emerging Markets Government Bond Index Fund ETF Shares (VWOB A) is presented as a way to gain broad exposure to this market, while the Vanguard Total International Bond Index Fund ETF Shares (BNDX A) is offered as an alternative for those seeking broader international exposure with less credit risk.",
+      "banner_image": "https://etfdb.com/media/W1siZiIsIjIwMjUvMDkvMDUvN3Y4aTZsdWRoeF9GaXhlZF9JbmNvbWVfVmFuZ3VhcmRfbWFzdGhlYWRfb3ZlcmxheV8xNjAweDEyMV8yeC5wbmciXV0/Fixed_Income_Vanguard_masthead_overlay_1600x121%402x.png",
+      "source": "ETF Database",
+      "category_within_source": "General",
+      "source_domain": "ETF Database",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926124"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.830283"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.701421"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636265"
+        }
+      ],
+      "overall_sentiment_score": 0.417108,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VWOB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431761",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gold Retreats Below $4,000, But Silver's Record High Keeps Precious Metals ETF Investors Engaged",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/25/10/48137545/gold-retreats-below-4000-but-silvers-record-high-keeps-precious-metals-etf-investors-engaged",
+      "time_published": "20251009T045316",
+      "authors": [
+        "Chandrima Sanyal"
+      ],
+      "summary": "Gold prices dipped below $4,000 an ounce due to profit-taking and a stronger U.S. dollar, despite a robust year for gold ETFs. Meanwhile, silver reached a new record high of over $50 per ounce, attracting increased investor interest in silver ETFs due to supply deficits and industrial demand. The article explores how these trends are influencing rebalancing decisions among precious metals ETF investors.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908089"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.736889"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.647462"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627503"
+        }
+      ],
+      "overall_sentiment_score": 0.305074,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SIVR",
+          "relevance_score": "0.906069",
+          "ticker_sentiment_score": "0.303968",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Undiscovered Gems in US Market for October 2025",
+      "url": "https://simplywall.st/stocks/us/banks/nasdaq-gcbc/greene-county-bancorp/news/undiscovered-gems-in-us-market-for-october-2025",
+      "time_published": "20251009T053913",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "This article identifies promising small-cap companies in the U.S. market for October 2025, highlighting their strong fundamentals despite broader market volatility. It focuses on Greene County Bancorp (GCBC), Amalgamated Financial (AMAL), and Yuanbao (YB), detailing their financial health, growth metrics, and market positioning as potential \"undiscovered gems\" for investors. Each company is presented with an overview, operational details, and key financial highlights.",
+      "banner_image": null,
+      "source": "Simply Wall St",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall St",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921578"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.809086"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.630170"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.649597"
+        }
+      ],
+      "overall_sentiment_score": 0.285502,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GCBC",
+          "relevance_score": "0.958128",
+          "ticker_sentiment_score": "0.430925",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MTB",
+          "relevance_score": "0.579626",
+          "ticker_sentiment_score": "0.111253",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Strategic allocation: EM investment grade hard currency debt",
+      "url": "https://www.ubs.com/ch/en/assetmanagement/insights/asset-class-perspectives/fixed-income/articles/strategic-allocation-to-em-investment-grade-hard-currency-debt.html",
+      "time_published": "20251009T144808",
+      "authors": [
+        "Shamaila Khan",
+        "Sangram Jadhav"
+      ],
+      "summary": "This article highlights emerging market (EM) investment grade hard currency debt as an attractive asset class for conservative fixed-income portfolios. It emphasizes the robust fundamentals, balanced economic policies, and strong technicals of EM economies, leading to improving credit ratings and higher yields compared to US investment grade peers. The authors argue that EM investment grade debt offers a compelling risk-return profile, particularly for investors seeking capital protection and income in the current volatile interest rate environment.",
+      "banner_image": "https://www.ubs.com/ch/en/assetmanagement/insights/asset-class-perspectives/fixed-income/articles/strategic-allocation-to-em-investment-grade-hard-currency-debt/_jcr_content/root/pagehead/userActionImage/image.580.jpg/1760005391955.jpg",
+      "source": "UBS",
+      "category_within_source": "General",
+      "source_domain": "UBS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932342"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.811187"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700837"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.619343"
+        }
+      ],
+      "overall_sentiment_score": 0.131739,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MEMA",
+          "relevance_score": "0.303710",
+          "ticker_sentiment_score": "0.030378",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MKTX",
+          "relevance_score": "0.606065",
+          "ticker_sentiment_score": "0.240579",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Fed Disappointment Could Highlight SMTH Advantages",
+      "url": "https://etftrends.com/etf-building-blocks-content-hub/fed-disappointment-could-highlight-smth-advantages/",
+      "time_published": "20251010T000905",
+      "authors": [
+        "Todd Shriber"
+      ],
+      "summary": "The Federal Reserve's recent interest rate cut and Chairman Jerome Powell's cautious outlook on future cuts could lead to market disappointment. In this scenario, actively managed fixed-income ETFs like the ALPS/SMITH Core Plus Bond ETF (SMTH) may offer advantages over passive alternatives due to their selectivity and ability to capitalize on market inefficiencies. SMTH's strong year-to-date performance and active management strategy highlight its potential to mitigate rate-related concerns for investors.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2025/09/ETF_Building_Blocks_ALPS_masthead_overlay_1600x121@2x.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.946670"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819974"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725170"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.612799"
+        }
+      ],
+      "overall_sentiment_score": 0.422171,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMTH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410925",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Altria: Packs A Stable Punch Amid Macro Unease, 6.5% Dividend Yield (NYSE:MO)",
+      "url": "https://seekingalpha.com/article/4829189-altria-packs-a-stable-punch-amid-macro-unease-6-5-percent-dividend-yield",
+      "time_published": "20251010T165200",
+      "authors": [
+        "Mike Zaccardi",
+        "CFA",
+        "CMT"
+      ],
+      "summary": "Altria (MO) is rated a \"Buy\" due to its 6.45% forward dividend yield, strong Q1 results driven by oral tobacco and price increases, and solid technical momentum. While valuation is near full value, the company offers a robust dividend, steady earnings, and a favorable FCF yield with a price target of $70-$76. Key risks include regulatory challenges and inflation, but the overall trend is bullish.",
+      "banner_image": "NULL",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900626"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804109"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.720818"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643098"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.601537"
+        }
+      ],
+      "overall_sentiment_score": 0.483023,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464104",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Barings Global Short Duration High Yield Fund (NYSE:BGH) Declares Attractive Monthly Dividend Amidst Market Scrutiny",
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-10-barings-global-short-duration-high-yield-fund-nysebgh-declares-attractive-monthly-dividend-amidst-market-scrutiny",
+      "time_published": "20251010T171800",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "Barings Global Short Duration High Yield Fund (NYSE:BGH) declared a monthly dividend of $0.1223 per share, with an impressive forward yield of approximately 9.86%. The fund has outlined its dividend schedule through December 2025, offering predictability to income-focused investors. BGH's strategy focuses on short-duration global high-yield bonds to mitigate interest rate sensitivity, though its current trading at a high premium to NAV warrants consideration for new investors.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913831"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842115"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713722"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.625593"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.616920"
+        }
+      ],
+      "overall_sentiment_score": 0.46296,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.494384",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mining Stocks Positioned for Profit Explosion as Gold Bullion Tops $4,000",
+      "url": "https://www.finansavisen.no/pressemeldinger/2025/10/10/6c1e515f-6ae2-42e9-8a3d-97084253b578/mining-stocks-positioned-for-profit-explosion-as-gold-bullion-tops-usd4-000",
+      "time_published": "20251010T231011",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gold has surpassed $4,000 per ounce, driven by inflation concerns and safe-haven demand, leading to a 135% surge in mining stocks in 2025. This environment creates significant profit leverage for well-managed exploration and development companies like Rush Gold Corp., PPX Mining Corp., Austin Gold Corp., K92 Mining Inc., and Idaho Strategic Resources, Inc. Goldman Sachs predicts gold could reach $4,900 by late 2026, further highlighting the sector's potential.",
+      "banner_image": "https://mma.prnewswire.com/media/2603685/USA_News_Group_Logo.jpg",
+      "source": "Finansavisen",
+      "category_within_source": "General",
+      "source_domain": "Finansavisen",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942436"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.812423"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.735214"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721864"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.604183"
+        }
+      ],
+      "overall_sentiment_score": 0.328817,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUST",
+          "relevance_score": "0.960497",
+          "ticker_sentiment_score": "0.292810",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.703943",
+          "ticker_sentiment_score": "0.435708",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.668681",
+          "ticker_sentiment_score": "0.326963",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.621231",
+          "ticker_sentiment_score": "0.305594",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Imperial Bank of Commerce: The rise in gold prices is due to concerns about long-term inflation. Gold will rise to $4,500 in the next two years. - Bitget",
+      "url": "https://www.bitget.com/amp/news/detail/12560605010785",
+      "time_published": "20251011T202434",
+      "authors": [
+        "Cointime"
+      ],
+      "summary": "Anita Soni, an analyst at Canadian Imperial Bank of Commerce, forecasts that gold prices will surge to $4,500 per ounce by 2026-2027 due to ongoing concerns about long-term inflation and wealth preservation. While earlier rises were linked to interest rate cuts, the recent parabolic surge is attributed to the Federal Reserve's monetary policy not specifically addressing long-term inflation. Soni also expects gold to benefit from a positive macroeconomic environment and tariff policy uncertainties.",
+      "banner_image": "https://img.bgstatic.com/multiLang/web/2c66cd1616f3aeafd90afc756f5a41ff.jpg",
+      "source": "Bitget",
+      "category_within_source": "General",
+      "source_domain": "Bitget",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.812582"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.713952"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.646014"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.416697"
+        }
+      ],
+      "overall_sentiment_score": 0.037313,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CM",
+          "relevance_score": "0.308354",
+          "ticker_sentiment_score": "0.008039",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Best Online Savings Account Rates - October 11, 2025 - BestCashCow",
+      "url": "https://www.bestcashcow.com/savings-accounts/online-rates",
+      "time_published": "20251012T021659",
+      "authors": [
+        "Ari Socolow",
+        "Lacra Burg"
+      ],
+      "summary": "This article from BestCashCow provides a comprehensive list of the best online savings and money market account rates as of October 11, 2025. It ranks various banking institutions by their Annual Percentage Yield (APY) and offers detailed information including minimum deposit requirements, climate grades, and user reviews. The article also includes guidance on choosing the best online savings account, explains key terms like APY, and discusses recent trends in interest rates and Federal Reserve actions.",
+      "banner_image": "https://www.bestcashcow.com/images/public/american_flag_1920.jpg",
+      "source": "BestCashCow",
+      "category_within_source": "General",
+      "source_domain": "BestCashCow",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.904726"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830576"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.619795"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.637794"
+        }
+      ],
+      "overall_sentiment_score": -0.066495,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "0.517982",
+          "ticker_sentiment_score": "0.145489",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.409475",
+          "ticker_sentiment_score": "-0.111870",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.414520",
+          "ticker_sentiment_score": "-0.116134",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.324572",
+          "ticker_sentiment_score": "-0.131830",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "UBS Group rates gold as still 'attractive,' with a bullish outlook up to USD 4,200.",
+      "url": "https://news.futunn.com/en/post/63157262/ubs-group-rates-gold-as-still-attractive-with-a-bullish?level=1&data_ticket=1760292320456344",
+      "time_published": "20251012T022710",
+      "authors": [],
+      "summary": "UBS Group maintains an \"attractive\" rating for gold, forecasting prices to reach USD 4,200 per ounce in the coming months due to multiple supportive macro factors. The report highlights US government shutdowns, Fed rate cuts, and gold's safe-haven attributes as key drivers, along with robust demand from central banks, ETFs, and retail investors. UBS advises investors to include a mid-single-digit percentage allocation to gold for long-term portfolio diversification and risk mitigation.",
+      "banner_image": "https://foss1.futunn.com/official_config_oss/prod/7be2ac47-b08d-41c9-9fd3-3ea14c7f1a22",
+      "source": "富途牛牛",
+      "category_within_source": "General",
+      "source_domain": "富途牛牛",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900348"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.830967"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.719593"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626445"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.518172"
+        }
+      ],
+      "overall_sentiment_score": 0.039615,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UBS",
+          "relevance_score": "0.322806",
+          "ticker_sentiment_score": "0.025013",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Khokhar31(@Square-Creator-735b462c86e7)'s insights - Binance",
+      "url": "https://www.binance.com/en/square/post/30899893175010",
+      "time_published": "20251012T041553",
+      "authors": [
+        "Khokhar31"
+      ],
+      "summary": "Ten of the world's largest banks, including Bank of America and Goldman Sachs, are collaborating to explore launching a new stablecoin ecosystem pegged to G7 currencies. This initiative aims to merge traditional finance with cutting-edge crypto innovation, creating a trusted digital currency that moves seamlessly across public blockchains. The move is seen as a game-changer that could challenge existing stablecoins and reshape global payments, although regulators have raised concerns.",
+      "banner_image": null,
+      "source": "Binance",
+      "category_within_source": "General",
+      "source_domain": "Binance",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846577"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.625583"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.500299"
+        }
+      ],
+      "overall_sentiment_score": 0.322369,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.711335",
+          "ticker_sentiment_score": "0.328155",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.706878",
+          "ticker_sentiment_score": "0.308204",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.733870",
+          "ticker_sentiment_score": "0.300137",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trust Co Goes Big on Bonds With $15 Million BND Buy - The Motley Fool",
+      "url": "https://www.fool.com/coverage/filings/2025/10/12/trust-co-goes-big-on-bonds-with-usd15-million-bnd-buy/",
+      "time_published": "20251012T053456",
+      "authors": [
+        "Eric Trie"
+      ],
+      "summary": "Trust Co significantly increased its holdings in the Vanguard Total Bond Market ETF (BND) by purchasing an additional 209,679 shares, valued at $15.44 million. This move makes BND the fund's second-largest position, representing 7.1% of its 13F reportable assets. The increased investment reflects a growing interest in diversified fixed income exposure and a shift back towards bonds due to elevated interest rates.",
+      "banner_image": null,
+      "source": "The Motley Fool",
+      "category_within_source": "General",
+      "source_domain": "The Motley Fool",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910251"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.813930"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.600129"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.420878"
+        }
+      ],
+      "overall_sentiment_score": 0.014771,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BND",
+          "relevance_score": "0.342011",
+          "ticker_sentiment_score": "0.017594",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gold Prices Could Soar to $10,000 by 2028, Predicts Ed Yardeni - scanx.trade",
+      "url": "https://scanx.trade/stock-market-news/markets/gold-prices-could-soar-to-10-000-by-2028-predicts-ed-yardeni/21791965",
+      "time_published": "20251012T054040",
+      "authors": [
+        "Naman Sharma"
+      ],
+      "summary": "Edward Yardeni, president of Yardeni Research, predicts gold prices could reach $5,000 per ounce by 2026 and an unprecedented $10,000 by 2028. This bullish outlook is driven by factors such as increased gold reserves by emerging countries, its use as a hedge against geopolitical uncertainty, and potential shifts in global trade policies. Gold has already demonstrated a strong performance with a 52% year-to-date increase, touching $2,000 per ounce, while other analysts at institutions like Bank of America, HSBC, and Goldman Sachs also anticipate significant rallies.",
+      "banner_image": "http://news-images.dhan.co/gold-prices-could-soar-to-10-000-by-2028-predicts-ed-yardeni.jpg",
+      "source": "scanx.trade",
+      "category_within_source": "General",
+      "source_domain": "scanx.trade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926947"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.818119"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708012"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.631130"
+        }
+      ],
+      "overall_sentiment_score": 0.230768,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "0.334513",
+          "ticker_sentiment_score": "0.328269",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.341609",
+          "ticker_sentiment_score": "0.127202",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Motilal Oswal recommends HDFC Bank, SBI as top picks ahead of RBI’s ECL regime transition - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-recommends-hdfc-bank-sbi-as-top-picks-ahead-of-rbis-ecl-regime-transition/articleshow/124496994.cms?from=mdr",
+      "time_published": "20251012T073227",
+      "authors": [
+        "Siddhartha Khemka"
+      ],
+      "summary": "Motilal Oswal recommends HDFC Bank and SBI as top picks for investment, expecting them to benefit from the Reserve Bank of India’s new Expected Credit Loss (ECL) framework and revised credit risk capital norms. These regulatory changes aim to modernize India's banking sector, promoting forward-looking risk management and capital efficiency. Both banks are well-positioned for growth and stability under the new regime, with HDFC Bank focusing on liability granularity and SBI known for diversified growth and improved asset quality.",
+      "banner_image": "https://img.etimg.com/thumb/msid-124496989,width-210,height-158,imgsize-98498,resizemode-75/motilal-oswal-recommends-hdfc-bank-sbi-as-top-picks-ahead-of-rbis-ecl-regime-transition.jpg",
+      "source": "The Economic Times",
+      "category_within_source": "General",
+      "source_domain": "The Economic Times",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849585"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.603969"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.424731"
+        }
+      ],
+      "overall_sentiment_score": 0.25366,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.532512",
+          "ticker_sentiment_score": "0.323828",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.402548",
+          "ticker_sentiment_score": "0.346884",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.348212",
+          "ticker_sentiment_score": "0.207555",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.310811",
+          "ticker_sentiment_score": "0.202649",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Should Investors Reconsider Prudential Financial After Stocks Slide Nearly 5% This Week?",
+      "url": "https://finance.yahoo.com/news/investors-reconsider-prudential-financial-stocks-091240734.html",
+      "time_published": "20251012T091240",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Prudential Financial's stock has seen a nearly 5% slide this week, adding to recent downturns, despite strong longer-term performance. While a valuation model suggests the stock is undervalued, its Price-to-Earnings ratio indicates it's \"about right\" when considering its specific profile and market standards. Investors are encouraged to use \"Narratives\" to form their own valuation based on individual forecasts and market outlook for PRU.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.818663"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.742763"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.601309"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.523463"
+        }
+      ],
+      "overall_sentiment_score": 0.286444,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.257180",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Will Opendoor Stock Get Another Win From the Fed on Wednesday? It's Not That Simple",
+      "url": "https://www.aol.com/articles/opendoor-stock-another-win-fed-095300221.html",
+      "time_published": "20251012T102824",
+      "authors": [
+        "Jeremy Bowman",
+        "The Motley Fool"
+      ],
+      "summary": "Opendoor Technologies stock has seen a significant surge recently, fueled by hopes for interest rate cuts from the Fed. While lower mortgage rates would generally benefit the company's home-flipping business, the article suggests it might not be a simple solution to profitability due to already high home prices and a potential increase in supply from an \"unwinding of the lock-in effect.\"",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/kjK._ArvujudEEKR5O.doA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc-/https://media.zenfs.com/en/aol_the_motley_fool_392/5c9cf4da63ab77d0ba625bb264a4cc11",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.919422"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.814183"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.716300"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.619306"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.441768"
+        }
+      ],
+      "overall_sentiment_score": 0.303588,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.342470",
+          "ticker_sentiment_score": "0.323869",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.320050",
+          "ticker_sentiment_score": "0.303107",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How a Fed Rate Cut Impacts Investors and How to Prepare - ETF Trends",
+      "url": "https://www.etftrends.com/tactical-allocation-channel/how-fed-rate-cut-impacts-investors-how-prepare/",
+      "time_published": "20251012T113001",
+      "authors": [
+        "VanEck"
+      ],
+      "summary": "This article discusses the implications of a Federal Reserve interest rate cut for investors, offering insights into how such a decision influences stocks, bonds, and overall portfolio strategy. It outlines historical market reactions, potential investment themes, and practical steps investors can take to prepare, emphasizing the importance of reevaluating fixed income duration, assessing equity exposure to rate-sensitive sectors, and considering income-generating alternatives. The piece highlights that while rate cuts can create opportunities, thoughtful navigation, and a long-term perspective are crucial for success in a changing rate environment.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2024/12/tacticalallocation_OVERLAY_1600x121-1x.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.910977"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.724309"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.639814"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.533718"
+        }
+      ],
+      "overall_sentiment_score": 0.255109,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.325282",
+          "ticker_sentiment_score": "0.292169",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Is Cautious on SoFi Technologies Stock (SOFI) Ahead of Q3 Earnings - TipRanks",
+      "url": "https://www.tipranks.com/news/wall-street-is-cautious-on-sofi-technologies-stock-sofi-ahead-of-q3-earnings",
+      "time_published": "20251012T121134",
+      "authors": [
+        "Sirisha Bhogaraju"
+      ],
+      "summary": "Wall Street is showing caution towards SoFi Technologies (SOFI) stock ahead of its Q3 earnings report, despite the company's impressive year-to-date rally of 70% and strong growth in its member base. While some analysts maintain a Buy rating and increased price targets due to potential benefits from interest rate cuts and expanded product offerings, others express concern about valuation multiples and have maintained Sell or Hold ratings. The average SOFI stock price target suggests a potential downside of 18.3%, indicating a \"Hold\" consensus rating with mixed opinions among analysts.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2410612077-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917390"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746874"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.632415"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.523281"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.441415"
+        }
+      ],
+      "overall_sentiment_score": 0.102039,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MS",
+          "relevance_score": "0.343828",
+          "ticker_sentiment_score": "0.103197",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Better Buy: Bitcoin vs. Gold - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/JPM/pressreleases/35396829/better-buy-bitcoin-vs-gold/",
+      "time_published": "20251012T154523",
+      "authors": [
+        "Motley Fool"
+      ],
+      "summary": "This article compares Bitcoin and Gold as investments, noting that while gold has outperformed Bitcoin in 2025 initially, Bitcoin has historically delivered superior long-term returns despite higher volatility. It explores the \"debasement trade\" driving interest in both assets and discusses JPMorgan Chase's projection for Bitcoin's future valuation relative to gold. The author ultimately favors Bitcoin for long-term growth, while acknowledging gold's current appeal as a hedge.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/c2f67ccbd67eeed90a778efd3f28e40d/%3Furl%3Dhttps%253a%252f%252fs3.tradingview.com%252fsnapshots%252fd%252fdgwl8wzb.png%26amp%3Bw%3D700",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.903319"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832632"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.632035"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648420"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.514136"
+        }
+      ],
+      "overall_sentiment_score": 0.218902,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.423223",
+          "ticker_sentiment_score": "0.129659",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.416677",
+          "ticker_sentiment_score": "0.415748",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.310979",
+          "ticker_sentiment_score": "0.126424",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.342454",
+          "ticker_sentiment_score": "0.108066",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "This is why Jamie Dimon is always so gloomy on the economy - AOL.com",
+      "url": "https://www.aol.com/why-jamie-dimon-always-gloomy-212145725.html",
+      "time_published": "20251012T155727",
+      "authors": [
+        "Hugh Son",
+        "CNBC"
+      ],
+      "summary": "Jamie Dimon, CEO of JPMorgan Chase, is consistently pessimistic about the economy, a stance that has coincided with record profits for his bank. This gloomy outlook is attributed to a combination of strategic caution, an effort to keep his management team focused on risks, and a deep understanding of the financial sector's inherent fragilities. Despite his warnings, JPMorgan has thrived, underscoring a \"win-win\" scenario where caution is rewarded, regardless of economic outcomes.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/akyhk4.O02LdW_DkofHMww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/aol_nbc_universal_184/4e5b541069f8971835e5fe228ecafb15",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.942372"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.811509"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.746255"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.633642"
+        }
+      ],
+      "overall_sentiment_score": 0.135269,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.994305",
+          "ticker_sentiment_score": "0.264920",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.302220",
+          "ticker_sentiment_score": "0.098537",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.330959",
+          "ticker_sentiment_score": "0.074473",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.327122",
+          "ticker_sentiment_score": "0.066077",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.313147",
+          "ticker_sentiment_score": "0.061245",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Better Buy: Bitcoin vs. Gold",
+      "url": "https://www.aol.com/finance/better-buy-bitcoin-vs-gold-153700903.html",
+      "time_published": "20251012T161147",
+      "authors": [
+        "Dominic Basulto",
+        "The Motley Fool"
+      ],
+      "summary": "This article compares Bitcoin and Gold as investment options, highlighting their historical performance and roles as hedges against economic uncertainty. While gold is currently outperforming Bitcoin in 2025 due to the \"debasement trade,\" Bitcoin has historically shown superior long-term returns despite higher volatility. The author concludes that Bitcoin is a better long-term investment, with potential for significant future gains according to JPMorgan Chase.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/NUvMv4EOKOUf50x_dh4h4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI-/https://g.foolcdn.com/image/?url=https%3A%2F%2Fs3.tradingview.com%2Fsnapshots%2Fd%2FdgwL8wZB.png&w=700",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.941362"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.731144"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.645166"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.547006"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.444142"
+        }
+      ],
+      "overall_sentiment_score": 0.048342,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.311661",
+          "ticker_sentiment_score": "0.312353",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.348031",
+          "ticker_sentiment_score": "-0.111090",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.326771",
+          "ticker_sentiment_score": "-0.136152",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Wells Fargo the Big Bank to Buy Now? Latest WFC Stock Price, News & Forecasts (Oct 2025) - ts2.tech",
+      "url": "https://ts2.tech/en/is-wells-fargo-the-big-bank-to-buy-now-latest-wfc-stock-price-news-forecasts-oct-2025/",
+      "time_published": "20251012T172842",
+      "authors": [
+        "Mateusz Kaczmarek"
+      ],
+      "summary": "This article provides an in-depth analysis of Wells Fargo (WFC) stock as of October 2025, covering its recent price performance, dividend, upcoming Q3 earnings forecast, and future outlook. It highlights the impact of macroeconomic factors like Fed rate cuts and the lifting of the asset cap, alongside ongoing governance debates and analyst sentiment. The report suggests a cautious optimism for WFC, considering its market position and potential for growth under eased regulations.",
+      "banner_image": "https://ts2.tech/wp-content/uploads/2025/10/Wells-Fargo-Company.jpg.webp",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940508"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.837101"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809475"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.749895"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.630522"
+        }
+      ],
+      "overall_sentiment_score": 0.144518,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.958901",
+          "ticker_sentiment_score": "0.266302",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.316616",
+          "ticker_sentiment_score": "0.144076",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.303620",
+          "ticker_sentiment_score": "0.130072",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.347409",
+          "ticker_sentiment_score": "0.143527",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.334506",
+          "ticker_sentiment_score": "0.118635",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Wall St Week Ahead: Investors seek economic clues from bank earnings amid data fog - Khaleej Times",
+      "url": "https://www.khaleejtimes.com/business/markets/wall-st-week-ahead-investors-seek-economic-clues-from-bank-earnings-amid-data-fog-3?amp=1",
+      "time_published": "20251012T181510",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Investors are awaiting major bank earnings reports this week to assess the U.S. economy's health amidst a federal government shutdown that has disrupted economic data flow. Despite recent market volatility and concerns about valuations, strong third-quarter earnings are crucial for equities to maintain momentum, with S&P 500 earnings expected to rise by nearly 9%. The shutdown continues to pose risks, delaying key economic reports and creating a \"data fog\" for investors.",
+      "banner_image": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/8943f356-1cf6-4594-85db-0c0f52d76c87-org.jpg?width=1200&height=800&format=auto",
+      "source": "Khaleej Times",
+      "category_within_source": "General",
+      "source_domain": "Khaleej Times",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926336"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840004"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.729913"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.620013"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.515030"
+        }
+      ],
+      "overall_sentiment_score": -0.162894,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MS",
+          "relevance_score": "0.491871",
+          "ticker_sentiment_score": "-0.120165",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.625140",
+          "ticker_sentiment_score": "-0.167437",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.562075",
+          "ticker_sentiment_score": "-0.142073",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.506389",
+          "ticker_sentiment_score": "-0.138511",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.460840",
+          "ticker_sentiment_score": "-0.126314",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gold, no longer it glitters! - Greater Kashmir",
+      "url": "https://www.greaterkashmir.com/opinion/gold-no-longer-it-glitters/",
+      "time_published": "20251012T192601",
+      "authors": [
+        "Zubair Mushtaq"
+      ],
+      "summary": "Gold prices have surged to record highs in 2025, driven by geopolitical tensions, central bank buying, and monetary policy shifts, making it a top-performing asset. This surge has led to a significant transformation in India's gold market, with a shift from traditional jewelry to financial gold products like ETFs and Sovereign Gold Bonds (SGBs), while still maintaining cultural significance for physical gold. The article highlights strong inflows into gold ETFs and SGBs, indicating a growing investor preference for digital and paper gold amidst volatile equity markets and global economic uncertainties.",
+      "banner_image": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2025/10/Screenshot-2025-10-13-at-12.39.00-AM.png",
+      "source": "Greater Kashmir",
+      "category_within_source": "General",
+      "source_domain": "Greater Kashmir",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925663"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815804"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.707353"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.646666"
+        }
+      ],
+      "overall_sentiment_score": 0.17361,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.437355",
+          "ticker_sentiment_score": "0.328512",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KHC",
+          "relevance_score": "0.341075",
+          "ticker_sentiment_score": "0.135555",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PG",
+          "relevance_score": "0.346629",
+          "ticker_sentiment_score": "0.126654",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Federated Hermes backs short-duration bonds amid Fed rate cut pivot - investordaily.com.au",
+      "url": "https://www.investordaily.com.au/markets/57958-federated-hermes-backs-short-duration-bonds-amid-fed-rate-cut-pivot",
+      "time_published": "20251012T210050",
+      "authors": [
+        "Georgie Preston"
+      ],
+      "summary": "Federated Hermes is recommending short-duration bonds as an attractive investment in anticipation of further Federal Reserve rate cuts. The asset manager argues that these bonds offer historically high yields and potential capital appreciation while minimizing risks associated with economic uncertainty, particularly outperforming money market funds and longer-duration bonds in a declining rate environment. The strategy includes a globally diversified, multi-currency approach to capitalize on mispricings in various markets.",
+      "banner_image": null,
+      "source": "investordaily.com.au",
+      "category_within_source": "General",
+      "source_domain": "investordaily.com.au",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.918194"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710452"
+        }
+      ],
+      "overall_sentiment_score": 0.109766,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.340126",
+          "ticker_sentiment_score": "0.117034",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.348308",
+          "ticker_sentiment_score": "0.115490",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.316021",
+          "ticker_sentiment_score": "0.131764",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BK",
+          "relevance_score": "0.302898",
+          "ticker_sentiment_score": "0.147958",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "US Dollar Outpaces Rivals As Data Delays Continue - Finimize",
+      "url": "https://finimize.com/content/us-dollar-outpaces-rivals-as-data-delays-continue",
+      "time_published": "20251013T001401",
+      "authors": [
+        "Finimize Newsroom"
+      ],
+      "summary": "The US dollar gained against major currencies as a government shutdown delayed key economic data releases. Markets are now focusing on central bank commentary, particularly Jerome Powell's upcoming speech and global central bank meetings, for market direction. This shift is causing currency and stock fluctuations as investors search for guidance amidst limited new information.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252FM3475018_xml.jpeg%3Fixlib%3Dpython-3.1.2%26s%3D0b63463b50fe2c53e9ddd63a71a77fb6&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937663"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.931521"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.822890"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.603902"
+        }
+      ],
+      "overall_sentiment_score": 0.000714,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FXY",
+          "relevance_score": "0.343211",
+          "ticker_sentiment_score": "0.045607",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Echoes Of Euphoria",
+      "url": "https://seekingalpha.com/article/4829399-echoes-of-euphoria",
+      "time_published": "20251013T003500",
+      "authors": [
+        "Crescat Capital"
+      ],
+      "summary": "The US equity market is showing signs of critical turning points with investor exuberance reaching speculative levels, reminiscent of past market bubbles, particularly evident in mega-cap valuations and narrowed market breadth. The article suggests a looming economic downturn signaled by the Dow Jones Transportation Index and weakening consumer discretionary spending, alongside rising stagflationary pressures. Crescat Capital argues for a strategic shift towards undervalued assets like gold miners and anticipates a secular decline in the US dollar to rebalance global capital flows.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1040865674/image_1040865674.jpg?io=w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900097"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.849793"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.707335"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.440600"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.327123"
+        }
+      ],
+      "overall_sentiment_score": 0.015181,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OOSB",
+          "relevance_score": "0.341909",
+          "ticker_sentiment_score": "0.023863",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "US Dollar Rides Productivity Wave And AI Optimism",
+      "url": "https://finimize.com/content/us-dollar-rides-productivity-wave-and-ai-optimism",
+      "time_published": "20251013T004157",
+      "authors": [
+        "Finimize Newsroom"
+      ],
+      "summary": "The US dollar recently saw its best week in two months, driven by strong productivity gains and advancements in artificial intelligence, even as global markets face uncertainty. The Federal Reserve's cautious approach to interest rate reductions, combined with America's leading tech infrastructure and flexible regulatory environment, keeps US assets attractive to global investors. Despite discussions of \"de-dollarization,\" the dollar's resilience is underpinned by US economic fundamentals that continue to outpace other major economies.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252Ftag_reuters_com_2025_newsml_L5N3VT078_316686552.jpeg%3Fixlib%3Dpython-3.1.2%26s%3Dc17981633512c71e54974136b166a2f6&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.824298"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.846580"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.734814"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.603861"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.529576"
+        }
+      ],
+      "overall_sentiment_score": 0.033515,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPY",
+          "relevance_score": "0.338814",
+          "ticker_sentiment_score": "0.030509",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Paul Chan to Attend Annual Meetings of IMF & WB in US This Wk, to Meet Local Financial Institutions/ Investors - AASTOCKS.com",
+      "url": "http://www.aastocks.com/en/cnhk/news/china-hot-topic-content.aspx?id=NOW.1475929&catg=4&source=AAFN",
+      "time_published": "20251013T004600",
+      "authors": [],
+      "summary": "Financial Secretary Paul Chan will attend the annual meetings of the International Monetary Fund (IMF) and the World Bank Group (WB) in Washington, D.C., as part of the Chinese delegation. He noted that despite overall improvement in global financial markets, the rise in international gold prices and fluctuations in digital assets indicate a global trend towards diversifying away from USD to mitigate risks. During his visit, Chan plans to engage with local investors, financial institutions, and think tanks to exchange views.",
+      "banner_image": "https://plib.aastocks.com/aafnnews/image/medialib/20251006142134900_l.jpg",
+      "source": "AASTOCKS.com",
+      "category_within_source": "General",
+      "source_domain": "AASTOCKS.com",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.736063"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620538"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.526529"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.443909"
+        }
+      ],
+      "overall_sentiment_score": 0.162494,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.304347",
+          "ticker_sentiment_score": "0.196002",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.325480",
+          "ticker_sentiment_score": "0.155012",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.310661",
+          "ticker_sentiment_score": "0.153719",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.339599",
+          "ticker_sentiment_score": "0.184445",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Week Ahead: Investors seek economic clues from bank earnings amid data fog - Business Recorder",
+      "url": "https://www.brecorder.com/news/40387048/wall-street-week-ahead-investors-seek-economic-clues-from-bank-earnings-amid-data-fog",
+      "time_published": "20251013T005959",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Investors are awaiting quarterly earnings reports from major US banks to assess the health of the US economy, especially amid a federal government shutdown that has limited new economic data. Despite recent market highs, concerns about over-inflated investor enthusiasm make a strong Q3 earnings season crucial for maintaining stock market momentum. Bank earnings will offer insights into consumer spending and loan demand, helping to determine if the economy is heading towards contraction.",
+      "banner_image": "https://i.brecorder.com/primary/2025/10/68ec1b6109e47.jpg",
+      "source": "Business Recorder",
+      "category_within_source": "General",
+      "source_domain": "Business Recorder",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928221"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844485"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.729946"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.523351"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.429738"
+        }
+      ],
+      "overall_sentiment_score": 0.310767,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MS",
+          "relevance_score": "0.933343",
+          "ticker_sentiment_score": "0.339724",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.828004",
+          "ticker_sentiment_score": "0.318761",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.734443",
+          "ticker_sentiment_score": "0.311406",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.701821",
+          "ticker_sentiment_score": "0.311424",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.617186",
+          "ticker_sentiment_score": "0.311839",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Week Ahead: Investors seek economic clues from bank earnings amid data fog",
+      "url": "https://www.brecorder.com/news/amp/40387048",
+      "time_published": "20251013T005959",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Investors are awaiting major banks' quarterly earnings reports to assess the US economy's health, especially with a government shutdown disrupting government data. Despite the S&P 500 being near record highs and strong market performance, concerns about over-inflated investor enthusiasm for tech and AI make a strong third-quarter earnings season crucial for maintaining market momentum. JPMorgan, Goldman Sachs, Wells Fargo, and Citigroup are among the banks reporting next week, with analysts looking for clues on consumer spending and loan demand amidst recent weak labor market data.",
+      "banner_image": "https://i.brecorder.com/large/2025/10/68ec1b6109e47.jpg",
+      "source": "Business Recorder",
+      "category_within_source": "General",
+      "source_domain": "Business Recorder",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949600"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835096"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.720190"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.606223"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.532166"
+        }
+      ],
+      "overall_sentiment_score": 0.305325,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MS",
+          "relevance_score": "0.901891",
+          "ticker_sentiment_score": "0.307570",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.931063",
+          "ticker_sentiment_score": "0.333784",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.918629",
+          "ticker_sentiment_score": "0.305960",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.927329",
+          "ticker_sentiment_score": "0.308914",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.944828",
+          "ticker_sentiment_score": "0.320281",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spotlight On: Kenneth Mitchell, Division Manager, New York Metro Commercial Banking, Popular Bank",
+      "url": "https://capitalanalyticsassociates.com/spotlight-on-kenneth-mitchell-division-manager-new-york-metro-commercial-banking-popular-bank/",
+      "time_published": "20251013T011021",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kenneth Mitchell, Division Manager of New York Metro Commercial Banking at Popular Bank, discusses the bank's relationship-driven approach and diversified commercial platform in navigating lending opportunities and interest-rate volatility. He highlights the bank's focus on commercial real estate, middle-market lending, and the growing healthcare segment in the Tri-State region. Mitchell also addresses challenges like talent recruitment and the bank's omnichannel strategy, including the Popular Direct online platform, to meet evolving customer needs.",
+      "banner_image": "https://capitalanalyticsassociates.com/wp-content/uploads/2025/10/Kenneth_Mitchell_Spotlight_On.jpg",
+      "source": "Capital Analytics Associates",
+      "category_within_source": "General",
+      "source_domain": "Capital Analytics Associates",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.922308"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.707276"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.624700"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.605612"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627484"
+        }
+      ],
+      "overall_sentiment_score": 0.529171,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BPOP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.518698",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Regional Banks Might Be the Value Play Everyone's Missing - AOL.com",
+      "url": "https://www.aol.com/articles/why-regional-banks-might-value-115300131.html",
+      "time_published": "20251013T013539",
+      "authors": [
+        "Courtney Carlsen",
+        "The Motley Fool"
+      ],
+      "summary": "Regional banks could be a significant value play due to anticipated interest rate cuts. These cuts are expected to boost net interest margins, increase loan demand, and improve profitability for regional banks, especially those with strong deposit franchises and rate sensitivity. Investors might consider opportunities in individual banks like PNC Financial, Zions Bancorp, and KeyCorp, or a diversified approach through the SPDR S&P Regional Banking ETF (KRE).",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/2cbGJVpKAlah9t6x4Q.WMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc-/https://media.zenfs.com/en/aol_the_motley_fool_392/72d913c071ec7175e9494b0ced29912b",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911432"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.817341"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.546296"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.422334"
+        }
+      ],
+      "overall_sentiment_score": 0.214424,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PNC",
+          "relevance_score": "0.814077",
+          "ticker_sentiment_score": "0.330281",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KEY",
+          "relevance_score": "0.705677",
+          "ticker_sentiment_score": "0.234006",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.339376",
+          "ticker_sentiment_score": "0.134844",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gold has leaped 50% in a year, but can it go even higher? - Khaleej Times",
+      "url": "https://www.khaleejtimes.com/business/gold-prices-soar-50-experts-analyse-outlook",
+      "time_published": "20251013T020000",
+      "authors": [
+        "Patti Domm"
+      ],
+      "summary": "Gold prices have surged by over 50% in the last year, driven by expected interest rate cuts from the US Federal Reserve, strong central bank demand, and investor interest in ETFs. While Goldman Sachs and Wells Fargo have significantly raised their price targets for gold, some strategists are becoming cautious, anticipating a potential pullback due to the rapid gains and overly bullish sentiment. Despite short-term corrections, analysts generally maintain a long-term positive outlook for gold, supported by its role as a hedge against global uncertainties and ongoing central bank acquisitions.",
+      "banner_image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2025-10-08/wjnmurhl/2025newsmlRC2Q7HAKHNH61243823889.jpeg?width=600&height=400&format=auto",
+      "source": "Khaleej Times",
+      "category_within_source": "General",
+      "source_domain": "Khaleej Times",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919304"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.842218"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.743422"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611159"
+        }
+      ],
+      "overall_sentiment_score": 0.183873,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "0.638121",
+          "ticker_sentiment_score": "0.307206",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.542644",
+          "ticker_sentiment_score": "0.218446",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.336755",
+          "ticker_sentiment_score": "0.135443",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.316979",
+          "ticker_sentiment_score": "0.100496",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.345592",
+          "ticker_sentiment_score": "0.122259",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gold Soars to Unprecedented Heights Amidst Global Turmoil - FinancialContent",
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-13-gold-soars-to-unprecedented-heights-amidst-global-turmoil",
+      "time_published": "20251013T022100",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "Gold prices have surged past $4,000 per ounce in October 2025, setting a new record amidst escalating global economic anxieties, including intense US-China trade tensions and ongoing geopolitical crises. This unprecedented rally is driven by investors seeking refuge in gold as a safe-haven asset, reflecting a growing distrust in fiat currencies and a heightened focus on tangible wealth preservation. The article details the factors contributing to gold's historic ascent, its implications for public companies, broader economic impacts, and future projections, with analysts forecasting further price increases.",
+      "banner_image": "https://marketminute.ghost.io/content/images/size/w1200/2025/10/85865454-fefb-42d7-99f2-3b7c5535d746.png",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.843560"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.938261"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707964"
+        }
+      ],
+      "overall_sentiment_score": 0.611957,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.626873",
+          "ticker_sentiment_score": "0.605939",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Q2 Earnings Roundup: Carlyle (NASDAQ:CG) And The Rest Of The Asset Management Segment - TradingView",
+      "url": "https://www.tradingview.com/news/stockstory:a352f5dd2094b:0-q2-earnings-roundup-carlyle-nasdaq-cg-and-the-rest-of-the-asset-management-segment/",
+      "time_published": "20251013T033100",
+      "authors": [],
+      "summary": "This article reviews the Q2 earnings performance of key asset management firms, including Carlyle (CG), Blackstone (BX), Ares (ARES), Artisan Partners (APAM), and TPG (TPG). While the sector reported strong Q2 revenues, exceeding analyst estimates by 4.3% as a group, stock prices for these companies have declined by an average of 11.7% since earnings reports. Blackstone outperformed analyst expectations significantly, while Ares showed the weakest performance against estimates.",
+      "banner_image": "https://s3.tradingview.com/news/image/stockstory:a352f5dd2094b-eddfb463dfb5c63ebe41b40fd980a053-resized.jpeg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933909"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728313"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.648255"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.532405"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.441409"
+        }
+      ],
+      "overall_sentiment_score": 0.275536,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BX",
+          "relevance_score": "0.744495",
+          "ticker_sentiment_score": "0.298963",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

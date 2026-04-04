@@ -1,0 +1,2531 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "What Falling Interest Rates Mean for KeyCorp's Net Interest Income",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/FITB/pressreleases/36842791/what-falling-interest-rates-mean-for-keycorps-net-interest-income/",
+      "time_published": "20251231T000833",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "KeyCorp (KEY) has experienced volatile net interest income (NII) trends but anticipates growth in the coming quarters due to lower funding costs and increased loan volumes despite falling interest rates. While lower rates can initially impact margins, they also reduce debt burdens and improve borrower solvency, leading to lower delinquency rates. Peers like Fifth Third Bancorp (FITB) and U.S. Bancorp (USB) are similarly poised for NII expansion through stabilizing funding costs and loan growth.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3d/1412.jpg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927917"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.830296"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726940"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.633441"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.630088"
+        }
+      ],
+      "overall_sentiment_score": 0.29973,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KEY",
+          "relevance_score": "0.965757",
+          "ticker_sentiment_score": "0.326667",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.731197",
+          "ticker_sentiment_score": "0.294587",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.664564",
+          "ticker_sentiment_score": "0.215184",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Fortuna Silver Mines Is Mooning Again: Is FVI the Sleeper Metals Stock You’re Sleeping On?",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/fortuna-silver-mines-is-mooning-again-is-fvi-the-sleeper-metals-stock/68442180",
+      "time_published": "20251231T000934",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Fortuna Silver Mines (FVI in Canada, FSM in US) is presented as a potentially undervalued metals stock, producing silver, gold, and base metals. While it lacks the viral hype of meme stocks or AI, its diversified portfolio and leverage to potential precious metals rallies make it an interesting, albeit high-volatility, option for investors looking beyond trending assets. The article suggests it could be a \"cop\" for those who understand mining stock risks and believe in the upside of silver and gold.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933895"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.838362"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709570"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.614444"
+        }
+      ],
+      "overall_sentiment_score": 0.436169,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FSM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411935",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Sunstone Hotel Investors (SHO): Is This ‘Boring’ Hotel Stock Your Sneaky 2026 Power Play?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/sunstone-hotel-investors-sho-is-this-boring-hotel-stock-your/68442877",
+      "time_published": "20251231T020844",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Sunstone Hotel Investors (SHO) is emerging as a potential long-term play, capitalizing on the travel rebound with its focus on upscale hotels and REIT structure. While not a high-hype stock, it's gaining attention among dividend-focused and long-term investors for its steady cash flow and pricing power. Investors see it as a \"boring but rich\" option, offering a solid income stream if travel demand remains strong and interest rates stabilize.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.928140"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803593"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735850"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.608522"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.629497"
+        }
+      ],
+      "overall_sentiment_score": 0.118476,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHO-P-I",
+          "relevance_score": "0.317784",
+          "ticker_sentiment_score": "0.020396",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HST",
+          "relevance_score": "0.747771",
+          "ticker_sentiment_score": "0.163432",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How to Choose Canadian Bank Stocks: Safety, Upside, or Yield?",
+      "url": "https://nai500.com/blog/2025/12/how-to-choose-canadian-bank-stocks-safety-upside-or-yield/",
+      "time_published": "20251231T020845",
+      "authors": [
+        "Sunlight Xiang"
+      ],
+      "summary": "Investors considering Canadian bank stocks must evaluate whether to prioritize safety, growth potential, or immediate income in the current high-interest and uncertain economic climate. Royal Bank of Canada (RY) offers safety at a premium, Bank of Montreal (BMO) presents recovery potential with higher volatility, and Canadian Imperial Bank of Commerce (CM) provides a high yield but with concentration risk. The optimal choice depends on an investor's individual goals and risk tolerance.",
+      "banner_image": "https://nai500.com/wp-content/uploads/2023/12/question-idea.jpg",
+      "source": "NAI500",
+      "category_within_source": "General",
+      "source_domain": "NAI500",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.932935"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826021"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.734592"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.614469"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.621197"
+        }
+      ],
+      "overall_sentiment_score": 0.012909,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NRGU",
+          "relevance_score": "0.341274",
+          "ticker_sentiment_score": "0.000332",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About CubeSmart: Why Everyone Is Suddenly Talking About This Storage Stock",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-cubesmart-why-everyone-is-suddenly-talking-about-this/68442408",
+      "time_published": "20251231T020929",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "CubeSmart (CUBE) is gaining traction online for its \"boring but rich\" business model, offering steady dividends and consistent revenue from self-storage units. While not a high-volatility meme stock, it appeals to long-term, income-focused investors looking for stability in the real estate sector. The article examines CubeSmart's position against competitors and highlights its potential for those seeking reliable returns rather than quick riches.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.931051"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819559"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727031"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.642197"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.613788"
+        }
+      ],
+      "overall_sentiment_score": 0.320672,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CUBE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489934",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PSA",
+          "relevance_score": "0.844343",
+          "ticker_sentiment_score": "0.263398",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "EXR",
+          "relevance_score": "0.701141",
+          "ticker_sentiment_score": "0.271026",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About Banc of California: Is This ‘Boring’ Bank About To Go Viral On Wall Street?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/the-truth-about-banc-of-california-is-this-boring-bank-about-to-go/68442814",
+      "time_published": "20251231T020946",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article explores whether Banc of California (BANC) is a potential sleeper stock or just another regional bank at risk. It analyzes the hype, financial performance, and competitive landscape of BANC, especially in light of its merger with PacWest. The author concludes that BANC is a high-risk, high-reward play suitable for investors comfortable with volatility and a deep understanding of the regional banking sector.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.907617"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842762"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.708097"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.634427"
+        }
+      ],
+      "overall_sentiment_score": 0.279589,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BANC",
+          "relevance_score": "0.952757",
+          "ticker_sentiment_score": "0.287079",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NatWest Group plc (ADR): Boring Bank Stock or Sneaky Genius Money Move?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/natwest-group-plc-adr-boring-bank-stock-or-sneaky-genius-money-move/68443048",
+      "time_published": "20251231T030920",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article questions whether NatWest Group plc (ADR) is a boring bank stock or a smart investment opportunity. It highlights NatWest's solid dividends, modest valuation compared to US banks, and its transition from a troubled past to a focused retail and business banking model. The author suggests it's a \"sleeper pick\" for value-oriented investors seeking stable, income-generating assets outside the US tech market.",
+      "banner_image": "https://www.ad-hoc-news.de/img/logos/logo_264x69.jpg",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.927495"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813382"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.709437"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.629984"
+        }
+      ],
+      "overall_sentiment_score": 0.234318,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NWG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.388506",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.610295",
+          "ticker_sentiment_score": "0.137302",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.624026",
+          "ticker_sentiment_score": "0.138646",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About JBG SMITH Properties: Why Wall Street Is Suddenly Paying Attention",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-jbg-smith-properties-why-wall-street-is-suddenly-paying/68442907",
+      "time_published": "20251231T030958",
+      "authors": [],
+      "summary": "JBG SMITH Properties (JBGS), a Washington, DC-focused real estate player, is gaining attention from Wall Street despite its low profile. The article explores whether JBGS is a valuable addition to a portfolio or a potential value trap, considering its prime locations, price performance, and strategic shift towards mixed-use properties. It analyzes the company's strengths, weaknesses, and competitive landscape, ultimately advising long-term, fundamentals-first investors to consider JBGS for its potential slow-burn returns rather than quick speculative gains.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.930396"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815936"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.811239"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713618"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.612315"
+        }
+      ],
+      "overall_sentiment_score": 0.25897,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JBGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296459",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.619104",
+          "ticker_sentiment_score": "0.224172",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "KBWY: High Income, Bounded Risk - Tactical Allocation With Limited Long Term Compounding",
+      "url": "https://seekingalpha.com/article/4856486-kbwy-high-income-bounded-risk-tactical-allocation-with-limited-long-term-compounding",
+      "time_published": "20251231T061009",
+      "authors": [
+        "The Alpha Analyst"
+      ],
+      "summary": "The Invesco KBW Premium Yield Equity REIT ETF (KBWY) offers high yields but has a history of underperformance and capital erosion due to its small-cap, yield-focused methodology, which increases interest rate sensitivity. While the current macro conditions might support a small tactical allocation, its sluggish post-shock recoveries and lack of capital appreciation make it unsuitable for long-term investment, deserving a Hold rating until economic improvements. Investors are wary of the risks associated with its small AUM despite its attractive yield.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362129126/image_1362129126.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917053"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.807576"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707283"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.630140"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.630088"
+        }
+      ],
+      "overall_sentiment_score": -0.264874,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBWY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.260317",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "First Financial Bancorp. (NASDAQ:FFBC) Stock Crosses Above 200 Day Moving Average - Here's What Happened",
+      "url": "https://www.marketbeat.com/instant-alerts/first-financial-bancorp-nasdaqffbc-stock-crosses-above-200-day-moving-average-heres-what-happened-2025-12-31/",
+      "time_published": "20251231T071009",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "First Financial Bancorp. (NASDAQ:FFBC) saw its stock price surpass its 200-day moving average of $25.06, closing at $25.25. The company announced a quarterly dividend of $0.25, amounting to a 4.0% annualized yield. Analysts have a \"Moderate Buy\" consensus rating for FFBC, with a target price of $29.50.",
+      "banner_image": "https://www.marketbeat.com/logos/first-financial-bancorp-(ohio)-logo-1200x675.jpg",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943835"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.835389"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829912"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.613537"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.626378"
+        }
+      ],
+      "overall_sentiment_score": 0.222198,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFBC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.282226",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TFC",
+          "relevance_score": "0.580793",
+          "ticker_sentiment_score": "0.110859",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ascent Group LLC Buys 22,531 Shares of Bank of America Corporation $BAC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ascent-group-llc-buys-22531-shares-of-bank-of-america-corporation-bac-2025-12-31/",
+      "time_published": "20251231T084759",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Ascent Group LLC significantly increased its stake in Bank of America Corporation (NYSE:BAC) by 21.1% in the third quarter, acquiring an additional 22,531 shares to bring its total holdings to 129,092 shares valued at $6.66 million. This move is part of broader institutional investor activity, with several other major firms also adjusting their positions in the financial giant. The article also highlights analyst ratings, price targets, and recent news impacting Bank of America, including positive sentiment regarding tariff cooling and the company's ability to navigate interest rate cycles.",
+      "banner_image": "https://www.marketbeat.com/logos/bank-of-america-co-logo-1200x675.jpg?v=20221020143030",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.937679"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.805975"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.742473"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.615868"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.634076"
+        }
+      ],
+      "overall_sentiment_score": 0.474618,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.991589",
+          "ticker_sentiment_score": "0.453497",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About Cadence Bank (CADE): Underdog Stock or Sleepy Side Quest?",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-cadence-bank-cade-underdog-stock-or-sleepy-side-quest/68443939",
+      "time_published": "20251231T090912",
+      "authors": [],
+      "summary": "This article examines Cadence Bank (CADE) as a stock, questioning if it's an underestimated opportunity or merely background noise. It delves into the stock's performance, dividend prospects, and risk profile, contrasting it with both trendy fintechs and larger regional banks. The author concludes that CADE offers a moderate-risk, mid-reward profile suitable for long-term, dividend-focused investors rather than those seeking viral, high-growth plays.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935885"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815907"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.647709"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640211"
+        }
+      ],
+      "overall_sentiment_score": 0.11174,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CADE-P-A",
+          "relevance_score": "0.329430",
+          "ticker_sentiment_score": "0.036050",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RF",
+          "relevance_score": "0.649260",
+          "ticker_sentiment_score": "0.136202",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TFC",
+          "relevance_score": "0.606029",
+          "ticker_sentiment_score": "0.135514",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.634293",
+          "ticker_sentiment_score": "0.149681",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PNC",
+          "relevance_score": "0.625642",
+          "ticker_sentiment_score": "0.108747",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About AGNC Investment Corp: Is This Monster Dividend Stock Really Worth the Hype?",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-truth-about-agnc-investment-corp-is-this-monster-dividend-stock/68444023",
+      "time_published": "20251231T090921",
+      "authors": [],
+      "summary": "AGNC Investment Corp is a mortgage REIT known for its massive, monthly dividend payouts, making it popular with income-focused investors. However, the article cautions that despite the high yield, the stock experiences significant price volatility and the dividend is not guaranteed, having been cut multiple times historically. It emphasizes that AGNC is a high-risk, leveraged investment sensitive to interest rate changes, suitable only for investors who understand these complexities and view it as a satellite position rather than a core holding.",
+      "banner_image": "https://www.ad-hoc-news.de/img/logos/logo_264x69.jpg",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922005"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.849227"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721017"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.615359"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.605197"
+        }
+      ],
+      "overall_sentiment_score": -0.073222,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AGNCM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.075202",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "UDN ETF: Take Advantage Of Dollar Weakness Into 2026 (NYSEARCA:UDN)",
+      "url": "https://seekingalpha.com/article/4856636-udn-take-advantage-of-dollar-weakness-into-2026",
+      "time_published": "20251231T102500",
+      "authors": [
+        "Binary Tree Analytics"
+      ],
+      "summary": "The Invesco DB US Dollar Index Bearish Fund (UDN) offers a return profile inverse to the Dollar Index, presenting an opportunity for investors to capitalize on anticipated dollar weakness. Several factors, including expected U.S. interest rate cuts, hawkish shifts in key basket currencies like the Euro and Japanese Yen, and growing concerns about U.S. fiscal discipline leading to a weakening \"safe haven\" status for the dollar, support a \"Buy\" rating for UDN as a strategic move to benefit from continued dollar depreciation through 2026.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126636461/image_1126636461.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901470"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.837553"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.703738"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611878"
+        }
+      ],
+      "overall_sentiment_score": 0.427018,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "UDN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425097",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Wells Fargo urges Americans to stock up on key items that will be most hit by tariffs in 2026",
+      "url": "https://www.dailymail.co.uk/yourmoney/article-15422553/wells-fargo-americans-household-items-tariffs.html",
+      "time_published": "20251231T120700",
+      "authors": [
+        "MARTHA WILLIAMS"
+      ],
+      "summary": "Wells Fargo is advising Americans to purchase household items, especially furniture, now to avoid significant price increases in 2026 due to impending tariffs. While some experts like Lauren Murphy and Neil Saunders concur that retailers will likely pass on higher import duties, others like Carol Spieckerman argue that consumers should not overthink tariffs, as retailers have various strategies to manage costs, and pricing varies greatly. Grocery prices have already seen hikes due to rapid inventory turnover.",
+      "banner_image": "https://i.dailymail.co.uk/1s/2025/12/31/18/105117255-15422553-Lauren_Murphy_managing_director_of_Wells_Fargo_Retail_Finance_wa-a-2_1767205070194.jpg",
+      "source": "Daily Mail",
+      "category_within_source": "General",
+      "source_domain": "Daily Mail",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.925522"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.844561"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.710809"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718172"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.642564"
+        }
+      ],
+      "overall_sentiment_score": 0.002968,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.330861",
+          "ticker_sentiment_score": "0.000386",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Bank of America, Wells Fargo and U.S. Bancorp",
+      "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-bank-120700109.html",
+      "time_published": "20251231T120719",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "This Zacks Analyst Blog identifies Bank of America (BAC), Wells Fargo (WFC), and U.S. Bancorp (USB) as robust investment options within the banking sector. These banks are highlighted for their strong capitalization, diversified revenue streams, and solid liquidity, making them well-positioned to navigate increasing U.S. consumer credit stress. The article details the financial health and strategic initiatives of each bank, projecting healthy returns for 2026.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.914033"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.821580"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802829"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.733338"
+        }
+      ],
+      "overall_sentiment_score": 0.245153,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.972262",
+          "ticker_sentiment_score": "0.287946",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.855970",
+          "ticker_sentiment_score": "0.230344",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.841510",
+          "ticker_sentiment_score": "0.229008",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "State Street Corp.: Quiet Advance or Tired Rally? A Deep Dive Into The Stock’s Latest Moves",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/state-street-corp-quiet-advance-or-tired-rally-a-deep-dive-into-the/68444487",
+      "time_published": "20251231T121837",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "State Street Corp.'s stock has been quietly advancing, outpacing recent lows but remaining below its 52-week peak. The article explores whether this movement signals a renewed uptrend or simply a late-cycle bounce, influenced by mixed macro headwinds, a firmer rate outlook, and fresh analyst calls. While analysts are cautiously optimistic, the market is currently in price-discovery mode, weighing the company's strategic financial management against potential revenue and expense shifts.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927615"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.801262"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.617491"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.602253"
+        }
+      ],
+      "overall_sentiment_score": 0.177574,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.283847",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.682157",
+          "ticker_sentiment_score": "0.241243",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.666594",
+          "ticker_sentiment_score": "0.115115",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.668399",
+          "ticker_sentiment_score": "0.109762",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.589171",
+          "ticker_sentiment_score": "0.131052",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Bank of America, Wells Fargo and U.S. Bancorp",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/USB/pressreleases/36840227/the-zacks-analyst-blog-highlights-bank-of-america-wells-fargo-and-us-bancorp/",
+      "time_published": "20251231T132659",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "This Zacks Analyst Blog highlights how rising U.S. consumer credit stress, driven by high debt and inflation, is impacting the banking sector. It identifies Bank of America, Wells Fargo, and U.S. Bancorp as stable investment options due to strong capitalization, diversified revenue streams, and solid liquidity, and provides a detailed fundamental analysis of each bank.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/47/113.jpg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947758"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822383"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.712225"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600293"
+        }
+      ],
+      "overall_sentiment_score": 0.344766,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.957692",
+          "ticker_sentiment_score": "0.306333",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.961259",
+          "ticker_sentiment_score": "0.351085",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.923058",
+          "ticker_sentiment_score": "0.315244",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Bank of America, Wells Fargo and U.S. Bancorp",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/36840227/the-zacks-analyst-blog-highlights-bank-of-america-wells-fargo-and-us-bancorp/",
+      "time_published": "20251231T132800",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "Amid rising U.S. consumer credit stress, Zacks Investment Research highlights Bank of America (BAC), Wells Fargo (WFC), and U.S. Bancorp (USB) as stable investment options. These banks are considered relatively safer due to strong capitalization, diversified revenue streams, and solid liquidity, positioning them to withstand potential loan defaults and delinquencies. The article provides financial details, strategic initiatives, and analyst projections for each bank, emphasizing their resilience in a challenging economic environment.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/47/113.jpg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.920826"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.824201"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.717809"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.606912"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.639687"
+        }
+      ],
+      "overall_sentiment_score": 0.409932,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400402",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.924111",
+          "ticker_sentiment_score": "0.422275",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.904303",
+          "ticker_sentiment_score": "0.424617",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Invesco Stock: Quiet Rally, Cautious Optimism as Wall Street Reassesses IVZ",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/invesco-stock-quiet-rally-cautious-optimism-as-wall-street-reassesses/68444765",
+      "time_published": "20251231T135027",
+      "authors": [],
+      "summary": "Invesco's stock has seen a modest dip recently but maintains a strong double-digit gain over the past year, reflecting a nuanced picture of recovery amidst shifting interest rate expectations and fee pressures. Wall Street analysts generally hold a cautiously constructive view, rating IVZ as a value-tilted recovery story with moderate buy or hold recommendations, implying limited but positive upside. The company's future trajectory will depend on interest rates, its ability to capitalize on structural growth areas like ETFs, and maintaining cost discipline to drive earnings.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918579"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.820941"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.647626"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.623035"
+        }
+      ],
+      "overall_sentiment_score": 0.111338,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IVZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113206",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Bank of America, Wells Fargo and U.S. Bancorp",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/WFC/pressreleases/36840227/the-zacks-analyst-blog-highlights-bank-of-america-wells-fargo-and-us-bancorp/",
+      "time_published": "20251231T140805",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "This Zacks Analyst Blog highlights Bank of America (BAC), Wells Fargo (WFC), and U.S. Bancorp (USB) as stable options for investors amid rising U.S. consumer credit stress. The article details how these banks are better positioned to withstand financial pressures due to their strong capitalization, diversified revenue streams, and solid liquidity. It also provides an overview of each bank's financial health, growth projections, and asset quality.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/47/113.jpg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.938732"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.817210"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.709529"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.620443"
+        }
+      ],
+      "overall_sentiment_score": 0.280909,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.304140",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.997547",
+          "ticker_sentiment_score": "0.257028",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.931731",
+          "ticker_sentiment_score": "0.265217",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Pitney Bowes NT 43 drops 3% today as Treasury yields rise — what’s next for PBI.PRB",
+      "url": "https://ts2.tech/en/pitney-bowes-nt-43-drops-3-today-as-treasury-yields-rise-whats-next-for-pbi-prb/",
+      "time_published": "20251231T141600",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "Pitney Bowes Inc.'s NT 43, its exchange-listed notes due 2043 (PBI.PRB), fell 3.0% to $21.04 due to rising U.S. 10-year Treasury yields. The security, which trades like a stock but behaves like a bond, is highly sensitive to interest rate changes and shifts in credit perception. Investors are monitoring upcoming macro events, including the December 2025 U.S. employment report and the Federal Reserve’s next rate decision, for their impact on rates and the notes' price.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947970"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.839935"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720680"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.616567"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.624092"
+        }
+      ],
+      "overall_sentiment_score": -0.194381,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PBI-P-B",
+          "relevance_score": "0.333113",
+          "ticker_sentiment_score": "0.000783",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FICO",
+          "relevance_score": "0.611877",
+          "ticker_sentiment_score": "-0.173196",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.638297",
+          "ticker_sentiment_score": "-0.240121",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "PYPL",
+          "relevance_score": "0.627463",
+          "ticker_sentiment_score": "-0.243991",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.614482",
+          "ticker_sentiment_score": "-0.203243",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "The Odds Are Changing: Investing in 2026",
+      "url": "https://www.blackrock.com/us/financial-professionals/insights/investing-in-2026",
+      "time_published": "20251231T162616",
+      "authors": [
+        "Rick Rieder"
+      ],
+      "summary": "The article argues that 2026 will be an \"investor's market\" rather than a \"gambler's market,\" shifting from the easy returns of previous years. It highlights that inflation is largely under control, but labor market dynamics and the impact of AI on cost reduction will be key factors. Investors should focus on high-quality income, strong balance sheets, and companies leveraging AI for productivity, rather than chasing speculative trades.",
+      "banner_image": "https://www.blackrock.com/blk-one01-c-assets/cache-1766089992000/images/media-bin/web/global/tiles/man-moving-in-the-direction-tile.jpg",
+      "source": "www.blackrock.com",
+      "category_within_source": "General",
+      "source_domain": "www.blackrock.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923594"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.833184"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.700901"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830782"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609526"
+        }
+      ],
+      "overall_sentiment_score": 0.016693,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.306875",
+          "ticker_sentiment_score": "0.037274",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What Falling Interest Rates Mean for KeyCorp's Net Interest Income",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/USB/pressreleases/36842791/what-falling-interest-rates-mean-for-keycorps-net-interest-income/",
+      "time_published": "20251231T163858",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "KeyCorp (KEY) has experienced volatility in its net interest income (NII), which declined in 2023 and 2024 but is projected to grow in 2025 due to lower deposit costs and asset repricing. Falling interest rates generally reduce bank earnings from loans, but they also stabilize funding costs and increase borrowing, which is expected to support NII growth for KeyCorp and its peers like Fifth Third Bancorp (FITB) and U.S. Bancorp (USB) in the coming quarters. KeyCorp anticipates a 22% year-over-year rise in 2025 NII and expects its net interest margin (NIM) to improve significantly by the end of 2026.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3d/1412.jpg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902468"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.921738"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.832613"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.717534"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.612306"
+        }
+      ],
+      "overall_sentiment_score": 0.338692,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KEY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402279",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.709305",
+          "ticker_sentiment_score": "0.301193",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.630890",
+          "ticker_sentiment_score": "0.340116",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "JPMorgan stock slips on final trading day of 2025 as banks lag; what to watch next",
+      "url": "https://ts2.tech/en/jpmorgan-stock-slips-on-final-trading-day-of-2025-as-banks-lag-what-to-watch-next/",
+      "time_published": "20251231T173500",
+      "authors": [
+        "Khadija Saeed"
+      ],
+      "summary": "JPMorgan Chase & Co (JPM) shares ended 2025 slightly down, mirroring a broader market pullback that affected financials. Investors are now focused on interest-rate expectations, upcoming economic reports, and JPMorgan's fourth-quarter and full-year results scheduled for January 13, 2026, looking for updates on net interest income and credit quality. The bank also faces legal news and has been marketing equity-linked notes tied to major market benchmarks.",
+      "banner_image": null,
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906299"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.841961"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707496"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.619220"
+        }
+      ],
+      "overall_sentiment_score": -0.106082,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.983619",
+          "ticker_sentiment_score": "-0.186775",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.709782",
+          "ticker_sentiment_score": "-0.225501",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.706558",
+          "ticker_sentiment_score": "-0.284686",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.629557",
+          "ticker_sentiment_score": "0.121777",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.589095",
+          "ticker_sentiment_score": "0.097468",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About Cadence Bank (CADE): Underdog Stock or Sleepy Side Quest?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/the-truth-about-cadence-bank-cade-underdog-stock-or-sleepy-side-quest/68443939",
+      "time_published": "20251231T180857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article analyzes Cadence Bank (CADE), questioning whether it's a worthwhile investment or merely an overlooked regional bank. It delves into CADE's stock performance, dividend yield, and risk factors, comparing it to larger banks and fintechs. The conclusion is that Cadence Bank is a \"sleepy value\" stock suited for long-term, dividend-focused investors rather than those seeking viral gains.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.935578"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916037"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.711307"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.647404"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.641342"
+        }
+      ],
+      "overall_sentiment_score": 0.001014,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CADE-P-A",
+          "relevance_score": "0.302783",
+          "ticker_sentiment_score": "0.043976",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Q3 Earnings Outperformers: Coastal Financial (NASDAQ:CCB) And The Rest Of The Regional Banks Stocks",
+      "url": "https://finviz.com/news/265755/q3-earnings-outperformers-coastal-financial-nasdaq-ccb-and-the-rest-of-the-regional-banks-stocks",
+      "time_published": "20251231T200815",
+      "authors": [
+        "Anthony Lee"
+      ],
+      "summary": "This article reviews the Q3 performance of regional banks, highlighting Coastal Financial (NASDAQ:CCB) and other notable performers. It discusses the financial results of Coastal Financial, Customers Bancorp (NYSE:CUBI) as the best performer, and The Bancorp (NASDAQ:TBBK) as the weakest. The piece also provides a brief market update, touching on inflation, interest rates, and the political landscape's impact on the stock market.",
+      "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/coastal-financial-cover-image-5e7b7d0c6897_2025-06-08-024451_inkq.jpeg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949686"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.845413"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.738047"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.642184"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.631416"
+        }
+      ],
+      "overall_sentiment_score": -0.065299,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.084345",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bank of America stock dips as Fed repo borrowing hits a record at year-end",
+      "url": "https://ts2.tech/en/bank-of-america-stock-dips-as-fed-repo-borrowing-hits-a-record-at-year-end/",
+      "time_published": "20251231T201728",
+      "authors": [
+        "Khadija Saeed"
+      ],
+      "summary": "Bank of America shares saw a slight dip in afternoon trading, reflecting broader trends in the banking sector. This occurred as year-end funding markets tightened, highlighted by a record $74.6 billion borrowed from the Fed's standing repo facility. Investors are now anticipating January jobs data, the next Fed policy meeting, and Bank of America's upcoming earnings report, which will shape expectations for future rate policies and banking sector performance.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920161"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.928910"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.844274"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917206"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830198"
+        }
+      ],
+      "overall_sentiment_score": -0.149554,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.214696",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.622012",
+          "ticker_sentiment_score": "0.121653",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.552701",
+          "ticker_sentiment_score": "-0.205215",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.570754",
+          "ticker_sentiment_score": "-0.244291",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "American Express Stock: Quiet Grind Higher as Wall Street Stays Constructively Bullish on AXP",
+      "url": "https://www.ad-hoc-news.de/news/ueberblick/american-express-stock-quiet-grind-higher-as-wall-street-stays/68445606",
+      "time_published": "20251231T203641",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "American Express (AXP) stock has shown a steady upward trend, trading near its 52-week high with receding volatility. Despite macroeconomic concerns, its premium customer base and resilient spending patterns are reinforcing a \"constructively bullish\" outlook from Wall Street analysts. The stock has delivered a significant double-digit percentage gain over the past year, reflecting the strength of its financial compounding amidst an uncertain economic landscape.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914671"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.812617"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.746113"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.649972"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.621762"
+        }
+      ],
+      "overall_sentiment_score": 0.41194,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AXP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408194",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Invesco Stock: Can IVZ Turn A Choppy Year-End Into A Comeback Story?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/invesco-stock-can-ivz-turn-a-choppy-year-end-into-a-comeback-story/68445865",
+      "time_published": "20251231T223304",
+      "authors": [],
+      "summary": "Invesco's stock (IVZ) has ended the year with muted momentum due to fee pressure, market volatility, and investor skepticism toward active management. Despite this, Wall Street holds a cautiously optimistic view, with analysis labeling IVZ as a high-beta play on global risk appetite for 2026. The stock's performance over the past year has been largely flat, positioning it as a potential comeback story if positive market catalysts emerge.",
+      "banner_image": "https://mdb.ad-hoc-news.de/img/artikel/bull-and-bear-7965522_1920.jpg",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937475"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.842035"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.743412"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.600606"
+        }
+      ],
+      "overall_sentiment_score": 0.053815,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IVZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.078274",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MetLife Stock: Quiet Strength Behind A Blue-Chip Insurer’s Slow-Burn Rally",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/metlife-stock-quiet-strength-behind-a-blue-chip-insurer-s-slow-burn/68446564",
+      "time_published": "20260101T020822",
+      "authors": [],
+      "summary": "MetLife's stock is experiencing a slow but steady upward trend driven by solid fundamentals, disciplined capital returns, and broad institutional confidence rather than speculative trading. The insurer has outperformed inflation and delivered a low double-digit percentage gain over the past year, positioning it as a reliable long-term investment. Leading investment banks generally recommend \"Buy\" or \"Overweight,\" citing MetLife's resilient underwriting, attractive dividend yield, and strong balance sheet, with expectations of further upside as the market fully prices in benefits from higher investment income and steady growth.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.833081"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919478"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945569"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.721514"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.618881"
+        }
+      ],
+      "overall_sentiment_score": 0.462846,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MET",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.460720",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Axos Financial’s Stock Tests Investor Conviction As Wall Street Stays Cautiously Bullish",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/axos-financial-s-stock-tests-investor-conviction-as-wall-street-stays/68446480",
+      "time_published": "20260101T020858",
+      "authors": [],
+      "summary": "Axos Financial's stock is currently in a period of consolidation, testing investor confidence in its branchless banking model after a volatile year. Despite a mixed short-term performance, analysts largely remain bullish, with price targets suggesting a 15-25% upside. The company's future performance hinges on factors like interest rate changes, credit quality, and its ability to maintain its efficiency advantage against traditional banks and fintechs.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.937266"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935519"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.710676"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.736333"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.642268"
+        }
+      ],
+      "overall_sentiment_score": 0.043221,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AX",
+          "relevance_score": "0.345121",
+          "ticker_sentiment_score": "0.016995",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MetLife Stock: Quiet Strength Behind A Blue-Chip Insurer’s Slow-Burn Rally",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/metlife-stock-quiet-strength-behind-a-blue-chip-insurer-s-slow-burn/68446564",
+      "time_published": "20260101T021338",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "MetLife's stock exhibits a slow-burn rally driven by solid fundamentals, capital discipline, and bullish Wall Street sentiment, reflecting institutional confidence. The insurer's diversified business model and strategic capital allocation position it for continued upward movement, despite the challenges of fluctuating interest rates. Analysts generally recommend \"Buy\" or \"Overweight,\" seeing potential upside as the market fully prices in benefits from investment income and steady growth.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929186"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917016"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831072"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.748236"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600210"
+        }
+      ],
+      "overall_sentiment_score": 0.469485,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MET",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493237",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Wells Fargo stock ends 2025 lower as banks slip; WFC earnings and key US data ahead",
+      "url": "https://ts2.tech/en/wells-fargo-stock-ends-2025-lower-as-banks-slip-wfc-earnings-and-key-us-data-ahead/",
+      "time_published": "20260101T030859",
+      "authors": [
+        "Khadija Saeed"
+      ],
+      "summary": "Wells Fargo (WFC) stock closed 2025 lower, falling 1.18% on the last trading day, as investors reset exposure to rate-sensitive bank stocks. The mild year-end dip for Wells Fargo and the broader market comes ahead of key economic data releases in early 2026 and Wells Fargo’s fourth-quarter earnings report, which will provide clues on loan growth, credit losses, and future plans.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946148"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911583"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839853"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.713240"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.603947"
+        }
+      ],
+      "overall_sentiment_score": -0.24712,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.292657",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.601833",
+          "ticker_sentiment_score": "-0.224616",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.593631",
+          "ticker_sentiment_score": "-0.160777",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Third Bancorp Stock: Subtle Drift, Quiet Charts, And A Cautiously Constructive Wall Street",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/fifth-third-bancorp-stock-subtle-drift-quiet-charts-and-a-cautiously/68446879",
+      "time_published": "20260101T040811",
+      "authors": [],
+      "summary": "Fifth Third Bancorp's stock has experienced a subtle drift downward in early 2026, characterized by muted trading volumes and a market balancing rate-cut optimism against credit-cycle anxiety. Despite this, analysts largely maintain a cautiously constructive outlook with moderate upside targets. The bank's performance over the past year highlights the value of patience for investors, with the stock delivering mid-to-high teen percentage returns before and after dividends.",
+      "banner_image": "https://www.ad-hoc-news.de/img/logos/logo_264x69.jpg",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934882"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.931987"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.820740"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.717884"
+        }
+      ],
+      "overall_sentiment_score": 0.284551,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FITB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.295844",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.608304",
+          "ticker_sentiment_score": "0.322541",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.603479",
+          "ticker_sentiment_score": "0.348500",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.621738",
+          "ticker_sentiment_score": "0.302674",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RF",
+          "relevance_score": "0.559686",
+          "ticker_sentiment_score": "0.236988",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GLD ETF analysis: Here’s what to expect after the fresh all-time high",
+      "url": "https://invezz.com/news/2025/12/23/gld-etf-analysis-heres-what-to-expect-after-the-fresh-all-time-high/",
+      "time_published": "20260101T040908",
+      "authors": [
+        "Crispus Nyaga"
+      ],
+      "summary": "The GLD ETF has achieved a new all-time high as gold prices surged, driven by increased safe-haven demand and expectations of Fed rate cuts in 2026. While the precious metal is in overbought territory and a healthy correction is anticipated due to year-end profit-taking and lower trading volumes, its long-term uptrend remains solid. Other precious metals like platinum, palladium, and silver have also seen significant gains.",
+      "banner_image": "https://invezz.com/wp-content/uploads/2025/08/Swiss-gold-bars.png",
+      "source": "Invezz",
+      "category_within_source": "General",
+      "source_domain": "Invezz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934876"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.807480"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.714150"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632875"
+        }
+      ],
+      "overall_sentiment_score": -0.241878,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GLD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.218070",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Third Bancorp Stock: Subtle Drift, Quiet Charts, And A Cautiously Constructive Wall Street",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/fifth-third-bancorp-stock-subtle-drift-quiet-charts-and-a-cautiously/68446879",
+      "time_published": "20260101T043152",
+      "authors": [],
+      "summary": "Fifth Third Bancorp stock has subtly declined into the new year, characterized by muted trading and a market balancing rate-cut optimism against credit-cycle anxiety. Despite this, analysts largely maintain a constructive outlook with moderate upside targets, reinforcing the idea that quality regional banks can perform well even amidst macro noise. The stock's future trajectory hinges on interest rate timing, loan book performance, and credit cost control, suggesting a steady but unspectacular path forward.",
+      "banner_image": "https://mdb.ad-hoc-news.de/item/185362_finance-6097979_1920.jpg",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.919527"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825749"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.642433"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.618335"
+        }
+      ],
+      "overall_sentiment_score": 0.108107,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FITB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.149277",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "First Hawaiian Inc: Quiet Island Bank, Noisy Market Signals",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/first-hawaiian-inc-quiet-island-bank-noisy-market-signals/68447050",
+      "time_published": "20260101T051019",
+      "authors": [],
+      "summary": "First Hawaiian Inc.'s stock offers stability for income investors, exhibiting a calm surface despite underlying currents from global financial markets. While analysts largely issue \"Hold\" ratings with modest price targets, the bank's conservative balance sheet and consistent dividend appeal to those prioritizing predictability over high growth. Its future hinges on interest rates, credit quality, and strategic advancements in fee-based and digital banking.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907942"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739463"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.602285"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.613113"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.604174"
+        }
+      ],
+      "overall_sentiment_score": 0.115072,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FHB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.112220",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.606069",
+          "ticker_sentiment_score": "0.116187",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.646019",
+          "ticker_sentiment_score": "0.104737",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.614958",
+          "ticker_sentiment_score": "0.134270",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.618802",
+          "ticker_sentiment_score": "0.138626",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bank of Nova Scotia stock: Quiet consolidation or value trap in the making?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/bank-of-nova-scotia-stock-quiet-consolidation-or-value-trap-in-the/68446904",
+      "time_published": "20260101T053815",
+      "authors": [],
+      "summary": "Bank of Nova Scotia stock has been consolidating, underperforming peers despite offering a strong dividend. Investors are questioning if it's a value play or a \"dead money\" situation amidst higher interest rates and cautious analyst sentiment. The article explores its performance, future prospects, and the market's \"wait-and-see\" approach to the globally diversified bank.",
+      "banner_image": "https://mdb.ad-hoc-news.de/mdb/images/dpa-group/2023/12/31/35/ad-hoc-news_121568284_stock-1863880_1920.jpg",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.927968"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832418"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.732824"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.618748"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.625779"
+        }
+      ],
+      "overall_sentiment_score": 0.013114,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BNS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.009569",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About Iamgold Corp: Is This Gold Stock Secretly a Viral Come-Up Play?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/the-truth-about-iamgold-corp-is-this-gold-stock-secretly-a-viral-come-up/68443929",
+      "time_published": "20260101T060909",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article questions whether Iamgold Corp (IAM) is a promising gold stock or a regrettable investment, especially with gold prices fluctuating and interest in commodities rising. It analyzes IAM as a volatility play tied to gold prices, highlighting the importance of cost control and execution in mining operations, and compares it to larger competitors like Barrick Gold. The piece concludes that IAM is a high-risk, high-reward option suitable for investors who follow gold and macro trends, rather than a stable compounding asset.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935102"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.806953"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.722111"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.635204"
+        }
+      ],
+      "overall_sentiment_score": 0.073894,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IAG",
+          "relevance_score": "0.347615",
+          "ticker_sentiment_score": "0.024234",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.530032",
+          "ticker_sentiment_score": "0.097506",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ICICI Bank Ltd: Solid Rally, Subtle Jitters – What The Latest Price Action Really Says",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/icici-bank-ltd-solid-rally-subtle-jitters-what-the-latest-price/68447447",
+      "time_published": "20260101T070938",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "ICICI Bank Ltd has shown strong outperformance with a solid rally over the past year, prompting questions about whether the current tighter trading range indicates a healthy pause or the end of its upward cycle. Analysts largely remain bullish, highlighting the bank's improved asset quality, digital initiatives, and potential for sustained growth in India's resilient economy. Investors are now weighing its impressive 24% one-year gain against the narrowing margin for error at current valuations.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947025"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808329"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.745691"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.609622"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.619853"
+        }
+      ],
+      "overall_sentiment_score": 0.301507,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IBN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.306457",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "JBGS: Can JBG SMITH Properties Turn a Quiet Stock Into a Comeback Story?",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/jbgs-can-jbg-smith-properties-turn-a-quiet-stock-into-a-comeback-story/68447768",
+      "time_published": "20260101T095805",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "JBG SMITH Properties has experienced a quiet period with its shares trading below their 52-week peak. The market is showing indifference, balancing pessimism about offices with cautious optimism about falling interest rates. Wall Street maintains a \"Hold\" rating, seeing underlying value but lacking strong catalysts for a significant re-rating in the near term.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.928473"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829263"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.724216"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646241"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.639005"
+        }
+      ],
+      "overall_sentiment_score": 0.145832,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JBGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.112489",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.634999",
+          "ticker_sentiment_score": "0.315142",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Technical Reactions to IVOL Trends in Macro Strategies",
+      "url": "https://news.stocktradersdaily.com/news_release/39/Technical_Reactions_to_IVOL_Trends_in_Macro_Strategies_010126103002_1767281402.html",
+      "time_published": "20260101T103000",
+      "authors": [
+        "Thomas Y."
+      ],
+      "summary": "This article provides a technical analysis of Quadratic Interest Rate Volatility And Inflation Hedge Etf (NASDAQ: IVOL), indicating a neutral sentiment with a wait-and-see approach. It highlights a breakdown currently underway, suggesting potential lower levels if sustained, and an elevated downside risk due to a lack of additional long-term support signals. The analysis includes institutional trading strategies with entry points, targets, and stop losses, based on AI-generated signals for different time horizons.",
+      "banner_image": "https://news.stocktradersdaily.com/media/698851_IVOL_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936567"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.824669"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748604"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.608360"
+        }
+      ],
+      "overall_sentiment_score": -0.188952,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IVOL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.175497",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "The Truth About Zions Bancorp: Is This Regional Bank Stock a Secret Power Play or Just Hype?",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/the-truth-about-zions-bancorp-is-this-regional-bank-stock-a-secret-power/68447887",
+      "time_published": "20260101T103549",
+      "authors": [],
+      "summary": "This article examines Zions Bancorp (ZION), a regional bank stock, questioning if it's a valuable investment or simply overhyped. It analyzes the company's stock performance, dividend appeal, and risk profile, comparing it to other regional banks like KeyCorp and Fifth Third Bancorp. The article concludes that Zions Bancorp is an under-the-radar choice for long-term, risk-aware investors seeking dividend income and potential recovery, rather than a flashy, high-growth play.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.936052"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840892"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.749393"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.622936"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.628893"
+        }
+      ],
+      "overall_sentiment_score": 0.17656,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZION",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.314591",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KEY",
+          "relevance_score": "0.609289",
+          "ticker_sentiment_score": "0.119421",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.607814",
+          "ticker_sentiment_score": "0.134427",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SoFi stock slips into 2026 after year-end selloff — here’s what traders are watching next",
+      "url": "https://ts2.tech/en/sofi-stock-slips-into-2026-after-year-end-selloff-heres-what-traders-are-watching-next/",
+      "time_published": "20260101T120000",
+      "authors": [
+        "Khadija Saeed"
+      ],
+      "summary": "SoFi Technologies shares ended 2025 with a 1.4% decline to $26.18, influenced by a year-end selloff and a late Form 4 filing showing a director received 670 deferred stock units. Traders are now focusing on early-January U.S. economic data, interest-rate expectations, and SoFi's upcoming earnings report, with the company's stock often trading as a rate-sensitive growth name. Key resistance is at $27, signaling a potential rebound in risk appetite.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.845690"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.827436"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.742563"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826758"
+        }
+      ],
+      "overall_sentiment_score": -0.135598,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOFI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.022931",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PYPL",
+          "relevance_score": "0.647176",
+          "ticker_sentiment_score": "-0.204121",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BOK Financial Corp: Regional Bank Quietly Tests Investor Patience As Stock Drifts Sideways",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/bok-financial-corp-regional-bank-quietly-tests-investor-patience-as-stock/68448382",
+      "time_published": "20260101T130854",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BOK Financial Corp's stock has entered a subdued trading range, showing flat five-day performance and a soft three-month drift, leading to questions about its future. The company, a diversified regional financial services provider, is in a consolidation phase with low volatility. Its future hinges on interest rates, credit quality, and strategic investments in digital banking and wealth management.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.934580"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808518"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627550"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.636096"
+        }
+      ],
+      "overall_sentiment_score": -0.105579,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BOKF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.130288",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BOK Financial Corp: Regional Bank Quietly Tests Investor Patience As Stock Drifts Sideways",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/bok-financial-corp-regional-bank-quietly-tests-investor-patience-as-stock/68448382",
+      "time_published": "20260101T134240",
+      "authors": [],
+      "summary": "BOK Financial Corp's stock has entered a subdued trading range, showing flat performance over five days and a slight decline over three months. This period of low volatility and muted response to news raises questions for investors about whether the regional bank is a hidden value opportunity or if regional banking tailwinds are diminishing. The company's future depends on balancing traditional lending with fee-based services and conservative credit management in a stable economic environment.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.945581"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822687"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.717250"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.602457"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.614169"
+        }
+      ],
+      "overall_sentiment_score": 0.025548,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BOKF",
+          "relevance_score": "0.339772",
+          "ticker_sentiment_score": "0.001162",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bank of Hawaii Stock: Quiet Surface, Rising Undercurrents In A Nervous Regional?Bank Trade",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/bank-of-hawaii-stock-quiet-surface-rising-undercurrents-in-a-nervous/68448643",
+      "time_published": "20260101T140848",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bank of Hawaii stock has been in an uneasy equilibrium, with recent trading showing caution but not panic among investors. While the regional bank panic has faded, investors remain focused on balance sheet strength, deposit stickiness, and the outlook for Hawaii's tourism and real estate economies. Wall Street's verdict is cautious, with a consensus leaning towards \"Hold\" and analysts seeing value but limited growth potential.",
+      "banner_image": "NULL",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939180"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.841159"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.709907"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.703348"
+        }
+      ],
+      "overall_sentiment_score": 0.093463,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BOH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.064130",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.561738",
+          "ticker_sentiment_score": "0.053774",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.596575",
+          "ticker_sentiment_score": "0.074837",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.556528",
+          "ticker_sentiment_score": "0.087925",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.591537",
+          "ticker_sentiment_score": "0.085206",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bank of Hawaii Stock: Quiet Surface, Rising Undercurrents In A Nervous Regional?Bank Trade",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/bank-of-hawaii-stock-quiet-surface-rising-undercurrents-in-a-nervous/68448643",
+      "time_published": "20260101T140916",
+      "authors": [],
+      "summary": "Bank of Hawaii (BOH) stock has shown a period of consolidation, navigating investor caution concerning regional bank stability and Hawaii's tourism-driven economy. While trading near its 52-week low, signaling a rehabilitation story rather than a full-fledged winner, analysts maintain a \"Hold\" consensus, highlighting the franchise's value despite muted earnings growth prospects. The bank's future hinges on interest rate trends, the health of Hawaii's economy, and regulatory oversight.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.908758"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.876402"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.780212"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.730174"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.645008"
+        }
+      ],
+      "overall_sentiment_score": -0.080172,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BOH-P-A",
+          "relevance_score": "0.315331",
+          "ticker_sentiment_score": "0.038368",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.577755",
+          "ticker_sentiment_score": "-0.075460",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.558160",
+          "ticker_sentiment_score": "-0.064637",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.551230",
+          "ticker_sentiment_score": "-0.078172",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VICI Properties Inc: Defensive Yield, Quiet Charts, And A Market Searching For The Next Catalyst",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/vici-properties-inc-defensive-yield-quiet-charts-and-a-market-searching/68448667",
+      "time_published": "20260101T142044",
+      "authors": [],
+      "summary": "VICI Properties Inc. (VICI) has seen its stock edge lower recently in thin holiday trading, despite its long-term income story remaining intact. The stock is hovering near the middle of its 52-week range, with the market awaiting a fresh catalyst for a decisive trend, while fundamental yield math remains compelling for income-oriented investors. Wall Street analysts remain broadly constructive on the stock, with most recommending a Buy or Overweight rating and price targets significantly above current levels.",
+      "banner_image": null,
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927586"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.947971"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.738274"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.628512"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611024"
+        }
+      ],
+      "overall_sentiment_score": 0.26679,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VICI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.277729",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

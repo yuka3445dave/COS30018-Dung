@@ -1,0 +1,2437 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Shinhan Financial Cuts High-interest Loan Rates to Aid Struggling Borrowers",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=246206",
+      "time_published": "20250703T113300",
+      "authors": [
+        "Yoon Young-sil"
+      ],
+      "summary": "Shinhan Financial Group is implementing a \"Help-up & Value-up Project\" to significantly reduce interest rates for struggling borrowers, cutting rates by up to 4 percentage points for household loans exceeding 10% interest. The initiative also includes a 1 percentage point reduction for all New Hope Seed Loans for low-income individuals. This move is expected to benefit approximately 75,000 customers and save them an estimated 10 billion to 20 billion won in financial costs, reinforcing Shinhan's commitment to \"coexistence finance.\"",
+      "banner_image": "https://www.businesskorea.co.kr/news/photo/202507/246206_250296_307.jpg",
+      "source": "Businesskorea",
+      "category_within_source": "General",
+      "source_domain": "Businesskorea",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.809631"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.748645"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.609638"
+        }
+      ],
+      "overall_sentiment_score": 0.487519,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487915",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Live Oak Bancshares: Earnings Outlook Is Positive, But Stock Seems Overvalued (NYSE:LOB)",
+      "url": "https://seekingalpha.com/article/4799129-live-oak-bancshares-earnings-outlook-positive-but-stock-seems-overvalued",
+      "time_published": "20250703T113500",
+      "authors": [
+        "Sheen Bay Research"
+      ],
+      "summary": "Live Oak Bancshares (LOB) is expected to see earnings growth this year due to lower provisioning expense and a higher average loan balance, despite potential headwinds from an anticipated slowdown. The author anticipates a 50-bps Fed funds rate cut and a slowdown in loan growth due to tariffs, which will impact the bank's margin. Despite a positive earnings outlook, the stock appears overvalued compared to its year-end target price and offers a low dividend yield, leading to a \"Hold\" rating.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214413978/image_2214413978.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915614"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840240"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.804764"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.737250"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722867"
+        }
+      ],
+      "overall_sentiment_score": -0.252224,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LOB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.250731",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BLV: Long Term Treasury And Corporate Debt Opportunities",
+      "url": "https://seekingalpha.com/article/4799231-blv-long-term-treasuy-and-corporate-debt-opportunities",
+      "time_published": "20250704T013700",
+      "authors": [
+        "Node Analytica Research"
+      ],
+      "summary": "The article analyzes the Vanguard Long-Term Bond ETF (BLV), which offers diversified exposure to long-term investment-grade US government and corporate bonds. Due to its long duration, BLV is highly sensitive to interest rate changes, with its performance significantly influenced by Fed policy shifts. The author recommends against buying BLV currently, suggesting investors wait for spread widening and a NAV drop, but notes that holding an existing position is reasonable.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916386"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.801411"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.745759"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.648102"
+        }
+      ],
+      "overall_sentiment_score": -0.231363,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.240198",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Rising credit card defaults put Argentine bank stocks on alert",
+      "url": "https://buenosairesherald.com/economics/rising-credit-card-defaults-put-argentine-bank-stocks-on-alert",
+      "time_published": "20250706T210406",
+      "authors": [
+        "Carlos Lamiral"
+      ],
+      "summary": "An increase in credit card defaults in Argentina, recorded in April and continuing through May and June 2025, is raising concerns about future consumption and potential negative impacts on the stock market for financial institutions. The consulting firm LCG warns that rising household delinquency could significantly affect banks' bottom lines, with financial sector stocks already experiencing a negative year. This trend is attributed to family loans weighing heavily against stagnant wages and high-interest rates, leading to difficulties in debt repayment and increased late payments as reported by financial services companies and Moody's.",
+      "banner_image": "https://buenosairesherald.com/wp-content/uploads/2025/07/Credit-Card-1170x658.jpg",
+      "source": "Buenos Aires Herald",
+      "category_within_source": "General",
+      "source_domain": "Buenos Aires Herald",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.814555"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.806740"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.610326"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.637062"
+        }
+      ],
+      "overall_sentiment_score": 0.022281,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GGAL",
+          "relevance_score": "0.308112",
+          "ticker_sentiment_score": "0.034679",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Citi Mexico Expectations Survey (July 7, 2025)",
+      "url": "https://www.citigroup.com/global/insights/citi-mexico-expectations-survey-july-7-2025",
+      "time_published": "20250707T000000",
+      "authors": [],
+      "summary": "The Citi Mexico Expectations Survey (July 7, 2025) indicates that most participants anticipate a 25bps rate cut in August 2025 by the central bank. Inflation expectations have increased for Y/E 2025 and 2026, while peso expectations were reduced. GDP growth median expectations increased marginally for 2025 and 2026.",
+      "banner_image": null,
+      "source": "Citigroup",
+      "category_within_source": "General",
+      "source_domain": "Citigroup",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.900628"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.874470"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.702531"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630611"
+        }
+      ],
+      "overall_sentiment_score": 0.007413,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "C",
+          "relevance_score": "0.326707",
+          "ticker_sentiment_score": "0.040359",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BofA, Goldman Sachs latest on Wall Street to lift S&P 500 index's annual target",
+      "url": "https://finance.yahoo.com/news/goldman-sachs-lifts-p-500-023246633.html",
+      "time_published": "20250707T000000",
+      "authors": [
+        "Siddarth S and Rae Wee"
+      ],
+      "summary": "BofA Global Research and Goldman Sachs have raised their year-end targets for the S&P 500 index, citing reduced policy uncertainty, resilient corporate earnings, and potential interest rate cuts. BofA lifted its target to 6300 from 5600, while Goldman Sachs increased its target to 6600 from 6100. This comes after an earlier period of target cuts due to tariff fears, which have since eased, driving stocks to record highs.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.845653"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.723354"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636520"
+        }
+      ],
+      "overall_sentiment_score": 0.321285,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBXC",
+          "relevance_score": "0.323024",
+          "ticker_sentiment_score": "0.016909",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.746068",
+          "ticker_sentiment_score": "0.381910",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.943881",
+          "ticker_sentiment_score": "0.422634",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.601025",
+          "ticker_sentiment_score": "0.316742",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SPGI",
+          "relevance_score": "0.711001",
+          "ticker_sentiment_score": "0.373911",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What's Driving Precious Metal ETFs Rally in 2025?",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GLD-A/pressreleases/33250655/what-s-driving-precious-metal-etfs-rally-in-2025/",
+      "time_published": "20250707T111400",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "Precious metal ETFs have seen a significant rally in 2025, with gold, silver, and platinum all experiencing impressive gains. This rally is attributed to a combination of factors including safe-haven demand, strong industrial consumption for silver and platinum, supply deficits, and central bank gold purchases amid economic uncertainties. ETFs like GLTR, PPLT, GLD, and SLV have reflected these gains.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940675"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.831551"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.706608"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.635419"
+        }
+      ],
+      "overall_sentiment_score": 0.350082,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PPLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430313",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.643782",
+          "ticker_sentiment_score": "0.301659",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Holding Altitude: Fixed Income Perspectives for Volatile Times",
+      "url": "https://www.bny.com/investments/nl/en/intermediary/news-and-insights/volatility-series-apac/holding-altitude-fixed-income-perspectives-for-volatile-apac.html",
+      "time_published": "20250708T203452",
+      "authors": [
+        "David Leduc",
+        "Peter Bentley",
+        "Brendan Murphy"
+      ],
+      "summary": "This report, part of a three-part series, examines the fixed income landscape, highlighting increased volatility in U.S. bond markets and calling for global diversification. It suggests that while 2025's \"sell America\" trend is likely tactical, there are secular opportunities in Europe, particularly in Germany and peripheral European countries, and also notes potential value in UK bonds and emerging markets. The article emphasizes that a disciplined approach to fixed income and a diverse opportunity set can help investors manage volatility and add value, even as the U.S. market retains its significance for depth and unique opportunities.",
+      "banner_image": "https://www.bny.com/content/dam/imemea/articles/tile/volatility-second.jpg",
+      "source": "BNY",
+      "category_within_source": "General",
+      "source_domain": "BNY",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914351"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.805519"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.736417"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.634638"
+        }
+      ],
+      "overall_sentiment_score": -0.055489,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BK",
+          "relevance_score": "0.701496",
+          "ticker_sentiment_score": "-0.061711",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HSBC downgrades JPMorgan, Goldman, and BofA on bank stock rally concerns",
+      "url": "https://www.investmentnews.com/equities/hsbc-downgrades-jpmorgan-goldman-and-bofa-on-bank-stock-rally-concerns/261208",
+      "time_published": "20250708T210535",
+      "authors": [
+        "Bloomberg"
+      ],
+      "summary": "HSBC has downgraded JPMorgan Chase & Co., Goldman Sachs Group Inc., and Bank of America Corp., citing concerns that their recent stock rally hasn't adequately factored in downside risks such as macro uncertainty and potential interest rate cuts. Analyst Saul Martinez believes that while factors like improving investment banking activity are priced in, the risks of slowing economic growth in 2025 and 2026 are not. JPMorgan and Goldman Sachs were lowered to 'reduce' from 'hold,' and Bank of America to 'hold' from 'buy,' with HSBC expressing a more positive outlook on super-regional banks due to their more attractive valuations.",
+      "banner_image": "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/investmentnews/uploads/2024/05/wall-street-sign-in-lower-manhattan-nyc.jpg_s1024x1024wisk20csijWniPq_BbkS-ZnbibJoveXqsCKEEG-dbQ3hpRVFpE.jpg",
+      "source": "InvestmentNews",
+      "category_within_source": "General",
+      "source_domain": "InvestmentNews",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902616"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846499"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.736268"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.619215"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.644442"
+        }
+      ],
+      "overall_sentiment_score": -0.243956,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS-P-C",
+          "relevance_score": "0.304146",
+          "ticker_sentiment_score": "0.042316",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.316391",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.975408",
+          "ticker_sentiment_score": "-0.343718",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.952815",
+          "ticker_sentiment_score": "-0.338388",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "New WisdomTree ETF to Capture Global Geopolitical Shifts",
+      "url": "https://etftrends.com/model-portfolio-channel/new-wisdomtree-etf-capture-global-geopolitical-shifts/",
+      "time_published": "20250708T220137",
+      "authors": [
+        "Zandile Chiwanza"
+      ],
+      "summary": "WisdomTree has launched a new ETF, the WisdomTree GeoAlpha Opportunities Fund (GEOA), on the NYSE. This fund employs a passive strategy to track a rules-based index focusing on companies that stand to benefit from global geopolitical events, shifts in fiscal and monetary policy, technological innovation, and changing consumer preferences. GEOA aims to provide investors a way to align their portfolios with dynamic global developments and carries a net expense ratio of 0.58%.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2025/09/Modern_Alpha_WisdomTree_masthead_overlay_1600x121@2x-1.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941684"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.828068"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712587"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.619677"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.648129"
+        }
+      ],
+      "overall_sentiment_score": 0.027656,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WDGF",
+          "relevance_score": "0.319534",
+          "ticker_sentiment_score": "0.034774",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rate Cuts Mean Core-Plus Bonds Could Shine",
+      "url": "https://www.etftrends.com/portfolio-strategies-channel/rate-cuts-mean-core-plus-bond-funds/",
+      "time_published": "20250709T155250",
+      "authors": [
+        "Nick Wodeshick"
+      ],
+      "summary": "Experts and advisors are reconsidering their predictions for interest rate cuts in 2025, with a growing number of investors and even President Trump calling for the Federal Reserve to lower rates sooner. This potential shift could significantly benefit core-plus bonds, which combine stable core holdings with opportunistic investments in high-yield and emerging market debt. Funds like the BNY Mellon Core Plus Fund (DCPAX) are highlighted as strong options to capitalize on a lower interest rate environment due to their diversified approach and current income track record.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2025/09/Portfolio_Strategies_masthead_overlay_1600x121@2x.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911639"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.843210"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730185"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.635560"
+        }
+      ],
+      "overall_sentiment_score": 0.034046,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BCPL",
+          "relevance_score": "0.341120",
+          "ticker_sentiment_score": "0.016729",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MGK: A Buy And Hold Strategy Can Help Earn Lofty Returns (NYSEARCA:MGK)",
+      "url": "https://seekingalpha.com/article/4800233-mgk-a-buy-and-hold-strategy-can-help-earn-lofty-returns",
+      "time_published": "20250709T155900",
+      "authors": [
+        "Komal Sarwar"
+      ],
+      "summary": "The Vanguard Mega Cap Growth Index Fund ETF Shares (MGK) has historically outperformed its peers and the broader market due to its focus on mega-cap tech stocks. The author anticipates continued strong momentum for MGK over the next 18 months, driven by robust earnings, economic growth, and expected interest rate cuts. With its low expense ratio, high liquidity, and exposure to dominant tech companies, MGK is presented as a compelling long-term buy-and-hold investment, despite concentration and tech-driven volatility risks.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922801"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.716676"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.630982"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809746"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702821"
+        }
+      ],
+      "overall_sentiment_score": 0.473827,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MGK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.473960",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tariff Worries Drive Credit Demand—And Credit Unions Could Reap the Rewards",
+      "url": "https://www.cutoday.info/THE-feature/Tariff-Worries-Drive-Credit-Demand-And-Credit-Unions-Could-Reap-the-Rewards",
+      "time_published": "20250713T075200",
+      "authors": [],
+      "summary": "Concerns about tariffs and inflation are prompting consumers to seek credit, presenting a significant opportunity for credit unions. New data from TransUnion indicates that nearly nine in 10 Americans are worried about tariffs, driving them to open new credit lines, take out loans, or refinance debt to build a financial cushion. Older consumers are particularly leading this trend, and credit unions are well-positioned to serve these needs through their relationship-based financial advising model.",
+      "banner_image": "https://www.cutoday.info/var/ezdemo_site/storage/images/media/images/istock-wildpixel/1874852-1-eng-US/iStock-wildpixel_galleryfull.jpg",
+      "source": "CU Today",
+      "category_within_source": "General",
+      "source_domain": "CU Today",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.934438"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806643"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.736875"
+        }
+      ],
+      "overall_sentiment_score": 0.303431,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.318871",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "April Grajales, Tampa Market Executive, Regions Bank",
+      "url": "https://capitalanalyticsassociates.com/april-grajales-tampa-market-executive-regions-bank/",
+      "time_published": "20250713T214015",
+      "authors": [],
+      "summary": "April Grajales, Tampa Market Executive for Regions Bank, discusses the bank's leadership in West Florida, its focus on supporting small businesses, and its strategic investments in technology and customer experience. She highlights the bank's contributions to hurricane relief, its initiatives like SBA loan packages and the Regions Greenprint program, and its commitment to talent recruitment and retention in the evolving banking sector. Grajales also outlines future priorities, including expanding the Regions 360 approach and enhancing mobile banking while maintaining personalized in-branch interactions.",
+      "banner_image": null,
+      "source": "Capital Analytics Associates",
+      "category_within_source": "General",
+      "source_domain": "Capital Analytics Associates",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.837761"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.714776"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.606847"
+        }
+      ],
+      "overall_sentiment_score": 0.346325,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.496926",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "USB",
+          "relevance_score": "0.613284",
+          "ticker_sentiment_score": "0.205876",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BGT: The Golden Era For Floating Rate Funds Has Passed (NYSE:BGT)",
+      "url": "https://seekingalpha.com/article/4801097-bgt-the-golden-era-for-floating-rate-funds-have-passed",
+      "time_published": "20250714T113700",
+      "authors": [
+        "Cain Lee"
+      ],
+      "summary": "The BlackRock Floating Rate Income Trust Fund (BGT) offers an 11.5% yield from floating rate loans, benefiting from high interest rates. However, its significant exposure to below-investment-grade borrowers and a current premium to NAV raise concerns, especially with potential future rate cuts. Given the likelihood of interest rate reductions and potential dividend cuts, the author rates BGT as a hold.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445809826/image_1445809826.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936146"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.848563"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722226"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.645796"
+        }
+      ],
+      "overall_sentiment_score": -0.134558,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.272652",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.626548",
+          "ticker_sentiment_score": "0.044401",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TLT: The Upside Could Be Much Bigger Than You Think",
+      "url": "https://seekingalpha.com/article/4801065-tlt-upside-could-be-much-bigger-than-you-think",
+      "time_published": "20250714T203557",
+      "authors": [
+        "Hawkinvest"
+      ],
+      "summary": "The author is bullish on the iShares 20+ Year Treasury Bond ETF (TLT), viewing its current price and nearly 5% yield as an attractive buying opportunity with limited long-term risk. They anticipate lower interest rates due to Fed policy or recession, which could significantly boost TLT's value. The author also believes concerns about U.S. government creditworthiness are overstated, suggesting that locking in TLT's high yield now offers a favorable risk/reward as rates are expected to drop.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1436441539/image_1436441539.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930360"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.849393"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713837"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.615496"
+        }
+      ],
+      "overall_sentiment_score": 0.035308,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BOXL",
+          "relevance_score": "0.304650",
+          "ticker_sentiment_score": "0.008801",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "5 Stocks to Buy Before Wall Street Catches On",
+      "url": "https://www.morningstar.com/stocks/5-stocks-buy-before-wall-street-catches-2",
+      "time_published": "20250715T000000",
+      "authors": [
+        "David Sekera",
+        "Susan Dziubinski"
+      ],
+      "summary": "This article from Morningstar's \"The Morning Filter\" discusses five undervalued stocks to buy before Wall Street recognizes their potential, chosen by Morningstar's Chief US Market Strategist David Sekera. It also covers economic news, a preview of bank earnings, and market valuation insights. The featured stocks include US Bancorp, Baxter International, Eversource Energy, Campbell's, and LyondellBasell Industries, with detailed analysis on their valuations, moats, and investment theses.",
+      "banner_image": null,
+      "source": "Morningstar",
+      "category_within_source": "General",
+      "source_domain": "Morningstar",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915239"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.846897"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.835074"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810669"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712296"
+        }
+      ],
+      "overall_sentiment_score": 0.304515,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STZ",
+          "relevance_score": "0.940341",
+          "ticker_sentiment_score": "0.315601",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LYB",
+          "relevance_score": "0.827152",
+          "ticker_sentiment_score": "0.429775",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ES",
+          "relevance_score": "0.733568",
+          "ticker_sentiment_score": "0.188686",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAX",
+          "relevance_score": "0.695744",
+          "ticker_sentiment_score": "0.357432",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "News | Banks shrink exposure to problem office loans, led by Wells Fargo",
+      "url": "https://www.costar.com/article/2119927792/banks-shrink-exposure-to-problem-office-loans-led-by-wells-fargo",
+      "time_published": "20250715T204000",
+      "authors": [
+        "Andy Peters"
+      ],
+      "summary": "Wells Fargo reported an improvement in credit quality within its office-building loan portfolio in Q2 2025, with overdue payments decreasing by 3.2% to $7.96 billion. Other major banks like JPMorgan Chase and Citigroup also reported earnings, with banks generally reducing their exposure to nonperforming office loans. Despite some signs of relief, experts anticipate another 12 to 18 months for banks to purge these loans to manageable levels.",
+      "banner_image": null,
+      "source": "CoStar",
+      "category_within_source": "General",
+      "source_domain": "CoStar",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931744"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.811541"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740776"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.637053"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.606482"
+        }
+      ],
+      "overall_sentiment_score": 0.113076,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296284",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.811812",
+          "ticker_sentiment_score": "0.115403",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.664432",
+          "ticker_sentiment_score": "0.063544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.646257",
+          "ticker_sentiment_score": "0.110498",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.588465",
+          "ticker_sentiment_score": "0.029464",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mexico Leads Latin America with 8% Bond Yields Despite Easing",
+      "url": "https://mexicobusiness.news/finance/news/mexico-leads-latin-america-8-bond-yields-despite-easing",
+      "time_published": "20250716T130100",
+      "authors": [
+        "MBN Staff"
+      ],
+      "summary": "Despite a monetary easing phase, Mexico offers the highest sovereign bond yields among Latin America's investment-grade nations, with its benchmark interest rate at 8%. This makes Mexico an attractive destination for global investors, further supported by the Mexican peso's strength against a weakening US dollar and sustained foreign demand for peso-denominated assets. The central bank recently cut rates to 8%, yet Mexico maintains relatively high nominal and real interest rates, reflecting one of the region's most restrictive monetary policies.",
+      "banner_image": "https://mexicobusiness.news/sites/default/files/2022-12/MBN-2022-img-WebsiteRedesign-Finances.jpg",
+      "source": "Mexico Business News",
+      "category_within_source": "General",
+      "source_domain": "Mexico Business News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936720"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.837020"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705843"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.614368"
+        }
+      ],
+      "overall_sentiment_score": 0.197554,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TEMD",
+          "relevance_score": "0.331877",
+          "ticker_sentiment_score": "0.023504",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BEN",
+          "relevance_score": "0.705280",
+          "ticker_sentiment_score": "0.315377",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.605782",
+          "ticker_sentiment_score": "0.215626",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.632586",
+          "ticker_sentiment_score": "0.227475",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.630321",
+          "ticker_sentiment_score": "0.228720",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gartner Survey Shows 37% of Finance Leaders Have Already Paused Some Capital Spending, Yet AI Investments Remain a Top Priority for 2H25",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-07-17-gartner-survey-shows-37-percent-of-finance-leaders-have-already-paused-some-capital-spending-yet-ai-investments-remain-a-top-priority-for-2h25",
+      "time_published": "20250717T000000",
+      "authors": [],
+      "summary": "A Gartner survey reveals that 37% of finance leaders have paused some capital spending for the second half of 2025 due to economic and policy uncertainties. Despite this caution and widespread cost-cutting efforts (67% of leaders), investments in AI remain a top priority. Finance leaders are reallocating funds from low ROI areas to strategic AI initiatives, focusing on targeted enterprise use cases with measurable impact.",
+      "banner_image": null,
+      "source": "Gartner",
+      "category_within_source": "General",
+      "source_domain": "Gartner",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911737"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.819022"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.735383"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.607336"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.641167"
+        }
+      ],
+      "overall_sentiment_score": 0.271025,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.287557",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bond market outlook: Resilience and rate cuts",
+      "url": "https://www.invesco.com/ca/en/insights/bond-market-outlook-resilience-rate-cuts.html",
+      "time_published": "20250717T000000",
+      "authors": [
+        "Matthew Brill",
+        "Craig Altholz"
+      ],
+      "summary": "The bond market has seen strong returns year to date due to economic resilience and lower-than-feared inflation, according to Invesco's outlook. While credit spreads remain tight, the Federal Reserve is anticipated to cut rates, possibly in September, contingent on economic data showing signs of slowing. The authors discuss these trends, along with investor behavior and the potential for increased participation from individual investors.",
+      "banner_image": null,
+      "source": "Invesco",
+      "category_within_source": "General",
+      "source_domain": "Invesco",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949904"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.818510"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.720748"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637208"
+        }
+      ],
+      "overall_sentiment_score": 0.275871,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.866410",
+          "ticker_sentiment_score": "0.296120",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Third: Q2 Report Shows Net Interest Income Growth Sacrifices Deposits (NASDAQ:FITB)",
+      "url": "https://seekingalpha.com/article/4801989-fifth-third-q2-report-shows-net-interest-income-growth-sacrifices-deposits",
+      "time_published": "20250717T210143",
+      "authors": [
+        "Harrison Schwartz"
+      ],
+      "summary": "Fifth Third Bancorp's Q2 earnings beat expectations slightly, but the stock fell in morning trading. The author upgrades FITB to neutral, citing stabilized credit risk, but warns of potential net interest margin issues due to deposit declines and reliance on non-sticky funding. The article suggests avoiding FITB for now due to its high valuation and economic indicators posing risks to earnings and valuation.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2008721236/image_2008721236.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943936"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819832"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721603"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600556"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.633525"
+        }
+      ],
+      "overall_sentiment_score": 0.0192,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.348295",
+          "ticker_sentiment_score": "0.018598",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Quiet Outperformer: Why EM Bonds Deserve a Second Look",
+      "url": "https://www.vaneck.com/li/en/blog/emerging-markets/the-quiet-outperformer-why-em-bonds-deserve-a-second-look/",
+      "time_published": "20250718T185733",
+      "authors": [
+        "William Sokol"
+      ],
+      "summary": "Emerging Markets (EM) bonds have been quietly outperforming U.S. and global broad markets over the past decade, driven by higher yields, strong fundamentals, and diversification benefits. Despite investor disinterest in recent years, ongoing geopolitical shifts and increasing risks in developed markets suggest a potential turning point for EM bonds. The article highlights their attractive real yields, sound fundamental metrics compared to developed markets, and their role in diversifying U.S.-centric fixed income portfolios.",
+      "banner_image": null,
+      "source": "VanEck",
+      "category_within_source": "General",
+      "source_domain": "VanEck",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924438"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.846340"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.723787"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602695"
+        }
+      ],
+      "overall_sentiment_score": 0.624012,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.638146",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Watch Huntington Bank CFO: Q2 Earnings Were \"Phenomenal\"",
+      "url": "https://www.bloomberg.com/news/videos/2025-07-18/huntington-bank-cfo-q2-earnings-were-phenomenal-video",
+      "time_published": "20250718T201300",
+      "authors": [],
+      "summary": "Huntington Bank CFO Zach Wasserman discusses the company's \"phenomenal\" Q2 earnings, highlighting strong loan and deposit growth, and increased fees. He also addresses the recent acquisition of Veritex Holdings Inc. for $1.9 billion, which will expand Huntington's presence in key Texas markets like Dallas and Houston. Wasserman touches on investor reactions to regional bank stocks and the importance of an independent Federal Reserve.",
+      "banner_image": null,
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920008"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.828393"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727222"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.609479"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.615981"
+        }
+      ],
+      "overall_sentiment_score": 0.394059,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBAN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.459519",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "VRTX",
+          "relevance_score": "0.858251",
+          "ticker_sentiment_score": "0.346288",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Private Credit: Promising or Problematic?",
+      "url": "https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/tmt-private-credit-promising-or-problematic",
+      "time_published": "20250718T203050",
+      "authors": [
+        "Sitara Sundar",
+        "Federico Cuevas",
+        "Audrey Weiss"
+      ],
+      "summary": "J.P. Morgan's experts discuss the opportunities and risks associated with private credit, acknowledging Jamie Dimon's concerns about potential mismanagement while emphasizing its role in filling lending gaps. They argue that fears of a systemic crisis are overstated and that strong returns are achievable with careful management and diversification, particularly in opportunistic credit. The article highlights key considerations for investors navigating this evolving market.",
+      "banner_image": "https://www.jpmorgan.com/content/dam/jpmorgan/images/jpma/tmt-private-credit-promising-or-problematic/tmt-private-credit-promising-or-problematic-hero.jpg",
+      "source": "J.P. Morgan",
+      "category_within_source": "General",
+      "source_domain": "J.P. Morgan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921185"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.827595"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.747667"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.625508"
+        }
+      ],
+      "overall_sentiment_score": 0.258734,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMJB",
+          "relevance_score": "0.315388",
+          "ticker_sentiment_score": "0.018841",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446573",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.723144",
+          "ticker_sentiment_score": "0.335699",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.739988",
+          "ticker_sentiment_score": "0.320948",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.642054",
+          "ticker_sentiment_score": "0.243898",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "More Canadians struggling with bills amid mortgage renewal woes",
+      "url": "https://www.mpamag.com/ca/mortgage-industry/industry-trends/more-canadians-struggling-with-bills-amid-mortgage-renewal-woes/543051",
+      "time_published": "20250718T214758",
+      "authors": [
+        "Jonalyn Cueto"
+      ],
+      "summary": "A TransUnion study reveals that over one in four Canadians are struggling to pay their bills, largely due to affordability pressures and economic uncertainty. Many homeowners who took out mortgages during the pandemic are now facing \"payment shock\" as interest rates rise, with over two million Canadians seeing an average 25% increase in monthly mortgage payments since March 2022. This financial strain is also leading to increased credit card debt and a reduction in discretionary spending.",
+      "banner_image": "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/us/074/0373_638884352370323385.png",
+      "source": "Mortgage Professional America",
+      "category_within_source": "General",
+      "source_domain": "Mortgage Professional America",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.804914"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.903076"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.837539"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.909745"
+        }
+      ],
+      "overall_sentiment_score": -0.319867,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.322228",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kayne Anderson BDC: Potential, But Nothing Special Yet (NYSE:KBDC)",
+      "url": "https://seekingalpha.com/article/4801969-kayne-anderson-bdc-potential-but-nothing-special-yet",
+      "time_published": "20250719T211127",
+      "authors": [
+        "Dividend Collection Agency"
+      ],
+      "summary": "Kayne Anderson BDC (KBDC) has solid fundamentals, including high first-lien loan exposure and low leverage, which support a defensive investment profile. However, concerns about declining net investment income and rising non-accruals, especially with anticipated falling interest rates, present risks to dividend sustainability. Despite trading at a slight discount to NAV, the author maintains a Hold rating due to limited upside and economic uncertainties, awaiting clarity on interest rates, NAV stability, and lower non-accruals before considering an upgrade.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1031796128/image_1031796128.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.839449"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913435"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704360"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.619192"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.616635"
+        }
+      ],
+      "overall_sentiment_score": 0.048537,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBDC",
+          "relevance_score": "0.341794",
+          "ticker_sentiment_score": "0.039838",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How the CEO of Ralph Lauren got the company through the 'boiled frog phenomenon' of going too wide, too cheap",
+      "url": "https://fortune.com/2025/07/21/ceo-ralph-lauren-boiled-frog/",
+      "time_published": "20250721T053400",
+      "authors": [
+        "Peter Vanham"
+      ],
+      "summary": "Patrice Louvet, CEO of Ralph Lauren, discusses how he steered the company away from over-expansion and promotion, a strategy he likens to the \"boiled frog phenomenon.\" By implementing a multi-year \"brand elevation\" campaign, resetting consumer expectations, and streamlining distribution, Ralph Lauren has seen rising margins and sales at a nine-year high. Louvet emphasizes that the company is not in the apparel business but the \"dreams business,\" aiming to attract younger consumers through initiatives like \"Ralph's Coffee\" stores.",
+      "banner_image": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2223754112-e1753090168566.jpg?format=webp&w=1440&q=100",
+      "source": "Fortune",
+      "category_within_source": "General",
+      "source_domain": "Fortune",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.825751"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.744910"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632131"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.635825"
+        }
+      ],
+      "overall_sentiment_score": 0.281508,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.435885",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PG",
+          "relevance_score": "0.615781",
+          "ticker_sentiment_score": "0.311482",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DIS",
+          "relevance_score": "0.713277",
+          "ticker_sentiment_score": "0.312088",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.625643",
+          "ticker_sentiment_score": "0.132886",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Citi Mexico Expectations Survey (July 22, 2025)",
+      "url": "https://www.citigroup.com/global/insights/citi-mexico-expectations-survey-july-22-2025",
+      "time_published": "20250722T000000",
+      "authors": [],
+      "summary": "The Citi Mexico Expectations Survey for July 22, 2025, indicates that most participants anticipate a 25bps rate cut in August 2025, with the median policy rate forecast for Y/E 2025 held at 7.50%. Peso expectations were reduced for 2025 and 2026, while core inflation expectations for Y/E 2025 increased slightly. GDP growth median expectations remained stable for 2025 but were reduced for 2026.",
+      "banner_image": null,
+      "source": "Citigroup",
+      "category_within_source": "General",
+      "source_domain": "Citigroup",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.919833"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.823080"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.616097"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.629586"
+        }
+      ],
+      "overall_sentiment_score": 0.016034,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "C",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.011806",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PulteGroup Reports Second Quarter 2025 Financial Results",
+      "url": "https://newsroom.pultegroup.com/pultegroup-reports-second-quarter-2025-financial-results/",
+      "time_published": "20250722T123300",
+      "authors": [],
+      "summary": "PulteGroup announced strong second-quarter 2025 financial results, reporting earnings of $3.03 per share on net income of $608 million. The company closed 7,639 homes, generating $4.3 billion in home sale revenues and achieving a gross margin of 27.0%. Despite current market challenges, PulteGroup maintained disciplined business practices, repurchased $300 million in stock, and ended the quarter with a strong cash balance and reduced debt-to-capital ratio.",
+      "banner_image": null,
+      "source": "PulteGroup, Inc.",
+      "category_within_source": "General",
+      "source_domain": "PulteGroup, Inc.",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.918731"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.715646"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620332"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.639388"
+        }
+      ],
+      "overall_sentiment_score": 0.320901,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PHM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.292848",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Richard Orrell’ Top Picks for July 22, 2025",
+      "url": "https://www.bnnbloomberg.ca/markets/2025/07/22/richard-orrell-top-picks-for-july-22-2025/",
+      "time_published": "20250722T203326",
+      "authors": [
+        "BNNBloomberg.ca Staff"
+      ],
+      "summary": "Richard Orrell, Portfolio Manager at Croft Financial Group, shared his top ETF picks for July 22, 2025, which include the Invesco NASDAQ 100 Index ETF, Global X Artificial Intelligence Semiconductor Index ETF, and iShares Core S&P 500 Index ETF (CAD – Hedged). He noted that the market has largely priced in tariff-related news, and anticipates a downward trend in U.S. interest rates and a weakening U.S. dollar. Orrell also highlighted the strong long-term growth potential of artificial intelligence and suggested using any market softness at the end of July as an opportunity to increase equity exposure.",
+      "banner_image": "https://www.bnnbloomberg.ca/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fbellmediainc%2FR6HKZ4PAIBF3HJCUSVX2R6WBRE.png?smart=true&auth=7a6f35b1a8fe20a88bc2c9b4c50eda6e77dd265e0adc9ece13c90670461ff7d1&width=600",
+      "source": "BNN Bloomberg",
+      "category_within_source": "General",
+      "source_domain": "BNN Bloomberg",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930621"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.820049"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.724970"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826987"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711852"
+        }
+      ],
+      "overall_sentiment_score": 0.543761,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BALQ",
+          "relevance_score": "0.315577",
+          "ticker_sentiment_score": "0.008049",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.881390",
+          "ticker_sentiment_score": "0.738627",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.739243",
+          "ticker_sentiment_score": "0.675906",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.748523",
+          "ticker_sentiment_score": "0.672058",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.632113",
+          "ticker_sentiment_score": "0.602322",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OXLC Stock Plunge: Buying Opportunity?",
+      "url": "https://stockstotrade.com/news/oxford-lane-capital-corp-oxlc-news-2025_07_23/",
+      "time_published": "20250723T140300",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Oxford Lane Capital Corp. (OXLC) recently experienced an unexpected stock plunge of over 8%, attributed to market concerns over interest rates and macroeconomic fears in the CEF sector. Despite the downturn, analysts suggest it could be a buying opportunity due to OXLC's consistent dividend payouts and strong profit margins. The article emphasizes that while OXLC faces market volatility, its financial resilience and potential management strategy changes hint at future growth, attracting risk-tolerant, income-seeking investors.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/07/oxlc-stock-plunge-sbuying-opportunity-or-risky-gambles.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903060"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924772"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.718723"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600378"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709384"
+        }
+      ],
+      "overall_sentiment_score": 0.037125,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OXLCO",
+          "relevance_score": "0.335855",
+          "ticker_sentiment_score": "0.014362",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moody's reports higher second-quarter profit on analytics unit strength",
+      "url": "https://ca.finance.yahoo.com/news/moodys-reports-higher-second-quarter-115218807.html",
+      "time_published": "20250723T211635",
+      "authors": [
+        "Pritam Biswas",
+        "Tasim Zahid"
+      ],
+      "summary": "Ratings agency Moody's reported increased second-quarter profit due to strong performance in its data and analytics unit and a rise in government borrowing. The company's analytics segment saw an 11% revenue increase, and its Investors Service business generated $1 billion. Moody's narrowed its annual adjusted earnings per share forecast, indicating a slight upgrade from its previous outlook.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/bxDqyvqmWew1uMJEcIwCGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/reuters.com/38a5467cc825b1f727035315f6485f75",
+      "source": "Yahoo! Finance Canada",
+      "category_within_source": "General",
+      "source_domain": "Yahoo! Finance Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911303"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822710"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748844"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.638170"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.649493"
+        }
+      ],
+      "overall_sentiment_score": 0.546679,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.533104",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "News | Why Blackstone sees real estate recovery picking up speed",
+      "url": "https://www.costar.com/article/1879585352/questions-why-blackstone-sees-real-estates-recovery-picking-up-speed",
+      "time_published": "20250724T202300",
+      "authors": [
+        "Andria Cheng",
+        "Mark Heschmeyer"
+      ],
+      "summary": "Blackstone, the world's largest commercial property owner, anticipates a real estate recovery, evidenced by a significant increase in new capital attracted in the second quarter. Key executives cite factors like reduced warehouse and apartment construction, expected Federal Reserve rate cuts, and deal-making resuming as drivers for this recovery. Despite past struggles in its real estate segments, the firm saw record assets under management and a strong pipeline for potential IPOs, indicating a positive outlook.",
+      "banner_image": "https://www.costar.com/_next/image?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fdims4%2Fdefault%2F129fa5e%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F2048x1365%2B0%2B0%2Fresize%2F2048x1365!%2Fquality%2F100%2F%3Furl%3Dhttp%253A%252F%252Fcostar-brightspot.s3.us-east-1.amazonaws.com%252F13%252F7c%2F723fea80415cb1941e78e3c1ee50%252Fblackstone-getty.jpg&w=3840&q=75",
+      "source": "CoStar",
+      "category_within_source": "General",
+      "source_domain": "CoStar",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.936326"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.803727"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.715676"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636509"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.622690"
+        }
+      ],
+      "overall_sentiment_score": 0.031954,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BX",
+          "relevance_score": "0.339856",
+          "ticker_sentiment_score": "0.013501",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Top Trading Strategies Using XLF ETF",
+      "url": "https://www.ebc.com/forex/top-trading-strategies-using-xlf-etf",
+      "time_published": "20250725T052137",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The XLF ETF is a key tool for traders focusing on the U.S. financial sector, especially during market shifts influenced by interest rates or regulatory announcements. It offers high liquidity and exposure to major financial institutions, making it suitable for both bullish and bearish strategies without the idiosyncratic risks of individual stocks. The article details XLF's cost-effectiveness, composition, performance against peers, liquidity, and inherent risks, along with popular trading strategies.",
+      "banner_image": "https://www.ebc.com/upload/portal/20250725/fa3a88731d6d8b27a8902187aa6b08a2.jpg",
+      "source": "EBC Financial Group",
+      "category_within_source": "General",
+      "source_domain": "EBC Financial Group",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948967"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.843628"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.704176"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.608618"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.605841"
+        }
+      ],
+      "overall_sentiment_score": 0.369168,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XLF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.539971",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.635514",
+          "ticker_sentiment_score": "0.307542",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "V",
+          "relevance_score": "0.620986",
+          "ticker_sentiment_score": "0.349810",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.604035",
+          "ticker_sentiment_score": "0.313450",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Responding to Shifting Commodity Cycles With SDCI",
+      "url": "https://www.etftrends.com/etf-building-blocks-content-hub/responding-shifting-commodity-cycles-sdci/",
+      "time_published": "20250725T141003",
+      "authors": [
+        "Zandile Chiwanza"
+      ],
+      "summary": "The article discusses how investors can respond to accelerated commodity price cycles using the USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund (SDCI). It highlights SDCI's active, monthly rebalancing approach, broad diversification across commodity sectors, and its resilience as a diversifier against inflation and geopolitical shocks. The fund is presented as a timely solution for long-term investors seeking adaptive real asset exposure in increasingly volatile markets.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2025/09/ETF_Building_Blocks_ALPS_masthead_overlay_1600x121@2x.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901699"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.804598"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.718920"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.610158"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607179"
+        }
+      ],
+      "overall_sentiment_score": 0.457089,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDCI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.469773",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "$4,000 Is Ethereum's Last Hurdle Before Price Discovery, Says Galaxy Digital's Mike Novogratz",
+      "url": "https://finance.yahoo.com/news/4-000-ethereums-last-hurdle-112738024.html",
+      "time_published": "20250725T210443",
+      "authors": [
+        "Murtuza J Merchant"
+      ],
+      "summary": "Mike Novogratz, CEO of Galaxy Digital, believes Ethereum (ETH) is poised to outperform Bitcoin (BTC) in the coming months, with $4,000 being a critical resistance level before \"price discovery.\" He highlights increasing institutional interest and capital rotation into Ethereum, coupled with limited supply, as key drivers. Galaxy Digital's portfolio reflects this bullish outlook, with significant ETH holdings and a belief that the current macro environment favors \"inflation trades\" like crypto.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HizwK5zYqX0sSg12CHlHfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/f4b4e310-2b77-11eb-afee-ca1478f0e9ef",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923314"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.736548"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.638987"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.605940"
+        }
+      ],
+      "overall_sentiment_score": 0.396832,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GLXY",
+          "relevance_score": "0.318271",
+          "ticker_sentiment_score": "0.000967",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.830286",
+          "ticker_sentiment_score": "0.747794",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Procter & Gamble executives discuss job cuts, price hikes during key earnings report",
+      "url": "https://www.wlwt.com/article/procter-gamble-cincinnati-earnings-report-job-cuts/65544410",
+      "time_published": "20250729T214200",
+      "authors": [
+        "Todd Dykes"
+      ],
+      "summary": "Procter & Gamble announced plans to raise prices on certain products by about 5% due to tariffs and will implement a restructuring plan involving 7,000 white-collar job cuts over the next two years. CEO John Moeller addressed challenges like tariffs, consumer anxiety, and inflation during an earnings call, expressing confidence in the restructuring, while Shailesh Jejurikar was named the new CEO starting in January. The company anticipates $1 billion in higher costs from tariffs and aims to mitigate these impacts through sourcing flexibility, productivity, and pricing.",
+      "banner_image": null,
+      "source": "WLWT",
+      "category_within_source": "General",
+      "source_domain": "WLWT",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901800"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.806499"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.740915"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.644455"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627516"
+        }
+      ],
+      "overall_sentiment_score": -0.136245,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.232282",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "KMB",
+          "relevance_score": "0.610932",
+          "ticker_sentiment_score": "-0.148406",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CL",
+          "relevance_score": "0.561826",
+          "ticker_sentiment_score": "-0.131732",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Schwab: Participants Expect to Retire Later, Are Less Optimistic About Reaching Savings Goals",
+      "url": "https://www.plansponsor.com/schwab-participants-expect-to-retire-later-are-less-optimistic-about-reaching-savings-goals/",
+      "time_published": "20250730T210126",
+      "authors": [
+        "Emily Boyle"
+      ],
+      "summary": "A new report from Charles Schwab & Co. Inc. indicates that retirement confidence has declined in 2025, with participants expecting to retire later and fewer anticipating reaching their savings goals due to inflation concerns. Despite this pessimism, most participants are maintaining their 401(k) contributions, instead modifying spending and shifting to more conservative investments. Employers are also increasing benefits and financial wellness resources to support employees.",
+      "banner_image": "https://si-interactive.s3.amazonaws.com/prod/plansponsor-com/wp-content/uploads/2025/07/29155602/PSPA-072925-Schwab-401k-survey-1774007725-web-960x540.jpg",
+      "source": "plansponsor",
+      "category_within_source": "General",
+      "source_domain": "plansponsor",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.828559"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.712122"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.941686"
+        }
+      ],
+      "overall_sentiment_score": 0.033761,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FG",
+          "relevance_score": "0.337189",
+          "ticker_sentiment_score": "0.020044",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Northern Trust Universe Data: Equity Markets Drive Strong Second Quarter Results for Institutional Investors",
+      "url": "https://www.businesswire.com/news/home/20250729699544/en/Northern-Trust-Universe-Data-Equity-Markets-Drive-Strong-Second-Quarter-Results-for-Institutional-Investors",
+      "time_published": "20250730T213330",
+      "authors": [],
+      "summary": "Institutional investment plans achieved strong returns in the second quarter of 2025, primarily driven by a significant rebound in U.S. equities, propelled by investor excitement around artificial intelligence. The Northern Trust All Funds Over $100 Million universe reported a median return of 4.9%, with variations across different institutional segments like corporate, public funds, and foundations & endowments. U.S. fixed income also contributed positively, and Northern Trust emphasized the resilience of diversified portfolios amidst shifting economic conditions.",
+      "banner_image": "https://mms.businesswire.com/media/20250729699544/en/507644/4/Northern_Trust_Left_Center.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924121"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925046"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.822938"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.704392"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839075"
+        }
+      ],
+      "overall_sentiment_score": 0.383287,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NTRSO",
+          "relevance_score": "0.319221",
+          "ticker_sentiment_score": "0.037817",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NTRS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.608276",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.532363",
+          "ticker_sentiment_score": "0.414491",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.555039",
+          "ticker_sentiment_score": "0.443843",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.558103",
+          "ticker_sentiment_score": "0.440848",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ARGT: Long-Term Rebuild, Short-Term Hesitation",
+      "url": "https://seekingalpha.com/article/4807269-argt-long-term-rebuild-short-term-hesitation",
+      "time_published": "20250731T234600",
+      "authors": [
+        "Bernard Zambonin"
+      ],
+      "summary": "Argentine equities experienced a significant rally prior to 2023 but have paused in 2025 due to lagging growth despite collapsed inflation and rebounding GDP. Markets are cautious regarding FX volatility and soft trade balances, driven by necessary but near-term painful currency controls ending. While the ARGT ETF's headline return disappoints, sectors like banking and energy show improvement, and rising book values suggest future profitability gains.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2202140514/image_2202140514.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944308"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.844939"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.729329"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640318"
+        }
+      ],
+      "overall_sentiment_score": -0.144859,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ARGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.139627",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "KeyCorp, Independent Bank, Hope Bancorp, Home Bancshares, and Glacier Bancorp Stocks Trade Down, What You Need To Know",
+      "url": "https://finance.yahoo.com/news/keycorp-independent-bank-hope-bancorp-164055290.html",
+      "time_published": "20250801T000000",
+      "authors": [
+        "Anthony Lee"
+      ],
+      "summary": "Shares of KeyCorp, Independent Bank, Hope Bancorp, Home Bancshares, and Glacier Bancorp all experienced significant declines following a weak July jobs report and new tariff announcements. The market reacted negatively to the prospect of an economic slowdown and impending interest rate cuts, which typically harm bank profitability. The article highlights Hope Bancorp's situation as an example, noting its shares are down 19% year-to-date.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924392"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.807922"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725873"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.727237"
+        }
+      ],
+      "overall_sentiment_score": -0.477817,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KEY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.479695",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Silver Bull Market Likely To Continue For 4 Reasons (NYSEARCA:SLV)",
+      "url": "https://seekingalpha.com/article/4807315-silver-bull-market-likely-to-continue-for-4-reasons",
+      "time_published": "20250801T023300",
+      "authors": [
+        "Jon Wolfenbarger"
+      ],
+      "summary": "The article argues that silver's bull market is poised to continue due to attractive valuations, historical outperformance during economic uncertainty, and current conditions like high deficits and inflation. Investor sentiment, described as lukewarm, is seen as a contrarian bullish signal, suggesting the market is not peaking. Technical indicators further support a bullish trend for silver, making SLV an appealing investment to outperform stocks.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905344"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.846211"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.726578"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631193"
+        }
+      ],
+      "overall_sentiment_score": 0.456879,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.466552",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Are Markets Wrong About Inflation? Active Bond ETFs Can Help",
+      "url": "https://etfdb.com/active-etf-content-hub/are-markets-wrong-inflation/",
+      "time_published": "20250801T160941",
+      "authors": [
+        "Nick Peters-Golden"
+      ],
+      "summary": "Despite inflation dominating market narratives for months entering 2025, it has since been less prominent, yet key factors still point to persistent rising prices and stubborn interest rates. Investors who believe inflation will persist may find active bond ETFs helpful for portfolio adjustments. The T. Rowe Price QM U.S. Bond ETF (TAGG) is highlighted as an option that can navigate market turns and adapt to inflationary circumstances through active management.",
+      "banner_image": "https://etfdb.com/media/W1siZiIsIjIwMjUvMDkvMDUvOGlzOGVqZXQxX0FjdGl2ZV9FVEZzX1RSUF9tYXN0aGVhZF9vdmVybGF5X05IR18xNjAweDEyMV8yeC5wbmciXV0/Active_ETFs_TRP_masthead_overlay_NHG_1600x121%402x.png",
+      "source": "ETF Database",
+      "category_within_source": "General",
+      "source_domain": "ETF Database",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.946110"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801349"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.741985"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625054"
+        }
+      ],
+      "overall_sentiment_score": 0.387541,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TAGG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.397478",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Citi Mexico Expectations Survey (August 5, 2025)",
+      "url": "https://www.citigroup.com/global/insights/citi-mexico-expectations-survey-august-5-2025",
+      "time_published": "20250805T000000",
+      "authors": [],
+      "summary": "The Citi Mexico Expectations Survey from August 5, 2025, indicates that most participants anticipate a 25bps rate cut in the August 2025 meeting, with the policy rate median forecast for Y/E 2025 remaining at 7.50%. Peso expectations were reduced for both 2025 and 2026 year-end, while GDP growth median expectations increased for 2025 and 2026. The survey also details projections for headline and core inflation for July, August, and year-end figures for 2025 and 2026.",
+      "banner_image": null,
+      "source": "Citigroup",
+      "category_within_source": "General",
+      "source_domain": "Citigroup",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.945366"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.827746"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625738"
+        }
+      ],
+      "overall_sentiment_score": 0.103255,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "C",
+          "relevance_score": "0.920556",
+          "ticker_sentiment_score": "0.128519",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spotting Winners: NBT Bancorp (NASDAQ:NBTB) And Regional Banks Stocks In Q2",
+      "url": "https://finance.yahoo.com/news/spotting-winners-nbt-bancorp-nasdaq-033200902.html",
+      "time_published": "20250805T194023",
+      "authors": [
+        "Anthony Lee"
+      ],
+      "summary": "This article analyzes the Q2 performance of NBT Bancorp and other regional bank stocks, highlighting NBT Bancorp's revenue growth, recent acquisition, and stock movement. It also identifies UMB Financial as the best performer and Coastal Financial as the weakest in Q2 among tracked regional banks, providing financial details for each. The piece concludes with a market update, noting inflation trends, recent rate cuts, and the impact of the U.S. Presidential Election on stock market performance.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/6WjdO_XV4CqwLjoMXFeV4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4MDtjZj13ZWJw/https://media.zenfs.com/en/stockstory_922/bec7b148622a9581314781e683e03220",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.948588"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827445"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.726685"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.634754"
+        }
+      ],
+      "overall_sentiment_score": 0.173253,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBTB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.256420",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KEY",
+          "relevance_score": "0.636102",
+          "ticker_sentiment_score": "0.078902",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Asset Manager Stocks That Stand Out",
+      "url": "https://www.morningstar.com/stocks/3-asset-manager-stocks-that-stand-out",
+      "time_published": "20250806T183623",
+      "authors": [
+        "Gabe Alpert"
+      ],
+      "summary": "This article highlights three asset manager stocks—BlackRock, Blackstone, and KKR—that have significantly outperformed the market over the past decade despite increased volatility and industry challenges. These companies have thrived by adapting to secular trends like the shift to passive investing (BlackRock) and the growing demand for alternative assets (Blackstone and KKR), which have allowed them to avoid fee compression issues faced by many traditional active managers. The article details how each company's strategy and market positioning have contributed to their success, forecasting continued growth for these standouts.",
+      "banner_image": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/TVABonM5sqLJ0EuKiMuosIjaWJ8=/2000x2000/author-service-images-prod-us-east-1.publishing.aws.arc.pub/morningstar/e2a46c58-1092-4fff-8b59-58f347e66304.jpg",
+      "source": "Morningstar",
+      "category_within_source": "General",
+      "source_domain": "Morningstar",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910422"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800777"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.704549"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.601363"
+        }
+      ],
+      "overall_sentiment_score": 0.150925,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AB",
+          "relevance_score": "0.309124",
+          "ticker_sentiment_score": "0.042770",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.930780",
+          "ticker_sentiment_score": "0.435395",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.941968",
+          "ticker_sentiment_score": "0.413119",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "KKR",
+          "relevance_score": "0.830060",
+          "ticker_sentiment_score": "0.342544",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.644593",
+          "ticker_sentiment_score": "-0.407183",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "JPMorgan and Carter's have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://finance.yahoo.com/news/jpmorgan-carters-highlighted-zacks-bull-123100515.html",
+      "time_published": "20250806T190307",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Zacks Equity Research has named JPMorgan (JPM) as its Bull of the Day due to its strong financial performance, reasonable valuation, and aggressive growth strategy, particularly benefiting from current interest rates. Conversely, Carter's Inc. (CRI) is labeled the Bear of the Day, facing significant headwinds from a declining birthrate, weak consumer trends, and tariff pressures, leading to suspended financial guidance. The article also provides an analysis of General Motors (GM), discussing its impressive EV sales growth and strong quarterly earnings despite tariff challenges, while noting some near-term headwinds that lead to a \"Hold\" rating.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/2p.ou87dGzyCRwH8VxazoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYwNTtjZj13ZWJw/https://media.zenfs.com/en/zacks.com/4d0f5c269de903a3e502f871a8b4461f",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.812099"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.825898"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.631289"
+        }
+      ],
+      "overall_sentiment_score": 0.108709,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRI",
+          "relevance_score": "0.308790",
+          "ticker_sentiment_score": "0.006892",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.902833",
+          "ticker_sentiment_score": "0.720618",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.766876",
+          "ticker_sentiment_score": "0.250688",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.600449",
+          "ticker_sentiment_score": "-0.422043",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.591106",
+          "ticker_sentiment_score": "-0.206917",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "St. Petersburg bank lays off employees as it cuts loan program",
+      "url": "https://www.businessobserverfl.com/news/2025/aug/07/st-petersburg-bank-lays-off-employees/",
+      "time_published": "20250807T081000",
+      "authors": [
+        "Louis Llovio"
+      ],
+      "summary": "BayFirst National Bank in St. Petersburg is laying off 52 employees and cutting its small balance Small Business Administration (SBA) lending program. This decision follows a strategic review and comes after the bank experienced increased credit challenges and net charge-offs in its Bolt loan program, an SBA 7(a) loan designed for small businesses. The affected employees will receive 60 days of pay and benefits.",
+      "banner_image": "https://www.businessobserverfl.com/sites/default/files/styles/full_content/public/256860_standard.jpeg?itok=zQW2bYg7",
+      "source": "Business Observer",
+      "category_within_source": "General",
+      "source_domain": "Business Observer",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934091"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.617434"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.615106"
+        }
+      ],
+      "overall_sentiment_score": -0.311416,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAFN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.321837",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AVK Stock: An 11.56% Monthly Income Stream with 22 Years of Reliability",
+      "url": "https://www.incomeinvestors.com/avk-stock-11-56-percent-monthly-income-stream-22-years-reliability/77862/",
+      "time_published": "20250807T110907",
+      "authors": [
+        "Moe Zulfiqar"
+      ],
+      "summary": "Advent Convertible and Income Fund (NYSE:AVK) offers a consistent monthly income stream with a current dividend yield of 11.56%. The fund, a closed-end fund (CEF), has maintained monthly payouts since 2003, navigating various market downturns. AVK focuses on convertible and high-yield income securities and currently trades at a discount to its net asset value, presenting a potential opportunity for income investors.",
+      "banner_image": "https://www.incomeinvestors.com/wp-content/uploads/2025/08/pig-piggy-bank-and-positive-growth-graph-2023-11-27-05-37-10-utc.jpg",
+      "source": "Income Investors",
+      "category_within_source": "General",
+      "source_domain": "Income Investors",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922720"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818200"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.622223"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.614731"
+        }
+      ],
+      "overall_sentiment_score": 0.47027,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.453448",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2411 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "AvalonBay Communities Stock: Navigating 52-Week Lows and Multifamily REIT Resilience for North American Investors",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/avalonbay-communities-stock-navigating-52-week-lows-and-multifamily-reit/69057122",
+      "time_published": "20260402T140709",
+      "authors": [
+        "Elena Hargrove"
+      ],
+      "summary": "AvalonBay Communities, a leading U.S. multifamily REIT, has recently hit a 52-week low due to sector pressures but maintains strong long-term positioning in high-demand rental markets, appealing to investors looking for recovery potential. The company's core business model focuses on luxury apartment communities in high-barrier-to-entry U.S. markets, benefiting from housing shortages and providing consistent dividend income. Despite recent market volatility and interest rate impacts, its strategic advantages in scale, operational expertise, and focus on supply-constrained markets suggest resilience for North American investors.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405021_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.937773"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836035"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.702455"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.608814"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.640830"
+        }
+      ],
+      "overall_sentiment_score": -0.076263,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.099369",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Citigroup Inc Stock: Navigating Transformation and Growth Opportunities in a Dynamic Banking Landsca",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/citigroup-inc-stock-navigating-transformation-and-growth-opportunities-in/69056581",
+      "time_published": "20260402T114928",
+      "authors": [
+        "Elena Vasquez"
+      ],
+      "summary": "Citigroup Inc is undergoing a significant strategic overhaul, focusing on core businesses and aiming to resolve regulatory consent orders. Analysts have a positive outlook, with upgrades to 'Buy' ratings and upward revisions in earnings estimates. The company's transformation, including exiting non-core markets, is expected to enhance efficiency and return on tangible common equity, positioning it for potential upside ahead of its Q1 earnings release.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404991_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925566"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844149"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.706897"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.612552"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.639590"
+        }
+      ],
+      "overall_sentiment_score": 0.500693,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "C",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.549930",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Stocks in Focus That Hiked Dividends Recently Amid Geopolitical Tensions",
+      "url": "https://www.tradingview.com/news/zacks:56067d43b094b:0-3-stocks-in-focus-that-hiked-dividends-recently-amid-geopolitical-tensions/",
+      "time_published": "20260402T113900",
+      "authors": [],
+      "summary": "Amid market volatility driven by inflation concerns, potential rate cuts, and ongoing geopolitical tensions, this article highlights three dividend-paying stocks that recently increased their payouts. The TJX Companies, BankUnited, Inc., and BRP Inc. are presented as stable investment options for cautious investors seeking income and capital protection. The article details the dividend history and financial standing of each company.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927992"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.838334"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.715875"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.629854"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600506"
+        }
+      ],
+      "overall_sentiment_score": 0.033592,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TJX",
+          "relevance_score": "0.318483",
+          "ticker_sentiment_score": "0.020793",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Prudential Financial Stock: A Steady Dividend Play in a Shifting Insurance Landscape for North Ameri",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/prudential-financial-stock-a-steady-dividend-play-in-a-shifting-insurance/69055173",
+      "time_published": "20260402T101625",
+      "authors": [
+        "Elena Harper"
+      ],
+      "summary": "Prudential Financial (NYSE: PRU) offers a steady dividend income for North American investors, rooted in its diversified business model spanning U.S. and international insurance, and asset management through PGIM. Despite leadership transitions and mixed institutional ownership activity, the company maintains strong financial health and strategic focus on retirement solutions and technology, positioning it as a resilient option in a competitive landscape. Investors should monitor interest rate paths and governance developments while considering its relative undervaluation and dividend aristocrat status.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405017_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926162"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846836"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800232"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.635021"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.630543"
+        }
+      ],
+      "overall_sentiment_score": 0.001744,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRU",
+          "relevance_score": "0.328243",
+          "ticker_sentiment_score": "0.048390",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MetroCity Bankshares Stock: Regional Banking Stability and Growth Potential for North American Investors",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/metrocity-bankshares-stock-regional-banking-stability-and-growth/69052481",
+      "time_published": "20260402T023938",
+      "authors": [
+        "Elena Vargas"
+      ],
+      "summary": "MetroCity Bankshares (MCBS) operates as a regional commercial bank focused on underserved markets in the U.S. Southeast, offering deposit and loan products primarily to businesses in Georgia, Texas, and surrounding states. The company differentiates itself through a relationship-based model targeting niche demographics, providing stability and growth potential for North American investors seeking exposure to community banking. Key factors include its diversified loan portfolio, consistent performance, and strategic positioning in high-growth Sun Belt states, balanced against risks like commercial real estate exposure and interest rate volatility.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404990_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.730849"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.802335"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915529"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.733386"
+        }
+      ],
+      "overall_sentiment_score": 0.4573,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCBS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493429",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zions Bancorporation Stock: Regional Banking Leader Faces Economic Headwinds Amid Analyst Adjustment",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/zions-bancorporation-stock-regional-banking-leader-faces-economic/69052105",
+      "time_published": "20260402T014017",
+      "authors": [
+        "Maria Thornton"
+      ],
+      "summary": "Zions Bancorporation, a significant regional bank in the U.S. West and Midwest, is navigating economic headwinds, leading to recent analyst price target cuts. Despite these adjustments, the bank's diversified model, focus on credit quality, and strategic positioning in high-growth areas offer stability for investors. The article highlights its resilience, analyst perspectives, strategic strengths, and essential risks for North American investors.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404979_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939343"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835094"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.844087"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.713388"
+        }
+      ],
+      "overall_sentiment_score": 0.03037,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZION",
+          "relevance_score": "0.337849",
+          "ticker_sentiment_score": "0.005682",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FVCBankcorp Inc Stock: Regional Banking Stability and Growth Potential for North American Investors",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/fvcbankcorp-inc-stock-regional-banking-stability-and-growth-potential-for/69050894",
+      "time_published": "20260401T220432",
+      "authors": [
+        "Elena Martinez"
+      ],
+      "summary": "This analysis explores FVCBankcorp Inc (NASDAQ: FVCB), a community-focused bank holding company serving Northern Virginia, highlighting its business model, competitive position, and factors for investors. The article details its focus on commercial banking in the high-growth D.C. metropolitan area, its differentiation through personalized service, and its stability in the regional U.S. banking sector. It also addresses potential risks and opportunities for North American investors seeking diversification.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405005_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.941242"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847141"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.708428"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.620253"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.616153"
+        }
+      ],
+      "overall_sentiment_score": 0.504672,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FVCB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.526652",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Clean Virginia report claims Dominion Energy bills are rising faster than inflation as customers struggle",
+      "url": "https://www.wtvr.com/news/local-news/dominion-bills-clean-energy-report-april-1-2026",
+      "time_published": "20260401T214226",
+      "authors": [
+        "Taylor Locke"
+      ],
+      "summary": "A new report by Clean Virginia alleges that Dominion Energy bills are increasing at a rate faster than inflation, attributing this to an outdated regulatory framework, reliance on fossil fuels, tariffs, reduced federal tax credits, and the growth of data centers. Dominion Energy disputes these claims, stating their residential rates have remained below the national average and increased less than inflation, while emphasizing their investments in reliability and clean energy. One customer, a single mother, highlights her struggle with rising winter bills, which have increased by about $50 per month compared to previous years.",
+      "banner_image": "https://ewscripps.brightspotcdn.com/dims4/default/02a2f58/2147483647/strip/false/crop/1280x714+0+3/resize/95x53!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2F776%2Fab537de11df9456cb23cbc1d7e732de9%2F77637b4b15cd4fe894f43521a9bd145d%2Fposter_b82eb7ffdc344ca3bbb5d84c8adf2d86.jpg",
+      "source": "WTVR.com",
+      "category_within_source": "General",
+      "source_domain": "WTVR.com",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.825122"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.926998"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.605403"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722571"
+        }
+      ],
+      "overall_sentiment_score": -0.272147,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "D",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.290081",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Heritage Financial Corp Stock: Regional Banking Stability in the Pacific Northwest",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/heritage-financial-corp-stock-regional-banking-stability-in-the-pacific/69050417",
+      "time_published": "20260401T203905",
+      "authors": [
+        "Elena Martinez"
+      ],
+      "summary": "Heritage Financial Corp operates as a community-focused bank in the Pacific Northwest, providing commercial lending, consumer banking, and wealth management services. The company's conservative lending approach, regional expertise, and focus on local economies position it as a stable investment for those seeking dividend consistency and diversification in their North American portfolios. Key drivers include interest rate environments and regional economic strength, though risks such as interest rate volatility and credit quality in commercial real estate loans require monitoring.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405002_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.902205"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809774"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.733840"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.609478"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.641650"
+        }
+      ],
+      "overall_sentiment_score": 0.384284,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HFWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.541959",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.608399",
+          "ticker_sentiment_score": "0.237576",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stellar Bancorp Inc Stock: Regional Banking Leader Focused on Texas Growth and Community Lending",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/stellar-bancorp-inc-stock-regional-banking-leader-focused-on-texas-growth/69050966",
+      "time_published": "20260401T201547",
+      "authors": [
+        "Elena Harper"
+      ],
+      "summary": "Stellar Bancorp Inc, operating as Stellar Bank in Texas, is a key regional banking player focusing on commercial real estate, small business loans, and deposit growth. The company emphasizes relationship banking and disciplined capital management, leveraging Texas's economic momentum. Investors are keenly watching its strategic growth initiatives and performance amid stabilizing interest rates and the region's resilience.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405043_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.925365"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.801345"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.706786"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.606537"
+        }
+      ],
+      "overall_sentiment_score": 0.48332,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STEL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.451748",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. stock: Business model, market position, and key considerations for North American investors",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-goldman-sachs-group-inc-stock-business-model-market-position-and/69050720",
+      "time_published": "20260401T193757",
+      "authors": [
+        "Elena Vasquez"
+      ],
+      "summary": "This article analyzes The Goldman Sachs Group, Inc.'s business model, market position, and key considerations for North American investors. It details the company's core operations across investment banking, global markets, and asset & wealth management, highlighting its competitive strengths and resilience during economic cycles. The piece also discusses sector dynamics, macroeconomic influences, and risks such as market downturns and regulatory scrutiny, while outlining strategic initiatives for future growth.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405020_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905485"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.818740"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.741007"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.635915"
+        }
+      ],
+      "overall_sentiment_score": 0.322796,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.386797",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.623887",
+          "ticker_sentiment_score": "0.347106",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.648520",
+          "ticker_sentiment_score": "0.334838",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LMP Capital and Income Stock: A Steady Closed-End Fund for Income-Focused Investors in Uncertain Markets",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lmp-capital-and-income-stock-a-steady-closed-end-fund-for-income-focused/69049867",
+      "time_published": "20260401T191513",
+      "authors": [
+        "Elena Marcus"
+      ],
+      "summary": "LMP Capital and Income Fund Inc. (NYSE: SCD) is a closed-end fund focusing on senior loans and fixed-income securities, designed for North American investors prioritizing steady income through high dividend yields. It effectively navigates credit cycles with a portfolio emphasizing senior secured loans and floating-rate coupons, mitigating interest rate risk. The fund aims to provide consistent monthly distributions by using moderate leverage and expert credit selection, appealing to income-oriented portfolios and retirees.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405007_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910257"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803506"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.639665"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.617103"
+        }
+      ],
+      "overall_sentiment_score": 0.409054,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SCD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444020",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Community Bank System Stock: A Steady Regional Banking Play for North American Investors Amid Evolving Sector Dynamics",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/community-bank-system-stock-a-steady-regional-banking-play-for-north/69049517",
+      "time_published": "20260401T181616",
+      "authors": [
+        "Elena M. Hargrove"
+      ],
+      "summary": "Community Bank System (CBU) offers North American investors a stable regional banking opportunity focused on Upstate New York and the Northeast. The company's diversified revenue streams, strong asset quality, and commitment to community-oriented banking position it as a reliable investment in a competitive landscape. Investors should monitor interest rates, regulatory changes, and potential expansion opportunities for long-term value.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404996_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.940027"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816764"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.704411"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.746822"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.633883"
+        }
+      ],
+      "overall_sentiment_score": 0.456964,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CBU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.481122",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Citizens Financial Rises Nearly 42% in a Year: Is It Worth Buying Now?",
+      "url": "https://qz.com/citizens-financial-rises-nearly-42-in-a-year-is-it-worth-buying-now",
+      "time_published": "20260401T153921",
+      "authors": [],
+      "summary": "Citizens Financial Group (CFG) shares have rallied 41.5% over the past year, outperforming its industry and peers. This surge is attributed to its wealth management expansion, organic revenue growth, strategic efficiency initiatives, and healthy loan and deposit base. Despite some concerns like a high valuation, elevated expenses, and loan concentration risks, analysts expect continued earnings growth, making CFG a compelling investment for long-term returns.",
+      "banner_image": null,
+      "source": "qz.com",
+      "category_within_source": "General",
+      "source_domain": "qz.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928782"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.809219"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.770979"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.723657"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.622746"
+        }
+      ],
+      "overall_sentiment_score": 0.538299,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CFG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.516885",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "First Financial Bancorp Stock: Regional Banking Leader with Strong Fundamentals and Growth Potential",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/first-financial-bancorp-stock-regional-banking-leader-with-strong/69048398",
+      "time_published": "20260401T131009",
+      "authors": [
+        "Elena Vargas"
+      ],
+      "summary": "First Financial Bancorp (FFBC) is presented as a strong regional banking leader in the Midwest and Southeast U.S. with solid fundamentals and growth potential for investors. The article highlights its diversified business model, strategic initiatives including digital transformation and selective acquisitions, consistent financial performance, and capital strength. It also discusses the company's appeal to North American investors seeking stable regional banking exposure and dividend income, while acknowledging risks such as interest rate fluctuations and regulatory scrutiny.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404980_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.940531"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.820627"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.730538"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.612360"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.624239"
+        }
+      ],
+      "overall_sentiment_score": 0.38503,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFBC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467928",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "KEY",
+          "relevance_score": "0.626495",
+          "ticker_sentiment_score": "0.348542",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.609685",
+          "ticker_sentiment_score": "0.326723",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bank of America (NYSE:BAC) Upgraded to Buy at HSBC",
+      "url": "https://www.marketbeat.com/instant-alerts/bank-of-america-nysebac-upgraded-to-buy-at-hsbc-2026-04-01/",
+      "time_published": "20260401T123919",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HSBC has upgraded Bank of America (NYSE:BAC) from a \"hold\" to a \"buy\" rating, setting a $57 price target, which implies a potential 16.98% upside. This upgrade aligns with a \"Moderate Buy\" consensus among analysts, although the stock faces headwinds from significant insider and marquee shareholder selling, including by Berkshire, and recent security incident headline risks. Analysts cite expected net interest income growth, a new Royal Caribbean co-brand card deal, and potential easing of Fed capital rules as catalysts.",
+      "banner_image": "https://www.marketbeat.com/logos/bank-of-america-co-logo-1200x675.jpg?v=20221020143030",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930260"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939474"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.904671"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.637621"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.606514"
+        }
+      ],
+      "overall_sentiment_score": 0.243904,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC-P-P",
+          "relevance_score": "0.325536",
+          "ticker_sentiment_score": "0.027863",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.399000",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.562817",
+          "ticker_sentiment_score": "0.328173",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.610637",
+          "ticker_sentiment_score": "0.263514",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RCL",
+          "relevance_score": "0.632300",
+          "ticker_sentiment_score": "0.318106",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BTC Capital Management Inc. Sells 144,859 Shares of Wells Fargo & Company $WFC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-btc-capital-management-inc-sells-144859-shares-of-wells-fargo-company-wfc-2026-04-01/",
+      "time_published": "20260401T073508",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "BTC Capital Management Inc. has significantly reduced its stake in Wells Fargo & Company (NYSE:WFC) by selling 144,859 shares, cutting its position by 49.8%. Despite this, Wells Fargo remains a \"Moderate Buy\" among analysts with a consensus price target of $97.13. Other institutional investors have both increased and decreased their holdings, while company insiders have also sold shares totaling $10.05 million in the last three months.",
+      "banner_image": "https://www.marketbeat.com/logos/wells-fargo-logo-1200x675.jpg",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.929343"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.893374"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.840932"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.603768"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.568386"
+        }
+      ],
+      "overall_sentiment_score": -0.145962,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.095565",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.601255",
+          "ticker_sentiment_score": "-0.273330",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.600196",
+          "ticker_sentiment_score": "-0.224758",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nomura Holdings Inc Stock: Navigating Global Markets and Japanese Financial Resilience Amid Economic",
+      "url": "https://www.ad-hoc-news.de/news/ueberblick/nomura-holdings-inc-stock-navigating-global-markets-and-japanese/69044833",
+      "time_published": "20260401T051026",
+      "authors": [
+        "Elena Vargas"
+      ],
+      "summary": "Nomura Holdings Inc (JP3762800005) is Japan's leading global investment bank, offering North American investors exposure to Asia's financial markets. The evergreen analysis, updated for early 2026, explores its robust business model, competitive strengths in digital transformation and sustainable finance, and its strategic position amidst global macroeconomic shifts. Investors are drawn to Nomura for uncorrelated returns, its role as a proxy for Asia-Pacific recovery, and attractive dividend yields, despite geopolitical and competitive risks.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405006_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907281"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823532"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.732600"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.647881"
+        }
+      ],
+      "overall_sentiment_score": 0.15608,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NMR",
+          "relevance_score": "0.988822",
+          "ticker_sentiment_score": "0.293050",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.682816",
+          "ticker_sentiment_score": "0.115251",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.608255",
+          "ticker_sentiment_score": "0.110805",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.600122",
+          "ticker_sentiment_score": "0.104829",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Southside Bancshares Stock: A Steady Regional Banking Play for North American Investors in 2026",
+      "url": "https://www.ad-hoc-news.de/news/ueberblick/southside-bancshares-stock-a-steady-regional-banking-play-for-north/69044385",
+      "time_published": "20260401T044014",
+      "authors": [
+        "Elena Vasquez"
+      ],
+      "summary": "This article analyzes Southside Bancshares (ISIN: US8315251022) as a regional banking investment opportunity for North American investors in 2026. It highlights the company's focus on Texas markets, diversified revenue streams, conservative lending practices, and strong community ties. The analysis also covers its market position, financial strategy, and risks like interest rate volatility and regulatory changes, concluding that it offers a steady, defensive holding with growth potential.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405054_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.928755"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.804995"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.732831"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.647145"
+        }
+      ],
+      "overall_sentiment_score": 0.401984,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SBSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.435273",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Primerica Household Budget Index™ Data: Purchasing Power for Middle-Income Americans Remained Flat in February",
+      "url": "https://www.businesswire.com/news/home/20260330058504/en/Primerica-Household-Budget-Index-Data-Purchasing-Power-for-Middle-Income-Americans-Remained-Flat-in-February",
+      "time_published": "20260401T031058",
+      "authors": [],
+      "summary": "The latest Primerica Household Budget Index™ (HBI™) data for February showed that purchasing power for middle-income Americans remained flat at 101.4%, unchanged from January but an increase of 1.8% from a year ago. Rising energy costs are a concern for these households, despite the overall Consumer Price Index (CPI) increasing more significantly. The HBI™ specifically tracks the cost of necessities and earned income for middle-income families, providing a clearer picture than broader inflation metrics.",
+      "banner_image": "https://mms.businesswire.com/media/20260330058504/en/2760996/4/HBI_Index-Feb-2026.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.938586"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.823512"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736503"
+        }
+      ],
+      "overall_sentiment_score": 0.114807,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.101554",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Primerica Household Budget Index Flat in February",
+      "url": "https://nationaltoday.com/us/ga/duluth-ga/news/2026/03/31/primerica-household-budget-index-flat-in-february/",
+      "time_published": "20260401T031058",
+      "authors": [],
+      "summary": "The Primerica Household Budget Index (HBI) indicates that the purchasing power of middle-income American families remained flat in February 2026, holding steady at 101.4% despite a rise in overall inflation. While the Consumer Price Index (CPI) increased 2.4% year-over-year, the HBI shows that middle-income households experienced a 2.9% rise in inflation for necessities. However, steady wages and careful budgeting have allowed these families to maintain their financial stability, though rising energy costs pose a future concern.",
+      "banner_image": "https://nationaltoday.com/wp-content/uploads/not-wordpress/2026/03/69cc0122b1444.jpg",
+      "source": "National Today",
+      "category_within_source": "General",
+      "source_domain": "National Today",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.920198"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724612"
+        }
+      ],
+      "overall_sentiment_score": 0.133145,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.101175",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Countries Most Exposed to De-Dollarization",
+      "url": "https://www.nomuraconnects.com/focused-thinking-posts/countries-most-exposed-to-de-dollarization/",
+      "time_published": "20260401T004028",
+      "authors": [
+        "Rob Subbaraman",
+        "Manthan Shingala"
+      ],
+      "summary": "This article examines which countries are most exposed to de-dollarization, distinguishing between cyclical (\"lite\") and structural (\"heavy\") declines in the USD index. It highlights that even a modest repatriation of USD assets could significantly impact the currency values and export competitiveness of highly exposed nations. The analysis identifies top foreign holders of US portfolio assets and notes a growing trend among central banks, particularly in emerging markets, to diversify reserves into gold, surpassing holdings of US Treasury securities.",
+      "banner_image": "https://d1qfwzw6aggd4h.cloudfront.net/background-images/_headerImages/146253/Countries-exposed-to-de-dollarization-Dominos-falling-1200x800.webp",
+      "source": "Nomura Connects",
+      "category_within_source": "General",
+      "source_domain": "Nomura Connects",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.934991"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803333"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712132"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.624427"
+        }
+      ],
+      "overall_sentiment_score": -0.098504,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NMR",
+          "relevance_score": "0.838033",
+          "ticker_sentiment_score": "-0.082747",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dominion Energy customers oppose proposed 11% rate hike at first public hearing",
+      "url": "https://abcnews4.com/news/local/dominion-energy-customers-oppose-proposed-11-rate-hike-at-first-public-hearing-outcry-debate-court-order-energy-cost-savings",
+      "time_published": "20260331T222922",
+      "authors": [
+        "Jessica Klinger"
+      ],
+      "summary": "Dominion Energy customers in the Lowcountry voiced strong opposition to a proposed 11% rate increase at the first public hearing, which would raise residential bills by about $20 monthly. Many testified about existing financial struggles and concerns for small businesses due to rising costs of living. While Dominion Energy cites increased demand and infrastructure needs for the rate hike, its president indicated that the full proposed increase is unlikely to be approved, suggesting a compromise will be reached.",
+      "banner_image": "https://abcnews4.com/resources/media2/16x9/562/986/13x1/90/ed11d8ec-3f3c-4419-8f06-b6351e8b6bcb-Screenshot20260331225634.png",
+      "source": "WCIV",
+      "category_within_source": "General",
+      "source_domain": "WCIV",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.801430"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.705359"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.618402"
+        }
+      ],
+      "overall_sentiment_score": -0.417807,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "D",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.401828",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Mizuho Financial Group Inc Stock: Japanese Banking Giant Offers Value Play for North American Investors Amid Global Stability",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/mizuho-financial-group-inc-stock-japanese-banking-giant-offers-value-play/69042488",
+      "time_published": "20260331T211030",
+      "authors": [],
+      "summary": "Mizuho Financial Group Inc (ISIN: JP3885780001) is presented as a valuable investment opportunity for North American investors seeking diversified exposure to stable banking operations in Japan. The article highlights Mizuho's strong market position as one of Japan's \"Big Three\" banks, its consistent profitability, strategic growth drivers like digital transformation and global expansion, and its appeal for income-focused and ESG-conscious investors. Despite potential risks like interest rate fluctuations and geopolitical tensions, the stock is favored for its stability, competitive valuations, and role in currency diversification.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405035_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.912851"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.805133"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.731956"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.621325"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640455"
+        }
+      ],
+      "overall_sentiment_score": 0.460037,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MFG",
+          "relevance_score": "0.972581",
+          "ticker_sentiment_score": "0.827886",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.633790",
+          "ticker_sentiment_score": "0.301696",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.588936",
+          "ticker_sentiment_score": "0.291339",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump Vs. Fed: Nixon-Style Inflation Brings These ETFs In Focus - iShares TIPS Bond ETF (ARCA:TIP)",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/03/51579778/is-trump-repeating-richard-nixons-fed-playbook-fed-independence-fears-put-inflation-safe-etfs-in-focus",
+      "time_published": "20260331T184034",
+      "authors": [
+        "Chandrima Sanyal"
+      ],
+      "summary": "The article discusses concerns about political interference in the Federal Reserve, drawing parallels to the Nixon administration's impact on inflation in the 1970s. It suggests that investors should consider inflation-safe exchange-traded funds (ETFs) like Treasury Inflation-Protected Securities (TIPS) ETFs, commodity ETFs, and energy ETFs to position themselves against potential inflation risk, especially if confidence in the Fed's independence erodes. The piece highlights the importance of market positioning over politics in such an environment.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.947707"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838834"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.732989"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.608801"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.639157"
+        }
+      ],
+      "overall_sentiment_score": 0.346288,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TIP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.336808",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Banco Santander SA (ADR) Stock: A Comprehensive Guide for North American Investors Seeking Global Ba",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/banco-santander-sa-adr-stock-a-comprehensive-guide-for-north-american/69039973",
+      "time_published": "20260331T141044",
+      "authors": [
+        "Elena Vasquez"
+      ],
+      "summary": "This article provides a comprehensive guide for North American investors interested in Banco Santander SA (ADR) stock, highlighting its business model, global footprint, and strategic priorities. It details how Santander offers diversified access to European and Latin American banking markets, emphasizing digital transformation and resilience amid global economic shifts. The guide also discusses risks, competitive positioning, and key watchpoints for potential investors.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405021_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.939504"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832290"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.732518"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.607399"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.631458"
+        }
+      ],
+      "overall_sentiment_score": 0.407263,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SAN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401450",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here’s Why S&P Global Inc (SPGI) Rebounded from September Pullback",
+      "url": "https://www.insidermonkey.com/blog/heres-why-sp-global-inc-spgi-rebounded-from-september-pullback-1728487/",
+      "time_published": "20260331T131158",
+      "authors": [
+        "Soumya Eswaran"
+      ],
+      "summary": "Baron Capital's Baron Financials ETF highlighted S&P Global Inc. (SPGI) as a top contributor in its Q4 2025 investor letter, noting its rebound from a September pullback. The rebound was attributed to strong third-quarter results, raised financial guidance, elevated debt issuance, rising equity markets, and resilient demand for its data services. The company also provided positive medium-term financial guidance, indicating continued growth and margin expansion.",
+      "banner_image": "https://d2w7kw43nye0pi.cloudfront.net/hXxFxLKe1LEk8cY68CDnSmdk8p9sF7AWOffvGaQvtKg/resize:fill:480:270:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/09/30032550/ewan-buck-xc9B3i-1QiI-unsplash.jpg",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945553"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838961"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831551"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.632560"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.626945"
+        }
+      ],
+      "overall_sentiment_score": 0.128045,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BCFN",
+          "relevance_score": "0.324093",
+          "ticker_sentiment_score": "0.022385",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SPGI",
+          "relevance_score": "0.987954",
+          "ticker_sentiment_score": "0.499176",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FDS",
+          "relevance_score": "0.619181",
+          "ticker_sentiment_score": "0.101529",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSCI",
+          "relevance_score": "0.553340",
+          "ticker_sentiment_score": "-0.082492",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How to Approach Wells Fargo Stock Now as the Fed Keeps Rates Steady?",
+      "url": "https://sg.finance.yahoo.com/news/approach-wells-fargo-stock-now-124500098.html",
+      "time_published": "20260331T130857",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Wells Fargo (WFC) faces a mixed outlook despite recent regulatory relief and strategic improvements. While the lifting of the asset cap and advancements in digital banking and AI offer growth potential, persistent inflation, geopolitical uncertainties, and a tough operating environment present near-term challenges. The article suggests a \"Hold\" stance for WFC stock, citing a balanced risk-reward profile, with a discounted valuation offering some downside protection.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Qv0MBb59ODnEjFUVEDOeVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance Singapore",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance Singapore",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923369"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.804336"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.716378"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.644377"
+        }
+      ],
+      "overall_sentiment_score": 0.175297,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WFC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.261501",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.738251",
+          "ticker_sentiment_score": "0.114722",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.618091",
+          "ticker_sentiment_score": "0.149281",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Inflation-Proof ETF You Need in Your Portfolio",
+      "url": "https://247wallst.com/investing/2026/03/31/the-inflation-proof-etf-you-need-in-your-portfolio/",
+      "time_published": "20260331T123929",
+      "authors": [
+        "Omor Ibne Ehsan"
+      ],
+      "summary": "The iShares TIPS Bond ETF (TIP) is highlighted as an inflation-proof investment, holding U.S. Treasury Inflation-Protected Securities (TIPS) which adjust their principal based on the Consumer Price Index. With oil supply disruptions from the Strait of Hormuz triggering stagflation pressures, TIPS are expected to offer real returns above inflation. The article explains how TIP functions, its sensitivity to real interest rates, and advises investors on its tax efficiency within tax-advantaged accounts.",
+      "banner_image": "https://247wallst.com/wp-content/uploads/2025/03/shutterstock-2281241017-huge-licensed-scaled.jpg",
+      "source": "24/7 Wall St.",
+      "category_within_source": "General",
+      "source_domain": "24/7 Wall St.",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.930474"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837018"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707691"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.628034"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.603961"
+        }
+      ],
+      "overall_sentiment_score": 0.204891,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TIP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.201741",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Toll Brothers Inc Stock: Luxury Home Builder Maintains Resilience Amid Housing Market Pressures",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/toll-brothers-inc-stock-luxury-home-builder-maintains-resilience-amid/69038289",
+      "time_published": "20260331T104016",
+      "authors": [
+        "Elena Vargas"
+      ],
+      "summary": "Toll Brothers Inc, a leading U.S. luxury home builder, demonstrates strong operational resilience despite housing market pressures by focusing on high-end residential communities across various markets. The company's vertically integrated business model, brand prestige, and strategic positioning in the luxury segment allow it to navigate economic uncertainties and maintain demand among affluent buyers who are less sensitive to interest rate fluctuations. Toll Brothers continues to expand with new community announcements and offers diversification for North American investment portfolios.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405018_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.937821"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839958"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.732683"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.643566"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642041"
+        }
+      ],
+      "overall_sentiment_score": 0.419603,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414115",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Travelers Companies stock: A cornerstone of property and casualty insurance stability for North",
+      "url": "https://www.ad-hoc-news.de/boerse/ueberblick/the-travelers-companies-stock-a-cornerstone-of-property-and-casualty/69029607",
+      "time_published": "20260331T053851",
+      "authors": [
+        "Elena Hargrove"
+      ],
+      "summary": "The Travelers Companies (TRV) is presented as a stable investment in property and casualty insurance, valued for its diversified portfolio and strong balance sheet amidst rising risks. The article details its core business model across Business, Bond & Specialty, and Personal Insurance segments, highlighting its disciplined underwriting and strategic focus on technology and sustainability. It emphasizes the company's appeal to North American investors seeking defensive assets and consistent returns through dividends and organic growth.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405031_480_300.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.830963"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.705216"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.641588"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.624488"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.635489"
+        }
+      ],
+      "overall_sentiment_score": 0.510136,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TRV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.534945",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "John McDonald Lowers PNC Price Target, Notes Macro and Structural Headwinds",
+      "url": "https://au.finance.yahoo.com/news/john-mcdonald-lowers-pnc-price-053014198.html",
+      "time_published": "20260331T053029",
+      "authors": [
+        "Vardah Gill"
+      ],
+      "summary": "Truist analyst John McDonald lowered the price target for The PNC Financial Services Group, Inc. (NYSE:PNC) to $234 from $240, maintaining a Hold rating due to macro concerns and structural pressures on bank stocks. Despite these headwinds, recent quarterly updates have been positive, and management commentary for the full year remains constructive. Jefferies, however, initiated coverage with a Buy rating and a $250 price target, citing expectations for strong returns and above-average net interest income growth.",
+      "banner_image": "https://media.zenfs.com/en/insidermonkey.com/a8ba76827d6ac52cc8d6c3f02ee33494",
+      "source": "Yahoo Finance Australia",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943732"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.805915"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739671"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.611785"
+        }
+      ],
+      "overall_sentiment_score": -0.110572,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PNC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.145612",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Middle-income buying power held flat in February, Primerica finds",
+      "url": "https://www.stocktitan.net/news/PRI/primerica-household-budget-index-tm-data-purchasing-power-for-middle-x39wxblee56n.html",
+      "time_published": "20260331T034049",
+      "authors": [],
+      "summary": "Primerica's Household Budget Index (HBI) indicates that middle-income families' purchasing power remained flat in February compared to January, holding at 101.4%. Despite an overall CPI increase, the cost of necessity items for middle-income Americans rose by 1.8% year-over-year. Primerica's economic consultant emphasized the need for careful budgeting in anticipation of rising energy costs.",
+      "banner_image": "https://mms.businesswire.com/media/20260330058504/en/2760996/4/HBI_Index-Feb-2026.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.827553"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.838760"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722150"
+        }
+      ],
+      "overall_sentiment_score": 0.048868,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRI",
+          "relevance_score": "0.313819",
+          "ticker_sentiment_score": "0.005768",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Credit Acceptance, Enova and Encore Capital",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ENVA/pressreleases/1036347/zacks-industry-outlook-highlights-credit-acceptance-enova-and-encore-capital/",
+      "time_published": "20260330T213944",
+      "authors": [
+        "Zacks Investment Research",
+        "Inc."
+      ],
+      "summary": "The Zacks Consumer Loans industry is poised for growth due to lower interest rates, easing lending standards, and stable loan demand, despite some concerns about consumer confidence. Zacks Equity Research highlights Credit Acceptance Corp. (CACC), Enova International, Inc. (ENVA), and Encore Capital Group, Inc. (ECPG) as promising stocks within this sector. These companies are expected to benefit from favorable economic conditions, with strong potential for top-line expansion and earnings growth.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6d/13322.jpg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.929952"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.807603"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.728030"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611897"
+        }
+      ],
+      "overall_sentiment_score": 0.333915,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ENVA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.337238",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Dow Tests 45,000 as War Sends Oil to $110+ and the VIX Surges 50% in a Month",
+      "url": "https://247wallst.com/investing/2026/03/30/dow-tests-45000-as-war-sends-oil-to-110-and-the-vix-surges-50-in-a-month/",
+      "time_published": "20260330T213922",
+      "authors": [
+        "David Beren"
+      ],
+      "summary": "The Dow Jones Industrial Average is testing the 45,000 support level, with the SPDR Dow Jones Industrial Average ETF (DIA) down over 7% in the past month due to surging oil prices caused by geopolitical tensions. Brent crude has leaped to $116.51 a barrel, leading to a 59% monthly surge, and the VIX has soared 73% to 31.2, its highest point since April 2025. While Chevron (CVX) has seen significant gains, companies like Boeing (BA) and JPMorgan Chase (JPM) have declined, reflecting broad market concerns about inflation and geopolitical risks.",
+      "banner_image": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry13-kd5.jpg",
+      "source": "24/7 Wall St.",
+      "category_within_source": "General",
+      "source_domain": "24/7 Wall St.",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929951"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.816661"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.817547"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.715112"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642100"
+        }
+      ],
+      "overall_sentiment_score": 0.044917,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DIA",
+          "relevance_score": "0.349923",
+          "ticker_sentiment_score": "0.006988",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Park National Corp Stock: Steady Regional Banking Play with Strong Dividend Appeal for North America",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/park-national-corp-stock-steady-regional-banking-play-with-strong/69032608",
+      "time_published": "20260330T203906",
+      "authors": [
+        "Elena M. Hargrove"
+      ],
+      "summary": "Park National Corp (PRK) is presented as a stable regional banking option for conservative North American investors, offering reliable dividends and community-focused services. The article discusses its core business model, financial strength, and competitive advantages in the U.S. regional banking sector, emphasizing its resilience amidst volatile markets and rising oil prices. It also highlights the company's appeal for income-focused portfolios and its role as an indicator of Midwestern economic health, while acknowledging associated risks.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404994_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934092"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.725496"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.638289"
+        }
+      ],
+      "overall_sentiment_score": 0.171657,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493820",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HBAN",
+          "relevance_score": "0.619756",
+          "ticker_sentiment_score": "0.141295",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KEY",
+          "relevance_score": "0.638914",
+          "ticker_sentiment_score": "0.123184",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.582084",
+          "ticker_sentiment_score": "0.128574",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.551374",
+          "ticker_sentiment_score": "0.138696",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "First Financial Bankshares Stock: A Steady Regional Banking Play for Conservative North American Inv",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/first-financial-bankshares-stock-a-steady-regional-banking-play-for/69032013",
+      "time_published": "20260330T183903",
+      "authors": [
+        "Elena Martinez"
+      ],
+      "summary": "First Financial Bankshares (NASDAQ: FFIN) is highlighted as a stable regional banking option for conservative investors, particularly those in North America, due to its focus on the high-growth Texas market. The company operates through its main banking subsidiary, First Financial Bank, providing diverse financial services with a community banking model. Its strong financial health, conservative lending practices, and consistent dividends make it an attractive long-term investment despite potential risks like interest rate sensitivity and competition.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405038_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.919906"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.801038"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.748490"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.606658"
+        }
+      ],
+      "overall_sentiment_score": 0.438,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402916",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Banco Bilbao Vizcaya Argentaria S.A. Stock: A Strategic Overview for North American Investors Seekin",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/banco-bilbao-vizcaya-argentaria-s-a-stock-a-strategic-overview-for-north/69031676",
+      "time_published": "20260330T174254",
+      "authors": [
+        "Elena Vargas"
+      ],
+      "summary": "This article provides a strategic overview of Banco Bilbao Vizcaya Argentaria S.A. (BBVA) for North American investors, highlighting its significant operations in emerging markets and its focus on digital innovation and sustainable finance. BBVA offers diversification through its presence in Latin America and Turkey, appealing to investors seeking global banking exposure away from U.S. market concentration. The bank's consistent dividend policies and adherence to Basel III requirements also make it attractive to income-focused investors.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405047_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.933492"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811843"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.724025"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.647235"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.644976"
+        }
+      ],
+      "overall_sentiment_score": 0.250384,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBVA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403120",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.629918",
+          "ticker_sentiment_score": "0.110177",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Highland Global Allocation Stock: A Closed-End Fund's Global Diversification Strategy for Income and Growth in Uncertain Markets",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/highland-global-allocation-stock-a-closed-end-fund-s-global/69030156",
+      "time_published": "20260330T154121",
+      "authors": [
+        "Elena Vargas"
+      ],
+      "summary": "Highland Global Allocation (HGLB) is a closed-end fund focusing on high current income and capital appreciation through a diversified global portfolio of equities, debt, and alternatives. Managed by Highland Capital Management, it offers North American investors exposure to international markets and various asset classes, simplifying access and providing income opportunities in volatile markets. The fund aims to balance yield with risk management, appealing to income-oriented portfolios seeking global diversification.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405051_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803905"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.749331"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.635874"
+        }
+      ],
+      "overall_sentiment_score": 0.466625,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HGLB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.475969",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Video: Huntington Bank’s ‘3 Things We Learned this Week’",
+      "url": "https://rvbusiness.com/video-huntington-banks-3-things-we-learned-this-week-4/",
+      "time_published": "20260330T151846",
+      "authors": [
+        "RV Business"
+      ],
+      "summary": "Huntington Bank's Director of Equity Research, Randy Hare, shares \"The Three Things We Learned This Week\" in a video. He discusses the latest manufacturing data and its implications for small businesses, provides an update on bond yields and their effect on mortgage rates for investors and prospective homebuyers, and highlights a significant breakthrough in artificial intelligence.",
+      "banner_image": "https://rvbusiness.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
+      "source": "RVBusiness",
+      "category_within_source": "General",
+      "source_domain": "RVBusiness",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903526"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.803304"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.742472"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.645864"
+        }
+      ],
+      "overall_sentiment_score": 0.029275,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBAN",
+          "relevance_score": "0.341685",
+          "ticker_sentiment_score": "0.021423",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hartford Financial Svc Stock: Navigating Insurance Sector Dynamics and Investor Opportunities in 202",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/hartford-financial-svc-stock-navigating-insurance-sector-dynamics-and/69029024",
+      "time_published": "20260330T105159",
+      "authors": [
+        "Elena Martinez"
+      ],
+      "summary": "The Hartford Financial Services Group, Inc. (HIG) is a key player in property-casualty insurance, offering stability for North American investors. The company's diversified business model, competitive strengths in commercial small business, and focus on underwriting discipline position it well in an evolving market. Investors value HIG for its dividend reliability, defensive qualities, and performance in rising rate environments, although risks like catastrophe losses and liability inflation warrant monitoring.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404998_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.923418"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845402"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.722071"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.647347"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.625397"
+        }
+      ],
+      "overall_sentiment_score": 0.172923,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.305969",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TRV",
+          "relevance_score": "0.634444",
+          "ticker_sentiment_score": "0.137943",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CB",
+          "relevance_score": "0.641964",
+          "ticker_sentiment_score": "0.110098",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PGR",
+          "relevance_score": "0.614972",
+          "ticker_sentiment_score": "0.125693",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AIG",
+          "relevance_score": "0.639165",
+          "ticker_sentiment_score": "0.147925",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Fortress in the Storm: A Deep Dive into JPMorgan Chase (JPM) as the Dow Enters Correction Territory",
+      "url": "https://markets.financialcontent.com/stocks/article/finterra-2026-3-30-the-fortress-in-the-storm-a-deep-dive-into-jpmorgan-chase-jpm-as-the-dow-enters-correction-territory",
+      "time_published": "20260330T100000",
+      "authors": [
+        "Finterra"
+      ],
+      "summary": "As the Dow Jones Industrial Average enters correction territory, JPMorgan Chase (JPM) is highlighted as a stable \"fortress\" for investors. The article details JPM's diversified business model, strong financial performance, leadership under Jamie Dimon, and strategic innovations that position it as a defensive play during market volatility. Despite potential risks like commercial real estate exposure, JPM's robust capital and strategic initiatives make it a compelling long-term investment.",
+      "banner_image": "https://news.finterra.ai/wp-content/uploads/2026/03/7271afe0-baeb-479d-997d-dc3f32539691-1024x683.png",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.900575"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807694"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.702655"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.713952"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.635808"
+        }
+      ],
+      "overall_sentiment_score": 0.124712,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JPM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440051",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.721981",
+          "ticker_sentiment_score": "0.139258",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.663632",
+          "ticker_sentiment_score": "0.053282",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PYPL",
+          "relevance_score": "0.577378",
+          "ticker_sentiment_score": "-0.109226",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zacks Industry Outlook Features Credit Acceptance, Enova, and Encore Capital",
+      "url": "https://www.bitget.com/amp/news/detail/12560605316464",
+      "time_published": "20260330T093940",
+      "authors": [
+        "101 finance Press Release"
+      ],
+      "summary": "Zacks Equity Research has analyzed the consumer loans sector, highlighting Credit Acceptance Corp. (CACC), Enova International (ENVA), and Encore Capital Group (ECPG) as attractive investment options. The favorable market conditions include falling interest rates and relaxed lending standards, which are expected to drive revenue growth despite subdued consumer confidence. The industry has shown strong performance and is undervalued compared to the broader market, with positive earnings projections for the featured companies.",
+      "banner_image": null,
+      "source": "Bitget",
+      "category_within_source": "General",
+      "source_domain": "Bitget",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.912197"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.815115"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.729320"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.618336"
+        }
+      ],
+      "overall_sentiment_score": 0.317151,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CACC",
+          "relevance_score": "0.981985",
+          "ticker_sentiment_score": "0.335449",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Regional Banks Stocks Q4 Recap: Benchmarking Customers Bancorp (NYSE:CUBI)",
+      "url": "https://stockstory.org/us/stocks/nyse/cubi/news/earnings/regional-banks-stocks-q4-recap-benchmarking-customers-bancorp-nysecubi",
+      "time_published": "20260330T075651",
+      "authors": [
+        "Petr Huřťák"
+      ],
+      "summary": "This article provides a Q4 earnings recap for regional banks, focusing on Customers Bancorp (NYSE:CUBI) and its peers. It discusses the financial performance of Customers Bancorp, Merchants Bancorp, National Bank Holdings, QCR Holdings, and First Horizon, highlighting revenue beats and misses, and stock performance post-earnings. The piece also touches on general trends affecting regional banks, including interest rates, digital transformation, and current market concerns.",
+      "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/customers-bancorp-cover-image-013776a56b45_2025-06-09-192430_psym.jpeg?size=1000x500",
+      "source": "StockStory",
+      "category_within_source": "General",
+      "source_domain": "StockStory",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825422"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.713678"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.619625"
+        }
+      ],
+      "overall_sentiment_score": -0.207842,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CUBI",
+          "relevance_score": "0.974128",
+          "ticker_sentiment_score": "-0.197321",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Esquire Financial Holdings Stock: Regional Banking Stability and Growth Potential for North American Investors",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/esquire-financial-holdings-stock-regional-banking-stability-and-growth/69027010",
+      "time_published": "20260330T064141",
+      "authors": [
+        "Alexander Grant"
+      ],
+      "summary": "Esquire Financial Holdings Inc. (ESQ) operates as a niche regional bank focused on high-value commercial cash flow lending in the New York metropolitan area, offering investors exposure to specialized lending in a dense economic hub. The bank differentiates itself through a disciplined approach, leveraging technology and a lean branch network for efficiency while navigating evolving interest rate environments and commercial real estate dynamics. While offering higher margins compared to national giants, its concentrated focus means higher volatility tied to regional cycles, making it suitable for investors seeking cyclical balance in their portfolios.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405037_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.917767"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832084"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.740709"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.742576"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.626794"
+        }
+      ],
+      "overall_sentiment_score": 0.445331,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESQ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.598273",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.590905",
+          "ticker_sentiment_score": "0.272892",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Civista Bancshares Inc Stock: Regional Banking Stability and Growth Opportunities for North American Investors",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/civista-bancshares-inc-stock-regional-banking-stability-and-growth/69026411",
+      "time_published": "20260330T043955",
+      "authors": [
+        "Elena Harper"
+      ],
+      "summary": "Civista Bancshares Inc (ISIN: US1774261053) is a diversified financial holding company focused on community banking in the Midwest, specifically Ohio. It differentiates itself through deep local roots, conservative financial practices, and a focus on commercial, retail, and wealth management services for small to mid-sized businesses and individuals. For North American investors, Civista offers exposure to a stable, undervalued regional bank with dividend potential, trading on NASDAQ under the ticker CIVB.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404986_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915668"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.840595"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.939635"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.826979"
+        }
+      ],
+      "overall_sentiment_score": 0.116178,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CIVB",
+          "relevance_score": "0.330461",
+          "ticker_sentiment_score": "0.034583",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HBAN",
+          "relevance_score": "0.626982",
+          "ticker_sentiment_score": "0.128296",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.629648",
+          "ticker_sentiment_score": "0.142793",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reflecting On Regional Banks Stocks’ Q4 Earnings: Citizens Financial Group (NYSE:CFG)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CFG/pressreleases/1036922/reflecting-on-regional-banks-stocks-q4-earnings-citizens-financial-group-nysecfg/",
+      "time_published": "20260330T030727",
+      "authors": [
+        "StockStory"
+      ],
+      "summary": "This article reviews the Q4 earnings for regional banks, focusing on Citizens Financial Group (NYSE:CFG) and highlighting the best and weakest performers in the sector. While regional banks face challenges like fintech competition and regulatory costs, Q4 revenues generally beat estimates for the 95 tracked banks. Merchants Bancorp (NASDAQ:MBIN) posted the strongest Q4, while National Bank Holdings (NYSE:NBHC) had the weakest performance.",
+      "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/citizens-financial-group-cover-image-a1262e4c7eaa_2025-06-09-175818_ggwr.jpeg",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910716"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823786"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839036"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648527"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.647763"
+        }
+      ],
+      "overall_sentiment_score": 0.004336,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CFG",
+          "relevance_score": "0.301416",
+          "ticker_sentiment_score": "0.034401",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Itaú Unibanco (Pref ADR) Stock: Brazil's Leading Bank Offers Steady Value for North American Invest",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/itau-unibanco-pref-adr-stock-brazil-s-leading-bank-offers-steady-value/69024244",
+      "time_published": "20260329T190851",
+      "authors": [
+        "Elena Martinez"
+      ],
+      "summary": "Itaú Unibanco (Pref ADR), Brazil's leading private bank, offers North American investors a stable entry point into Latin American financial growth, combining reliable dividends with exposure to high-growth emerging markets. The article highlights its resilient business model, strong financial health, and strategic focus on digital transformation. It also discusses the bank's market leadership in Brazil, its appeal for income-oriented portfolios, and factors like macroeconomic volatility and regulatory changes that investors should monitor.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405054_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.904085"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811455"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.731028"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.604858"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.645750"
+        }
+      ],
+      "overall_sentiment_score": 0.445642,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ITUB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.436925",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Banco Santander S.A. Stock: Global Banking Leader Faces Volatility Amid Strong Fundamentals and Divi",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/banco-santander-s-a-stock-global-banking-leader-faces-volatility-amid/69023617",
+      "time_published": "20260329T173944",
+      "authors": [
+        "Elena Vasquez"
+      ],
+      "summary": "Banco Santander S.A. (BME: ES0113900019) is presented as a global banking leader with strong fundamentals and a commitment to shareholder returns, evident in its recent dividend approval. The article highlights its diversified global operations, resilient business model, and attractive valuation metrics, suggesting upside potential for investors. Despite market volatility and potential risks like interest rate fluctuations, the bank's adaptability and strategic stability position it well for continued growth.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2404992_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.924388"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822933"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.711987"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.615501"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.632119"
+        }
+      ],
+      "overall_sentiment_score": 0.182428,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SAN",
+          "relevance_score": "0.993607",
+          "ticker_sentiment_score": "0.339353",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.580479",
+          "ticker_sentiment_score": "0.142254",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.582696",
+          "ticker_sentiment_score": "0.145074",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Shinhan Financial Group Co Ltd Stock: Chairman's Inclusive Finance Push Signals Strategic Direction Amid Korean Market Volatility",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/shinhan-financial-group-co-ltd-stock-chairman-s-inclusive-finance-push/69023317",
+      "time_published": "20260329T160858",
+      "authors": [
+        "Elena Voss"
+      ],
+      "summary": "Shinhan Financial Group Co Ltd has launched a 100 billion won inclusive finance initiative as the first major move of Chairman Chin Ok-dong's second term, targeting vulnerable groups like youth and small business owners. This strategic decision signals the company's commitment to social responsibility and ESG principles amidst South Korea's volatile market conditions, including currency pressures and foreign capital outflows. The initiative aims to blend profitability with social impact, potentially attracting international investors seeking ethical banking exposure, while the company navigates macroeconomic challenges and competitive dynamics in the Korean financial sector.",
+      "banner_image": "https://mdb.ad-hoc-news.de/bild/bild-2405038_1200_675.webp",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.913539"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.846351"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.739649"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.636733"
+        }
+      ],
+      "overall_sentiment_score": 0.201701,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405672",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.644369",
+          "ticker_sentiment_score": "0.127433",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.640729",
+          "ticker_sentiment_score": "0.112451",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

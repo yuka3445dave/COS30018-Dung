@@ -1,0 +1,1128 @@
+{
+  "items": "30",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Fisher Asset Management LLC Acquires 441,077 Shares of iShares MSCI Australia ETF $EWA",
+      "url": "https://www.defenseworld.net/2026/03/05/fisher-asset-management-llc-acquires-441077-shares-of-ishares-msci-australia-etf-ewa.html",
+      "time_published": "20260305T125202",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Fisher Asset Management LLC significantly increased its stake in iShares MSCI Australia ETF (EWA) by 340.5% in the third quarter, acquiring an additional 441,077 shares. This brings their total holdings to 570,604 shares, valued at over $15 million. Other institutional investors have also adjusted their positions in EWA, with the ETF currently having a market cap of $1.36 billion.",
+      "banner_image": "https://www.marketbeat.com/logos/ishares-msci-australia-etf-logo-1200x675.png?v=20210723103036",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944595"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.847975"
+        }
+      ],
+      "overall_sentiment_score": 0.168108,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.180285",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FITB",
+          "relevance_score": "0.617955",
+          "ticker_sentiment_score": "0.119576",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How Ishares Msci Australia Etf (EWA) Affects Rotational Strategy Timing",
+      "url": "https://news.stocktradersdaily.com/news_release/14/How_Ishares_Msci_Australia_Etf_EWA_Affects_Rotational_Strategy_Timing_010926044602_1767951962.html",
+      "time_published": "20260109T044600",
+      "authors": [
+        "Jake B."
+      ],
+      "summary": "This article analyzes the iShares MSCI Australia ETF (EWA) using AI models to provide insights for rotational strategy timing, identifying a unique short setup with significant risk-reward. It outlines neutral near and mid-term readings, a positive long-term bias, and various institutional trading strategies including position trading, momentum, and risk hedging. The analysis includes real-time signals, multi-timeframe signal analysis, and support/resistance levels to assist investors in their trading decisions.",
+      "banner_image": "https://news.stocktradersdaily.com/media/704439_EWA_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925009"
+        }
+      ],
+      "overall_sentiment_score": 0.046054,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.023001",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Australia’s annual inflation slows to 3.4% in November, hitting multi-month low",
+      "url": "https://seekingalpha.com/news/4537176-australias-annual-inflation-slows-to-34-in-november-hitting-multi-month-low",
+      "time_published": "20260108T032815",
+      "authors": [
+        "Meghavi Singh"
+      ],
+      "summary": "Australia's annual inflation rate decreased to 3.4% in November 2025, down from 3.8% in October, and came in below market expectations of 3.7%. This figure represents the lowest inflation rate since August but remains above the Reserve Bank of Australia's 2-3% target. The trimmed mean CPI also eased to 3.2% year-over-year.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/694662292/image_694662292.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.911138"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.842131"
+        }
+      ],
+      "overall_sentiment_score": -0.137026,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.117756",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Australian manufacturing ends 2025 with modest 51.6 PMI as domestic gains offset export weakness",
+      "url": "https://seekingalpha.com/news/4536181-australian-manufacturing-ends-2025-with-modest-516-pmi-as-domestic-gains-offset-export-weakness",
+      "time_published": "20260102T060933",
+      "authors": [
+        "Meghavi Singh"
+      ],
+      "summary": "Australia's manufacturing sector recorded a modest PMI of 51.6 in December 2025, a slight drop from the flash estimate but stable compared to November. Despite increases in output and new orders, persistent weakness in foreign sales for the fourth consecutive month limited overall growth. Domestic demand primarily supported this modest expansion, preventing a more significant decline.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/694559514/image_694559514.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.930105"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.812412"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.746478"
+        }
+      ],
+      "overall_sentiment_score": 0.288444,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279133",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "iShares MSCI Australia ETF declares semi-annual distribution of $0.4436",
+      "url": "https://www.msn.com/en-us/money/markets/ishares-msci-australia-etf-declares-semi-annual-distribution-of-0-4436/ar-AA1StjHO?ocid=finance-verthp-feeds",
+      "time_published": "20251216T181005",
+      "authors": [],
+      "summary": "The iShares MSCI Australia ETF (NYSEARCA:EWA) has announced a semi-annual distribution of $0.4436 per share. This declaration signals upcoming shareholder payouts for holders of the ETF. Key dates related to this distribution are the ex-dividend date on December 18, 2024, the record date on December 18, 2024, and the payable date on December 24, 2024.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.910516"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823565"
+        }
+      ],
+      "overall_sentiment_score": 0.239747,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.974893",
+          "ticker_sentiment_score": "0.226536",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australia’s jobless rate stable at 4.3%, but employment unexpectedly falls by 21,300 jobs",
+      "url": "https://seekingalpha.com/news/4530367-australias-jobless-rate-stable-at-43-but-employment-plummets-by-21300-jobs",
+      "time_published": "20251211T000200",
+      "authors": [
+        "Meghavi Singh"
+      ],
+      "summary": "Australia's seasonally adjusted unemployment rate held steady at 4.3% in November 2025, contrary to expectations of a rise to 4.4%. Despite this stability in the jobless rate, total employment surprisingly decreased by 21,300, driven by a reduction in full-time jobs. The underemployment rate, however, saw a slight improvement, falling by 0.1 percentage points to 6.9%.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/696741968/image_696741968.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.938141"
+        }
+      ],
+      "overall_sentiment_score": -0.229409,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.200694",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Australia holds interest rate steady, flags inflation (EWA:NYSEARCA)",
+      "url": "https://seekingalpha.com/news/4529518-australia-holds-interest-rate-steady-flags-inflation",
+      "time_published": "20251208T112600",
+      "authors": [
+        "Manshi Mamtora",
+        "CFA"
+      ],
+      "summary": "The Reserve Bank of Australia (RBA) unanimously maintained its cash rate at 3.6% in its final meeting of 2025, aligning with market expectations. Policymakers opted for a cautious approach, choosing to hold interest rates steady while flagging concerns about inflation. This decision allows them to reassess policy as new economic data becomes available.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/486038099/image_486038099.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.931457"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.742459"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.629753"
+        }
+      ],
+      "overall_sentiment_score": 0.030511,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.331091",
+          "ticker_sentiment_score": "0.033161",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Fisher Asset Management LLC Acquires New Shares in iShares MSCI Australia ETF $EWA",
+      "url": "https://www.defenseworld.net/2025/12/05/fisher-asset-management-llc-acquires-new-shares-in-ishares-msci-australia-etf-ewa.html",
+      "time_published": "20251206T053148",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Fisher Asset Management LLC has acquired 129,527 new shares in the iShares MSCI Australia ETF (NYSEARCA:EWA), valued at approximately $3.409 million, giving it a 0.23% stake. Other hedge funds, including Jones Financial Companies Lllp and Private Trust Co. NA, also made significant moves in EWA shares. The iShares MSCI Australia ETF, which tracks the MSCI Australia Index, recently traded up 0.6% at $26.29.",
+      "banner_image": "https://www.defenseworld.net/wp-content/uploads/Defense-World-Logo.png",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903439"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716954"
+        }
+      ],
+      "overall_sentiment_score": 0.269367,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.272368",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australia's October trade surplus widens to AUD 4.39B; robust exports outpace record imports",
+      "url": "https://seekingalpha.com/news/4528381-australias-october-trade-surplus-widens-to-aud-439b-robust-exports-outpace-record-imports",
+      "time_published": "20251204T124600",
+      "authors": [
+        "Meghavi Singh"
+      ],
+      "summary": "Australia's goods trade surplus expanded to AUD 4.39 billion in October 2025, exceeding both market expectations of AUD 4.2 billion and the revised September figure of AUD 3.71 billion. This marks the largest surplus since July, primarily due to exports growing at a faster rate than imports.",
+      "banner_image": "NULL",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.916916"
+        }
+      ],
+      "overall_sentiment_score": 0.513338,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.526214",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cetera Investment Advisers Increases Stock Position in iShares MSCI Australia ETF $EWA",
+      "url": "https://www.defenseworld.net/2025/11/30/cetera-investment-advisers-increases-stock-position-in-ishares-msci-australia-etf-ewa.html",
+      "time_published": "20251201T053148",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Cetera Investment Advisers significantly increased its stake in the iShares MSCI Australia ETF (EWA) by 697.8% in the second quarter, now owning 77,152 shares valued at $2.03 million. Other institutional investors like Hsbc Holdings PLC and Mirae Asset Global Investments Co. Ltd. also adjusted their holdings in the ETF, which boasts a market cap of $1.40 billion. The article details the fund's investment strategy, aiming to track the performance of publicly traded securities in the Australian market.",
+      "banner_image": "https://www.marketbeat.com/logos/ishares-msci-australia-etf-logo-1200x675.png?v=20210723103036",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945412"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.807986"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.642038"
+        }
+      ],
+      "overall_sentiment_score": 0.295994,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.295952",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australia’s sovereign wealth posts 13.7% yearly return on stocks, alternatives (EWA:NYSEARCA)",
+      "url": "https://seekingalpha.com/news/4512695-australia-s-sovereign-wealth-posts-13_7-percent-yearly-return-on-stocks-alternatives",
+      "time_published": "20251102T102000",
+      "authors": [
+        "Rob Williams"
+      ],
+      "summary": "Australia's sovereign wealth fund, the Future Fund, achieved a 13.7% gain for the year ended September 30. This performance was driven by strong returns in global equities, infrastructure, and alternative assets. The fund's total assets under management increased to A$261 billion ($171 billion).",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/174694665/image_174694665.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930531"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.833436"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.730792"
+        }
+      ],
+      "overall_sentiment_score": 0.443556,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415556",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australia jobless rate rises to 4.5% in Sept; employment growth misses estimates - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4504616-australia-jobless-rate-rises-to-45-in-sept-employment-growth-misses-estimates",
+      "time_published": "20251016T060604",
+      "authors": [
+        "Meghavi Singh"
+      ],
+      "summary": "Australia's seasonally adjusted unemployment rate rose to 4.5% in September 2025, exceeding expectations and marking the highest jobless rate since November 2021. This indicates significant weakness in the Australian job market as employment growth missed estimates.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/694665860/image_694665860.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.944328"
+        }
+      ],
+      "overall_sentiment_score": 0.017084,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.309787",
+          "ticker_sentiment_score": "0.039800",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Australia eyes floor prices for critical minerals before Trump meeting",
+      "url": "https://seekingalpha.com/news/4503489-australia-eyes-floor-prices-for-critical-minerals-before-trump-meeting",
+      "time_published": "20251013T055707",
+      "authors": [
+        "Manshi Mamtora",
+        "CFA"
+      ],
+      "summary": "Australia is considering implementing mandated floor prices for critical minerals and investing in new rare earth projects as part of a deal with the United States. This move comes as the Australian government has initiated discussions ahead of an anticipated meeting with former President Donald Trump. The aim is to secure critical mineral supply chains and boost domestic rare earth capabilities.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2186773583/image_2186773583.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.923077"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.622445"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.505041"
+        }
+      ],
+      "overall_sentiment_score": 0.041299,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.320844",
+          "ticker_sentiment_score": "0.018109",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "RBA holds cash rate at 3.6%; maintains stability after August cut",
+      "url": "https://seekingalpha.com/news/4500029-rba-holds-cash-rate-at-36-maintains-stability-after-august-cut",
+      "time_published": "20250930T010000",
+      "authors": [
+        "Meghavi Singh"
+      ],
+      "summary": "The Reserve Bank of Australia (RBA) board has decided to keep the cash rate at 3.6% following its September 2025 meeting. This decision maintains stability after a quarter-point reduction last month and was largely expected by the market. The RBA's cautious stance is influenced by various economic indicators, including inflation within the 2-3% target, private sector credit growth, and labor/housing market data.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1145216877/image_1145216877.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.931748"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810029"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.723148"
+        }
+      ],
+      "overall_sentiment_score": 0.298212,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.284891",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "EWA: Don't Want The Banks",
+      "url": "https://seekingalpha.com/article/4662224-ewa-dont-want-the-banks",
+      "time_published": "20240110T172000",
+      "authors": [
+        "Valkyrie Trading Society"
+      ],
+      "summary": "The iShares MSCI Australia ETF (EWA) has an above-average expense ratio and applies steep multiples to non-mining Australian exposures, particularly financials. The author's primary interest in this ETF is mining, so they choose to avoid the expensive non-mining sectors. They conclude that the EWA ETF is not competitive compared to resident fixed-rate investments.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1434856069/image_1434856069.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918780"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721012"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640819"
+        }
+      ],
+      "overall_sentiment_score": -0.22365,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.201053",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "EWA ETF: Wait On The Sidelines (NYSEARCA:EWA)",
+      "url": "https://seekingalpha.com/article/4630811-ewa-etf-wait-on-the-sidelines",
+      "time_published": "20230824T092500",
+      "authors": [
+        "The Alpha Sieve"
+      ],
+      "summary": "The iShares MSCI Australia ETF (EWA) has underperformed, with an uncertain macro backdrop due to slowing GDP growth and declining household spending in Australia. The asset quality of Australian banks is expected to deteriorate as low-cost fixed-rate mortgages reset. EWA's current valuations are not attractive, and technical conditions do not suggest a buy.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412008196/image_1412008196.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924157"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.814436"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643493"
+        }
+      ],
+      "overall_sentiment_score": -0.412919,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.417471",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "10 Best Australian ETFs That You Can Trade Today on CMC Invest",
+      "url": "https://www.cmcmarkets.com/en-sg/news-and-analysis/best-australian-etfs",
+      "time_published": "20230619T130000",
+      "authors": [
+        "Bryant Tay"
+      ],
+      "summary": "This article explores the best Australian ETFs available on CMC Invest, discussing their benefits such as diversification, lower costs, and liquidity. It also outlines essential factors to consider when choosing an ETF, including sector, management fees, and index tracking methodology, and highlights potential risks. The piece concludes with a detailed list of 10 top Australian ETFs, complete with their ASX codes and investment focuses.",
+      "banner_image": null,
+      "source": "CMC Markets",
+      "category_within_source": "General",
+      "source_domain": "CMC Markets",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915614"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815795"
+        }
+      ],
+      "overall_sentiment_score": 0.468313,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.930643",
+          "ticker_sentiment_score": "0.490038",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "EWA: Time To Head To Australia For High Yields",
+      "url": "https://seekingalpha.com/article/4609448-ewa-time-to-head-to-australia-for-high-yields",
+      "time_published": "20230605T130151",
+      "authors": [
+        "Diesel"
+      ],
+      "summary": "The iShares MSCI Australia ETF (EWA) offers exposure to Australian stocks with high dividend yields, currently above 6%, making it attractive for income-oriented investors. The Australian economy, heavily reliant on mining and commodities with major Asian trading partners, carries risks from global economic slowdowns and geopolitical tensions. EWA is suitable for investors seeking a high-yielding, commodity-based income fund.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1443847141/image_1443847141.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942103"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.812946"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707223"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.618985"
+        }
+      ],
+      "overall_sentiment_score": 0.421976,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433632",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "iShares MSCI Australia ETF (EWA) Stock Price, Holdings, Dividend Yield",
+      "url": "https://www.gurufocus.com/etf/EWA/summary",
+      "time_published": "20221216T073851",
+      "authors": [],
+      "summary": "This article provides an overview of the iShares MSCI Australia ETF (EWA), detailing its stock price, key financial ratios like PE and PB, dividend yield, and top holdings as of its latest N-PORT filing. It highlights that the ETF holds 40 stocks, with a significant concentration in Australian banks and mining companies, and provides various performance metrics and historical data for analysis. The content is geared towards investors seeking in-depth financial information about this specific ETF.",
+      "banner_image": null,
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920566"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746414"
+        }
+      ],
+      "overall_sentiment_score": 0.133041,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.112758",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ishares MSCI Australia ETF EWA",
+      "url": "https://www.etoro.com/markets/ewa",
+      "time_published": "20221029T163955",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides an overview of the iShares MSCI Australia ETF (EWA), detailing its current price, key metrics, and how to buy it on eToro. It describes EWA as tracking an index of large and mid-sized Australian equities, managed by BlackRock, with primary holdings in finance and non-energy minerals. The ETF's current price is $27.79, and it has shown an 18.57% return over the last year.",
+      "banner_image": "NULL",
+      "source": "eToro",
+      "category_within_source": "General",
+      "source_domain": "eToro",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945650"
+        }
+      ],
+      "overall_sentiment_score": 0.114518,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.101535",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How to invest in the ASX from the US",
+      "url": "https://finty.com/us/investing/asx/",
+      "time_published": "20220730T164118",
+      "authors": [
+        "Yvonne Taylor",
+        "Andrew Boyd"
+      ],
+      "summary": "This article provides a comprehensive guide for US investors interested in the Australian Securities Exchange (ASX), detailing how to invest in ASX-listed index funds, ETFs, and individual shares. It covers choosing online brokers, funding accounts, placing orders, and monitoring investments, while also outlining the pros and cons of investing in the ASX from the US. The guide offers specific examples of index funds, ETFs, and major Australian companies for consideration.",
+      "banner_image": null,
+      "source": "finty.com",
+      "category_within_source": "General",
+      "source_domain": "finty.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936756"
+        }
+      ],
+      "overall_sentiment_score": 0.027106,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.348815",
+          "ticker_sentiment_score": "0.023559",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The SPDR MSCI Australia Select High Dividend Yield Fund (ASX:SYI) explained",
+      "url": "https://www.fool.com.au/2022/01/13/the-spdr-msci-australia-select-high-dividend-yield-fund-asxsyi-explained/",
+      "time_published": "20220113T020400",
+      "authors": [
+        "Sebastian Bowen"
+      ],
+      "summary": "This article explains the SPDR MSCI Australia Select High Dividend Yield Fund (ASX:SYI), an ETF designed to track Australian companies with high dividend income and quality characteristics. It details SYI's investment strategy, top holdings including Fortescue Metals Group and BHP Group Ltd, and its dividend distribution yield of 7.48%. The article also compares SYI's performance to the iShares Core S&P/ASX 200 ETF (ASX:IOZ), noting that SYI offers higher dividends at the cost of some overall returns.",
+      "banner_image": "https://images.unsplash.com/photo-1627398200086-62159e66160e",
+      "source": "The Motley Fool Australia",
+      "category_within_source": "General",
+      "source_domain": "The Motley Fool Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922914"
+        }
+      ],
+      "overall_sentiment_score": 0.135976,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.845240",
+          "ticker_sentiment_score": "0.113895",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSCI",
+          "relevance_score": "0.711036",
+          "ticker_sentiment_score": "0.121355",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BlackRock signals global ESG intent with double ETF launch in Australia",
+      "url": "https://www.etfstream.com/articles/blackrock-signals-global-esg-intent-with-double-etf-launch-in-australia",
+      "time_published": "20210622T201206",
+      "authors": [
+        "Tom Eckett"
+      ],
+      "summary": "BlackRock has launched two new ESG ETFs in Australia, the iShares Core MSCI Australia ESG Leaders ETF (IESG) and the iShares Core MSCI World Ex Australia ESG Leaders ETF (IWLD), making them the cheapest ESG ETFs available in the country with a total expense ratio of 0.09%. This move signals BlackRock's commitment to providing competitive ESG investment options globally and challenges existing providers like BetaShares. One of the ETFs, IWLD, was rebranded from a previous MSCI World All Cap ETF and now physically replicates underlying securities while excluding controversial industries.",
+      "banner_image": null,
+      "source": "ETF Stream",
+      "category_within_source": "General",
+      "source_domain": "ETF Stream",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929365"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839008"
+        }
+      ],
+      "overall_sentiment_score": 0.289121,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.332146",
+          "ticker_sentiment_score": "0.010960",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.984476",
+          "ticker_sentiment_score": "0.486584",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSCI",
+          "relevance_score": "0.886798",
+          "ticker_sentiment_score": "0.346069",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "'Quality' ETFs under the microscope",
+      "url": "https://www.morningstar.com.au/etfs/quality-etfs-under-the-microscope",
+      "time_published": "20201126T221609",
+      "authors": [
+        "Kongkon Gogoi",
+        "Zunjar Sanzgiri"
+      ],
+      "summary": "This article examines \"Quality\" ETFs, highlighting their increasing popularity and attractive returns, especially in Australia. It discusses how the quality factor is defined and applied by different ETFs, leading to variations in portfolio attributes despite targeting the same factor. The piece also covers the growth of quality ETFs in the Australian market, their outperformance, and the importance of diversification across factors for investors.",
+      "banner_image": null,
+      "source": "Morningstar Australia",
+      "category_within_source": "General",
+      "source_domain": "Morningstar Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936890"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.825129"
+        }
+      ],
+      "overall_sentiment_score": 0.085235,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.347855",
+          "ticker_sentiment_score": "0.043434",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TECH",
+          "relevance_score": "0.571709",
+          "ticker_sentiment_score": "0.141722",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Aussie Dollar Has Risen 30% Since the Covid-19 Sell-Offs in March",
+      "url": "https://www.etftrends.com/smart-beta-channel/the-aussie-dollar-has-risen-30-since-the-covid-19-sell-offs-in-march/",
+      "time_published": "20200903T221609",
+      "authors": [
+        "Ben Hernandez"
+      ],
+      "summary": "The Aussie dollar has seen a significant rebound, rising 30% since the March 2020 Covid-19 sell-offs, despite Australia entering a recession. This strength is attributed to Australia's role as a raw material supplier to China and its strategic positioning in the global economic recovery. The article suggests ETFs like Invesco CurrencyShares Australian Dollar Trust (FXA) and iShares MSCI Australia ETF (EWA) for investors seeking exposure to the Australian market.",
+      "banner_image": null,
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916844"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.816833"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.606128"
+        }
+      ],
+      "overall_sentiment_score": 0.341606,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.345463",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australia ETF is Hot, But Run Faces Challenges",
+      "url": "https://www.etftrends.com/tactical-allocation-content-hub/australia-etf-is-hot-but-run-faces-challenges/",
+      "time_published": "20190701T200848",
+      "authors": [
+        "Todd Shriber"
+      ],
+      "summary": "The iShares MSCI Australia ETF (NYSEArca: EWA) has seen significant gains year-to-date, making it one of the top-performing developed market ETFs outside the U.S. Its high dividend yield is attractive to investors seeking income and international exposure. However, market observers are divided on whether Australian stocks can sustain their rally, with some analysts predicting further gains while others suggest looking elsewhere.",
+      "banner_image": "NULL",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925332"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.814289"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726856"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.623070"
+        }
+      ],
+      "overall_sentiment_score": 0.079896,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.109507",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.623416",
+          "ticker_sentiment_score": "0.197559",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.619648",
+          "ticker_sentiment_score": "0.196844",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.619974",
+          "ticker_sentiment_score": "-0.173031",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Australia ETF is Hot, But Run Faces Challenges",
+      "url": "https://www.etftrends.com/tactical-allocation-channel/australia-etf-is-hot-but-run-faces-challenges/",
+      "time_published": "20190701T190938",
+      "authors": [
+        "Todd Shriber"
+      ],
+      "summary": "The iShares MSCI Australia ETF (EWA) has performed exceptionally well year-to-date, benefiting from comparatively high interest rates and offering an attractive dividend yield. However, market analysts are divided on whether Australian stocks can sustain this rally, with some like Citigroup and Morgan Stanley optimistic, while Goldman Sachs expects a slowdown and favors North Asian markets. EWA, tracking the MSCI Australia Index, has a significant allocation to financial services and its future performance is tied to economic projections and interest rate movements.",
+      "banner_image": "NULL",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914487"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.800626"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.729129"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601780"
+        }
+      ],
+      "overall_sentiment_score": -0.087814,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.950466",
+          "ticker_sentiment_score": "0.051011",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.632324",
+          "ticker_sentiment_score": "-0.068431",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.619844",
+          "ticker_sentiment_score": "0.146236",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.619969",
+          "ticker_sentiment_score": "-0.335660",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vanguard Australia narrows the ETF gap on iShares",
+      "url": "https://www.morningstar.com.au/etfs/vanguard-australia-narrows-the-etf-gap-on-ishares",
+      "time_published": "20180521T022115",
+      "authors": [
+        "Emma Rapaport"
+      ],
+      "summary": "Vanguard Australia is rapidly closing the gap on iShares to become the largest ETF provider in Australia, after attracting nearly $3 billion in net flows in the year to March 31, 2018. This growth has pushed Vanguard's ETF assets under management past $10 billion, nearing iShares' $10.6 billion. The Australian ETF market continues to innovate and expand, with increasing attention on active ETPs, strategic beta, and sustainability-focused products.",
+      "banner_image": null,
+      "source": "Morningstar",
+      "category_within_source": "General",
+      "source_domain": "Morningstar",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935597"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713390"
+        }
+      ],
+      "overall_sentiment_score": 0.106129,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.851444",
+          "ticker_sentiment_score": "0.259366",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.753858",
+          "ticker_sentiment_score": "-0.132982",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STT",
+          "relevance_score": "0.724727",
+          "ticker_sentiment_score": "0.130694",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.695360",
+          "ticker_sentiment_score": "0.068334",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MMM",
+          "relevance_score": "0.587723",
+          "ticker_sentiment_score": "0.030917",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "iShares MSCI Australia ETF ETF Price, Holdings, & News (NYSEARCA:EWA) $EWA",
+      "url": "https://www.marketbeat.com/stocks/NYSEARCA/EWA/",
+      "time_published": "20160818T175149",
+      "authors": [],
+      "summary": "This article provides detailed information on the iShares MSCI Australia ETF (NYSEARCA:EWA), including its current price, key statistics, holdings, and recent news. The ETF aims to mirror the performance of the MSCI Australia Index, focusing on publicly traded Australian securities. It also covers the fund's expense ratios, major institutional investors, and top holdings like Commonwealth Bank of Australia and BHP Group Limited.",
+      "banner_image": "https://www.marketbeat.com/logos/thumbnail/ishares-msci-australia-etf-logo.png?v=20210723103036",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916050"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.618102"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710397"
+        }
+      ],
+      "overall_sentiment_score": 0.158027,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.172098",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.638208",
+          "ticker_sentiment_score": "0.130808",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ETF Spotlight: International Financial Sector",
+      "url": "https://www.etftrends.com/2012/08/etf-spotlight-international-financial-sector/amp/",
+      "time_published": "20120822T143609",
+      "authors": [
+        "Tom Lydon",
+        "Tisha Guerrero"
+      ],
+      "summary": "Financial sector ETFs, particularly international ones, are experiencing a recovery in 2012 after a challenging previous year. This article highlights three specific ETFs, SPDR S&P International Financial Sector ETF (IPF), iShares MSCI Far East Financials Sector Index Fund (FEFN), and Global X Brazil Financials (BRAF), that are showing strong momentum and outperforming the broader market. These funds offer adventurous investors exposure to international financial sectors, with varying regional focuses and dividend yields.",
+      "banner_image": null,
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941387"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803567"
+        }
+      ],
+      "overall_sentiment_score": 0.02074,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EWA",
+          "relevance_score": "0.301084",
+          "ticker_sentiment_score": "0.022905",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}
