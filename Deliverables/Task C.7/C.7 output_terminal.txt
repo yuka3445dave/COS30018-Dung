@@ -1,0 +1,188 @@
+
+(COS30018) PS C:\Users\PC\cos30018\C.7> python main_c7.py
+Loaded from cache: data_cache\CBA.AX_2025-01-01_2026-04-04.csv
+Downloaded df shape: (317, 5)
+Columns: ['Open', 'High', 'Low', 'Close', 'Volume']
+                  Open        High         Low       Close   Volume
+Date
+2025-01-02  146.867591  147.567184  146.148826  147.174271   878386
+2025-01-03  148.094279  149.172426  147.203018  148.573456   888021
+2025-01-06  149.503046  150.226607  148.774703  149.522217  1032059
+2025-01-07  149.982238  151.093931  149.474312  150.566833  1035090
+2025-01-08  149.982246  154.965679  149.349730  153.096893  2260821
+Loaded Alpha Vantage news from cache: news_cache/av_windows\av_20250101T0000_20250401T2359.json
+Alpha Vantage feed items parsed: 50
+Loaded Alpha Vantage news from cache: news_cache/av_windows\av_20250402T0000_20250701T2359.json
+Alpha Vantage feed items parsed: 50
+Loaded Alpha Vantage news from cache: news_cache/av_windows\av_20250702T0000_20250930T2359.json
+Alpha Vantage feed items parsed: 50
+Loaded Alpha Vantage news from cache: news_cache/av_windows\av_20251001T0000_20251230T2359.json
+Alpha Vantage feed items parsed: 50
+Loaded Alpha Vantage news from cache: news_cache/av_windows\av_20251231T0000_20260331T2359.json
+Alpha Vantage feed items parsed: 50
+Loaded Alpha Vantage news from cache: news_cache/av_windows\av_20260401T0000_20260404T2359.json
+Alpha Vantage feed items parsed: 42
+Alpha Vantage windows total rows: 280
+         date  ...                                                url
+0  2025-01-02  ...  https://finance.yahoo.com/news/blockbuster-202...
+1  2025-01-03  ...  https://www.etftrends.com/muni-bonds-new-inter...
+2  2025-01-03  ...  https://www.etftrends.com/fixed-income-content...
+3  2025-01-06  ...  https://www.retaildive.com/news/shoppers-acqui...
+4  2025-01-08  ...  https://seekingalpha.com/article/4748271-edv-b...
+
+[5 rows x 4 columns]
+Loaded FinViz headlines from cache: news_cache/finviz_EWA.csv
+
+FinViz sample:
+  date_finviz     time  ...           source                                               link
+0   May-03-25  03:40AM  ...  (Seeking Alpha)  https://seekingalpha.com/article/4781463-weekl...
+1   Apr-30-25  02:40AM  ...  (Seeking Alpha)  https://seekingalpha.com/article/4779570-austr...
+2   Apr-26-25  04:22AM  ...  (Seeking Alpha)  https://seekingalpha.com/article/4778456-weekl...
+3   Apr-03-25  05:25AM  ...  (Seeking Alpha)  https://seekingalpha.com/article/4772696-tarif...
+4   Mar-29-25  05:45AM  ...  (Seeking Alpha)  https://seekingalpha.com/article/4771525-weekl...
+
+[5 rows x 5 columns]
+Alpha Vantage (topics) after keyword filter: 63
+
+[After filtering] Combined news rows: 73
+[After filtering] News date range: 2025-01-15 -> 2026-04-03
+Saved headline-level VADER scores to: news_cache/news_scored_vader.csv
+
+VADER score stats:
+count    73.000000
+mean      0.138078
+std       0.308026
+min      -0.690800
+25%       0.000000
+50%       0.000000
+75%       0.381800
+max       0.790600
+Name: vader_compound, dtype: float64
+
+Price days: 317 | Sentiment days: 34 | Overlap: 24
+
+Daily sentiment rows: 34
+         date  sent_mean  sent_sum  sent_count
+0  2025-01-15     0.3953    0.7906           2
+1  2025-01-18     0.0000    0.0000           1
+2  2025-01-30     0.2732    0.2732           1
+3  2025-02-10     0.0000    0.0000           1
+4  2025-02-17     0.0000    0.0000           1
+Saved daily sentiment to: news_cache/sentiment_daily_vader.csv
+Loaded FinBERT scored headlines from cache: news_cache/news_scored_finbert.csv
+Saved daily FinBERT sentiment to: news_cache/sentiment_daily_finbert.csv
+
+FinBERT daily rows: 33
+         date  finbert_mean  finbert_sum  finbert_count
+0  2025-01-15     -0.096827    -0.193654              2
+1  2025-01-18      0.882639     0.882639              1
+2  2025-01-30      0.933348     0.933348              1
+3  2025-02-10     -0.006781    -0.006781              1
+4  2025-02-17      0.048564     0.048564              1
+
+Classification dataset shape: (307, 19)
+Label distribution (0=DOWN,1=UP):
+label_up
+1    0.553746
+0    0.446254
+Name: proportion, dtype: float64
+
+--- LogReg (Price-only) ---
+Accuracy:  0.5484
+Precision: 0.5897
+Recall:    0.6571
+F1:        0.6216
+Confusion matrix:
+ [[11 16]
+ [12 23]]
+
+--- LogReg (Price + VADER) ---
+Accuracy:  0.5484
+Precision: 0.5897
+Recall:    0.6571
+F1:        0.6216
+Confusion matrix:
+ [[11 16]
+ [12 23]]
+
+--- LogReg (Price + FinBERT) ---
+Accuracy:  0.5323
+Precision: 0.5789
+Recall:    0.6286
+F1:        0.6027
+Confusion matrix:
+ [[11 16]
+ [13 22]]
+
+--- LogReg (Price + VADER + FinBERT) ---
+Accuracy:  0.5323
+Precision: 0.5789
+Recall:    0.6286
+F1:        0.6027
+Confusion matrix:
+ [[11 16]
+ [13 22]]
+
+=== Comparison (LogReg) ===
+Price-only F1: 0.6216 | +VADER F1: 0.6216 | +FinBERT F1: 0.6027 | +Both F1: 0.6027
+
+--- RandomForest (Price-only) ---
+Accuracy:  0.5323
+Precision: 0.5938
+Recall:    0.5429
+F1:        0.5672
+Confusion matrix:
+ [[14 13]
+ [16 19]]
+
+--- RandomForest (Price + VADER) ---
+Accuracy:  0.5645
+Precision: 0.6111
+Recall:    0.6286
+F1:        0.6197
+Confusion matrix:
+ [[13 14]
+ [13 22]]
+
+Final demo model: RandomForest (Price + VADER)
+
+Next trading day direction prediction:
+Predicted label (1=UP, 0=DOWN): 0
+Probability of UP: 0.4285
+Last test day (date): 2026-04-01
+Close on last test day: 171.89999389648438
+Actual next-day label (1=UP,0=DOWN): 1
+
+--- RandomForest (Price + FinBERT) ---
+Accuracy:  0.5323
+Precision: 0.5938
+Recall:    0.5429
+F1:        0.5672
+Confusion matrix:
+ [[14 13]
+ [16 19]]
+Price-only F1: 0.6216 | +VADER F1: 0.6216 | +FinBERT F1: 0.6027 | +Both F1: 0.6027
+
+Combined news rows: 73
+
+Combined news rows: 73
+News date range: 2025-01-15 -> 2026-04-03
+          date  ...        origin
+90  2025-01-15  ...  alphavantage
+91  2025-01-15  ...  alphavantage
+92  2025-01-18  ...  alphavantage
+93  2025-01-30  ...  alphavantage
+94  2025-02-10  ...  alphavantage
+
+[5 rows x 5 columns]
+Saved combined news to: news_cache/news_combined_EWA.csv
+
+Final demo model: RandomForest (Price + VADER)
+
+Next trading day direction prediction:
+Direction: DOWN
+Predicted label (1=UP, 0=DOWN): 0
+Probability of UP: 0.4285
+Last test day (date): 2026-04-01
+Close on last test day: 171.89999389648438
+Actual next-day label (1=UP,0=DOWN): 1
