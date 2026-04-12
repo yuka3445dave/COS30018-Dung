@@ -1,0 +1,307 @@
+(COS30018) PS C:\Users\PC\cos30018\Deliverables\Task C.5> python TaskC.5.py
+2026-04-12 12:32:51.482641: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-04-12 12:32:56.289828: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Dataset range: 2020-01-01 → 2024-07-02
+Split method used: date
+
+Task C.5 modes:
+1 = multistep
+2 = multivariate
+3 = multivariate_multistep
+Enter mode number (default=3): 3
+Using mode: multivariate_multistep
+Enter forecast horizon (default=1): 5
+Using forecast_horizon=5
+Enter number of future days k (default=5): 8
+Using k_steps=8
+Task5 mode: multivariate_multistep
+Forecast horizon: 5
+K steps: 8
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+NaN before: 0
+NaN after : 0
+[Split=date] X_train=(846, 60, 5), X_test=(230, 60, 5)
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+NaN before: 0
+NaN after : 0
+[Split=ratio] X_train=(849, 60, 5), X_test=(227, 60, 5)
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+NaN before: 0
+NaN after : 0
+[Split=random] X_train=(861, 60, 5), X_test=(216, 60, 5)
+Loaded from cache: data_cache\CBA.AX_2020-01-01_2024-07-02.csv
+Warning: 'Adj Close' not found; using 'Close' as proxy for 'Adj Close'.
+NaN before: 0
+NaN after : 0
+x_train shape: (835, 60, 6)
+y_train shape: (835, 8)
+Raw df shape: (1137, 5)
+Clean df shape: (1137, 6)
+Train/Test samples: 835 230
+X_train shape (samples, lookback, n_features): (835, 60, 6)
+Scaler keys: ['feature_scaler', 'target_scaler', 'feature_columns', 'target_column']
+Feature columns: ['Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']
+Target column: Close
+Enter number of trading days per candlestick (default=5):
+No input given. Using default n=5
+Saved custom candlestick chart: outputs_c5\multivariate_multistep\visualizations\candlestick_n5_custom.png
+WARNING:tensorflow:From D:\anaconda3\envs\COS30018\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-04-12 12:33:39.685241: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+D:\anaconda3\envs\COS30018\lib\site-packages\keras\src\layers\rnn\rnn.py:199: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+
+================================================================================
+Running experiment: LSTM_L3_E25_B64
+================================================================================
+Model: "LSTM_3layers"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ lstm (LSTM)                          │ (None, 60, 50)              │          11,400 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ lstm_1 (LSTM)                        │ (None, 60, 50)              │          20,200 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ lstm_2 (LSTM)                        │ (None, 50)                  │          20,200 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_2 (Dropout)                  │ (None, 50)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 8)                   │             408 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 52,208 (203.94 KB)
+ Trainable params: 52,208 (203.94 KB)
+ Non-trainable params: 0 (0.00 B)
+Epoch 1/25
+2026-04-12 12:33:39.850158: E tensorflow/core/framework/node_def_util.cc:680] NodeDef mentions attribute use_unbounded_threadpool which is not in the op definition: Op<name=MapDataset; signature=input_dataset:variant, other_arguments: -> handle:variant; attr=f:func; attr=Targuments:list(type),min=0; attr=output_types:list(type),min=1; attr=output_shapes:list(shape),min=1; attr=use_inter_op_parallelism:bool,default=true; attr=preserve_cardinality:bool,default=false; attr=force_synchronous:bool,default=false; attr=metadata:string,default=""> This may be expected if your graph generating binary is newer  than this binary. Unknown attributes will be ignored. NodeDef: {{node ParallelMapDatasetV2/_15}}
+14/14 ━━━━━━━━━━━━━━━━━━━━ 3s 32ms/step - loss: 0.2510
+Epoch 2/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0536
+Epoch 3/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0343
+Epoch 4/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0272
+Epoch 5/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0251
+Epoch 6/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step - loss: 0.0223
+Epoch 7/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0220
+Epoch 8/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0203
+Epoch 9/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0197
+Epoch 10/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0188
+Epoch 11/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0177
+Epoch 12/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step - loss: 0.0173
+Epoch 13/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 27ms/step - loss: 0.0170
+Epoch 14/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0157
+Epoch 15/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step - loss: 0.0148
+Epoch 16/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0148
+Epoch 17/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0141
+Epoch 18/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step - loss: 0.0150
+Epoch 19/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0130
+Epoch 20/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0135
+Epoch 21/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step - loss: 0.0135
+Epoch 22/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0136
+Epoch 23/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0131
+Epoch 24/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step - loss: 0.0137
+Epoch 25/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step - loss: 0.0125
+2026-04-12 12:33:52.266161: E tensorflow/core/framework/node_def_util.cc:680] NodeDef mentions attribute use_unbounded_threadpool which is not in the op definition: Op<name=MapDataset; signature=input_dataset:variant, other_arguments: -> handle:variant; attr=f:func; attr=Targuments:list(type),min=0; attr=output_types:list(type),min=1; attr=output_shapes:list(shape),min=1; attr=use_inter_op_parallelism:bool,default=true; attr=preserve_cardinality:bool,default=false; attr=force_synchronous:bool,default=false; attr=metadata:string,default=""> This may be expected if your graph generating binary is newer  than this binary. Unknown attributes will be ignored. NodeDef: {{node ParallelMapDatasetV2/_14}}
+D:\anaconda3\envs\COS30018\lib\site-packages\keras\src\layers\rnn\rnn.py:199: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+
+================================================================================
+Running experiment: GRU_L3_E25_B64
+================================================================================
+Model: "GRU_3layers"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ gru (GRU)                            │ (None, 60, 50)              │           8,700 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ gru_1 (GRU)                          │ (None, 60, 50)              │          15,300 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ gru_2 (GRU)                          │ (None, 50)                  │          15,300 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_2 (Dropout)                  │ (None, 50)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 8)                   │             408 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 39,708 (155.11 KB)
+ Trainable params: 39,708 (155.11 KB)
+ Non-trainable params: 0 (0.00 B)
+Epoch 1/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 3s 31ms/step - loss: 0.1460
+Epoch 2/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0443
+Epoch 3/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0335
+Epoch 4/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0291
+Epoch 5/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0260
+Epoch 6/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0234
+Epoch 7/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0224
+Epoch 8/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0198
+Epoch 9/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0186
+Epoch 10/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0174
+Epoch 11/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0181
+Epoch 12/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0173
+Epoch 13/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0173
+Epoch 14/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0165
+Epoch 15/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0163
+Epoch 16/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0152
+Epoch 17/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0147
+Epoch 18/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0146
+Epoch 19/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0136
+Epoch 20/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step - loss: 0.0132
+Epoch 21/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0132
+Epoch 22/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0125
+Epoch 23/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0134
+Epoch 24/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 31ms/step - loss: 0.0118
+Epoch 25/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step - loss: 0.0123
+2026-04-12 12:34:06.988366: E tensorflow/core/framework/node_def_util.cc:680] NodeDef mentions attribute use_unbounded_threadpool which is not in the op definition: Op<name=MapDataset; signature=input_dataset:variant, other_arguments: -> handle:variant; attr=f:func; attr=Targuments:list(type),min=0; attr=output_types:list(type),min=1; attr=output_shapes:list(shape),min=1; attr=use_inter_op_parallelism:bool,default=true; attr=preserve_cardinality:bool,default=false; attr=force_synchronous:bool,default=false; attr=metadata:string,default=""> This may be expected if your graph generating binary is newer  than this binary. Unknown attributes will be ignored. NodeDef: {{node ParallelMapDatasetV2/_14}}
+D:\anaconda3\envs\COS30018\lib\site-packages\keras\src\layers\rnn\rnn.py:199: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+
+================================================================================
+Running experiment: RNN_L3_E25_B64
+================================================================================
+Model: "RNN_3layers"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ simple_rnn (SimpleRNN)               │ (None, 60, 50)              │           2,850 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout (Dropout)                    │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ simple_rnn_1 (SimpleRNN)             │ (None, 60, 50)              │           5,050 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_1 (Dropout)                  │ (None, 60, 50)              │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ simple_rnn_2 (SimpleRNN)             │ (None, 50)                  │           5,050 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dropout_2 (Dropout)                  │ (None, 50)                  │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ dense (Dense)                        │ (None, 8)                   │             408 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 13,358 (52.18 KB)
+ Trainable params: 13,358 (52.18 KB)
+ Non-trainable params: 0 (0.00 B)
+Epoch 1/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 2s 11ms/step - loss: 0.5604
+Epoch 2/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.3211
+Epoch 3/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.2541
+Epoch 4/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.2173
+Epoch 5/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.1940
+Epoch 6/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.1690
+Epoch 7/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.1532
+Epoch 8/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.1279
+Epoch 9/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.1111
+Epoch 10/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.1011
+Epoch 11/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0855
+Epoch 12/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0796
+Epoch 13/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.0679
+Epoch 14/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.0620
+Epoch 15/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0553
+Epoch 16/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0523
+Epoch 17/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.0463
+Epoch 18/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.0431
+Epoch 19/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.0408
+Epoch 20/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0363
+Epoch 21/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0357
+Epoch 22/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 11ms/step - loss: 0.0324
+Epoch 23/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0321
+Epoch 24/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0318
+Epoch 25/25
+14/14 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step - loss: 0.0288
+2026-04-12 12:34:13.984286: E tensorflow/core/framework/node_def_util.cc:680] NodeDef mentions attribute use_unbounded_threadpool which is not in the op definition: Op<name=MapDataset; signature=input_dataset:variant, other_arguments: -> handle:variant; attr=f:func; attr=Targuments:list(type),min=0; attr=output_types:list(type),min=1; attr=output_shapes:list(shape),min=1; attr=use_inter_op_parallelism:bool,default=true; attr=preserve_cardinality:bool,default=false; attr=force_synchronous:bool,default=false; attr=metadata:string,default=""> This may be expected if your graph generating binary is newer  than this binary. Unknown attributes will be ignored. NodeDef: {{node ParallelMapDatasetV2/_14}}
+WARNING:tensorflow:5 out of the last 17 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001E0CCB79360> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+
+Saved results table: outputs_c5\multivariate_multistep\dl_experiments\dl_experiment_results.csv
+   experiment_name model_type  num_layers         units  ...  train_time_sec       mae         mse       rmse
+0   RNN_L3_E25_B64        RNN           3  [50, 50, 50]  ...        6.042248  6.036327   54.066799   7.353013
+1   GRU_L3_E25_B64        GRU           3  [50, 50, 50]  ...       13.839456  7.488853   70.252845   8.381697
+2  LSTM_L3_E25_B64       LSTM           3  [50, 50, 50]  ...       12.437260  9.748980  125.952791  11.222869
+
+[3 rows x 11 columns]
+Saved combined DL comparison graph: outputs_c5\multivariate_multistep\dl_experiments\all_dl_predictions_comparison.png
+
+Best experiment:
+Experiment name: RNN_L3_E25_B64
+Model type: RNN
+MAE: 6.036326810588007
+MSE: 54.06679900427303
+RMSE: 7.353012920175853
+Train time (sec): 6.0422480998095125
+2026-04-12 12:34:32.282001: E tensorflow/core/framework/node_def_util.cc:680] NodeDef mentions attribute use_unbounded_threadpool which is not in the op definition: Op<name=MapDataset; signature=input_dataset:variant, other_arguments: -> handle:variant; attr=f:func; attr=Targuments:list(type),min=0; attr=output_types:list(type),min=1; attr=output_shapes:list(shape),min=1; attr=use_inter_op_parallelism:bool,default=true; attr=preserve_cardinality:bool,default=false; attr=force_synchronous:bool,default=false; attr=metadata:string,default=""> This may be expected if your graph generating binary is newer  than this binary. Unknown attributes will be ignored. NodeDef: {{node ParallelMapDatasetV2/_14}}
+Predicted closing prices for next 8 day(s): [106.3506  105.94601 107.20935 107.76534 105.24723 103.48783 104.81714
+ 106.43204]
